@@ -55,6 +55,37 @@
         </tr>
       </tbody></table>
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <div class="two" id='loss_image'><img src='images/hate_speech.png' width=160></div>
+              <img src='images/hate_speech.png' width=160>
+            </div>
+            <script type="text/javascript">
+              function loss_start() {
+                document.getElementById('loss_image').style.opacity = "1";
+              }
+
+              function loss_stop() {
+                document.getElementById('loss_image').style.opacity = "0";
+              }
+              loss_stop()
+            </script>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+              <papertitle>Logical Fallacy Detection to Defend Against Online Hate Speech</papertitle>
+              <br>
+              <strong>Guide: </strong><a target="_blank" href="https://cse.iitkgp.ac.in/~mainack/">Prof. Mainack Mondal</a>, <a target="_blank" href="http://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a>
+              <br>
+              Feb 2020 - Present
+              <br><br><br>
+              Developing frameworks and models that could predict the typology of ad-hominem fallacies contained in a post
+given the sequence of preceding posts in the thread and decoding the dynamics of fallacies in arguments by reconstructing word weight heat map from the attention matrix
+of the model<br><br><br>
+
+            
+          </td>
+        </tr>
 
         <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
           <td style="padding:20px;width:25%;vertical-align:middle">
@@ -78,13 +109,13 @@
               <br>
               <strong>Guide:</strong> <a target="_blank" href="http://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a>
               <br>
-                <strong>Winter '20</strong>
+              Dec 2020 - Jan 2020
               <br>
               <a target="_blank" href="https://github.com/utkarsh512/ABSA-Bert">GitHub</a>
               <br><br>
               Performed aspect-based sentiment analysis by transforming the task into sentence-pair classification task via 
               constructing <strong>auxiliary sentences</strong> from target-aspect pair. Used pre-trained <strong>BERT</strong> model and fine-tuned it on 
-              SentiHood data set. Achieved aspect F1-score of <strong>0.90</strong> and sentiment AUC of <strong>0.986</strong>.
+              SentiHood data set. Achieved aspect F1-score of <strong>0.90</strong> and sentiment AUC of <strong>0.986</strong>
             
           </td>
         </tr>
@@ -111,7 +142,7 @@
               <br>
               <strong>Guide:</strong> <a target="_blank" href="https://cse.iitkgp.ac.in/~dsamanta/">Prof. Debasis Samanta</a>
               <br>
-                <strong>Autumn '20</strong>
+              Aug 2020 - Dec 2020
               <br>
               <a target="_blank" href="https://github.com/utkarsh512/Autism">GitHub</a>
               <br><br>
@@ -119,7 +150,7 @@
               approach to determine <strong>functional connectivity</strong> between ROIs. Implemented various machine 
               learning classification algorithms to classify subjects as autism (ASD) and typically developing (TD) participants. 
               Achieved test accuracy of <strong>0.68</strong> and <strong>0.65</strong> using <strong>SVM</strong> and 
-              <strong>KNN</strong> classifier respectively.
+              <strong>KNN</strong> classifier respectively
             
           </td>
         </tr>
