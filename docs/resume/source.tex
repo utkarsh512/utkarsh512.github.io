@@ -67,8 +67,8 @@
 
 \newcommand{\resumeSubheadingNewNew}[1]{
   \vspace{-1pt}
-  \item{}
-  \textbf{#1}\\
+  \item
+  \textbf{#1}
   \vspace{-5pt}
 }
 
@@ -87,10 +87,10 @@
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 \newcommand{\chrono}[2]{
-\item
+\item{
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       #1 & \textit{#2}
-    \end{tabular*}
+    \end{tabular*}}
 }
 
 %-------------------------------------------
@@ -103,7 +103,6 @@
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
   {\textbf{{\huge{Utkarsh Patel}}}} & { {\href{https://utkarsh.me}{\textit{https://utkarsh.me/}}}}\\ {C-231, Patel Hall of Residence, IIT Kharagpur, WB - 721 302}& { \href{mailto:utkarshpatel@iitkgp.ac.in}{imutkarshpatel@gmail.com}} \\
 \end{tabular*}
-
 
 %-----------EDUCATION-----------------
 \section{Education}
@@ -119,6 +118,25 @@
       {Shah Faiz Public School}{Ghazipur, India}
       {\textit{All India Secondary School Examination (CBSE); GPA} \href{https://utkarsh512.github.io/docs/acads/Class_10_Marksheet.pdf}{10 / 10}}{\textit{May 2015}}
       \resumeItemListEnd
+  \resumeSubHeadingListEnd
+  
+\section{Achievements}
+  \resumeSubHeadingListStart
+    \resumeSubheadingNewNew
+      {Academic}
+      \begin{itemize}
+          \itemsep-0.15em
+          \item {Holding \textbf{Department Rank 1} among the dual degree students of E\&ECE department}
+          \item {\href{https://utkarsh512.github.io/docs/acads/branch_change.pdf}{\textbf{Changed Department}} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}
+      \end{itemize}
+    \resumeSubheadingNewNew
+      {Google Coding Competitions}
+      \begin{itemize}
+          \itemsep-0.15em
+          \item {\textbf{Kick Start 2021 Round C:} Secured \textbf{Global Rank 70} among around 12.2k contestants}
+          \item {\textbf{Kick Start 2021 Round A:} Secured \textbf{Global Rank 814} among around 20k contestants}
+      \end{itemize}
+
   \resumeSubHeadingListEnd
   
 \section{Key Projects}
@@ -156,15 +174,6 @@
 
   \resumeSubHeadingListEnd
   
-\section{Achievements}
-  \begin{itemize}[leftmargin=*]
-      \itemsep-0.15em
-      \chrono {Holding \textbf{Department Rank 1} among the dual degree students of E\&ECE department}{May 2021}
-      \chrono {Acquired \textbf{Rank 814 (Round A)} in \href{https://utkarsh512.github.io/docs/coding_competitions/kickstart/2021.pdf}{Google Kick Start 2021}}{Mar 2021}
-      %\chrono {\textbf{Peak Rating} of \textbf{2157} on CodeForces and \textbf{2208} on CodeChef}{Feb 2021}
-      \chrono {\href{https://utkarsh512.github.io/docs/acads/branch_change.pdf}{\textbf{Changed Department}} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}{Jul 2019}
-  \end{itemize}
-  
 \section{Technical Skills}
   \resumeSubHeadingListStart
     \resumeSubItem{Programming Languages}
@@ -172,7 +181,7 @@
     \resumeSubItem{Libraries / Frameworks}
       {TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, LIME, BeautifulSoup, NetworkX}
     \resumeSubItem{Softwares / Platform}
-      {MATLAB, Git, \LaTeXe}
+      {MATLAB, Git, \LaTeX}
   \resumeSubHeadingListEnd
 
   
