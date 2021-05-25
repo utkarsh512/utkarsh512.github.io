@@ -42,8 +42,11 @@
 
 %-------------------------
 % Custom commands
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist 
+
 \newcommand{\resumeItem}[2]{
-  \item\small{
+  \item{
     \textbf{#1}{: #2 \vspace{-2pt}}
   }
 }
@@ -120,16 +123,21 @@
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
+\section{Relevant Coursework}
+\begin{changemargin}{0.35cm}{0cm} 
+{Algorithms (T/L), Machine Learning (T), Programming and Data Structures (T/L), Neural Networks (T), \\Probability and Stochastic Processes (T), Matrix Algebra (T), Speech Processing (T/L)}  
+\end{changemargin}
+
 \section{Key Projects}
   \resumeSubHeadingListStart
   
     \resumeSubheading
-      {Logical Fallacy Detection to Defend Against Online Hate Speech}{\textit{Feb 2021 | Present}}
+      {Logical Fallacy Detection to Defend against Online Hate Speech}{\textit{Feb 2021 | Present}}
       {\textit{Guide | \href{https://cse.iitkgp.ac.in/~mainack/}{Prof. Mainack Mondal} and \href{https://cse.iitkgp.ac.in/~animeshm/}{Prof. Animesh Mukherjee}}}{\textit{Natural Language Processing}}
       \begin{itemize}
           \itemsep-0.15em
           \item {Created a Corpus of posts related to Politics from online debate portals and social media using Web Scraping libraries like urllib, scrapy, BeautifulSoup, etc.}
-          \item {Implemented a Semi-Supervised GAN based learning for robust identification of hate speech}
+          \item {Implemented a Semi-Supervised GAN based learning for Robust Identification of Hate Speech}
           \item {Used BERT as the Discriminator of the GAN; our model outperforms the classical BERT when both are fine-tuned on a small batch (less than 20\%) of labeled examples}
       \end{itemize}
   
@@ -138,9 +146,9 @@
       {\textit{Self Project}}{\textit{Natural Language Processing}}
       \begin{itemize}
           \itemsep-0.15em
-          \item {Performed aspect-based sentiment analysis by transforming the task into sentence-pair classification task via constructing auxiliary sentences from target-aspect pairs}
+          \item {Performed Aspect-based Sentiment Analysis by transforming the task into Sentence-pair Classification task via constructing auxiliary sentences from target-aspect pairs}
           \item {Used pre-trained BERT model and fine-tuned it on SentiHood data set}
-          \item {Achieved aspect F1-score of 0.90 and sentiment AUC of 0.986}
+          \item {Achieved Aspect F1-score of 0.90 and Sentiment AUC of 0.986}
       \end{itemize}
     
     \resumeSubheading
@@ -168,12 +176,12 @@
       {Google Coding Competitions}
       \begin{itemize}
           \itemsep-0.15em
-          \item {\textbf{Kick Start 2021 Round C:} Secured \textbf{Global Rank 70} among around 12k contestants}
-          \item {\textbf{Kick Start 2021 Round A:} Secured \textbf{Global Rank 814} among around 20k contestants}
+          \item {\textbf{Kick Start 2021 Round C}: Global Rank \textbf{70} among around 12k contestants}
+          \item {\textbf{Kick Start 2021 Round A}: Global Rank \textbf{814} among around 20k contestants}
       \end{itemize}
 
   \resumeSubHeadingListEnd 
-
+  
 \section{Technical Skills}
   \resumeSubHeadingListStart
     \resumeSubItem{Programming Languages}
@@ -183,15 +191,5 @@
     \resumeSubItem{Softwares / Platform}
       {MATLAB, Git, \LaTeX}
   \resumeSubHeadingListEnd
-
-  
- \section{Relevant Coursework}
-  \resumeSubHeadingListStart
-    \resumeSubItem{Completed with Laboratory Component}
-      {Algorithms, Programming and Data Structures, Digital Signal Processing, Communication Systems}
-    \resumeSubItem{Completed}
-      {Machine Learning, Probability and Stochastic Processes, Matrix Algebra, Speech Processing, Control Theory}
-  \resumeSubHeadingListEnd
-  
 
 \end{document}
