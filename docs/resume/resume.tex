@@ -19,6 +19,7 @@
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
 \fancyfoot{}
+%\renewcommand{\labelitemii}{$\cdot$}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
@@ -113,7 +114,7 @@
 
     \resumeSubheadingNew
       {Indian Institute of Technology Kharagpur}{Kharagpur, India}
-      {\textit{Bachelor and Master of Technology (Dual Degree);  GPA} \href{https://utkarsh512.github.io/docs/acads/transcript.pdf}{9.47 / 10}}{\textit{Jul 2018 - May 2023 (Expected)}}{\textit{Major: Electronics \& Electrical Communication Engineering; Minor: Computer Science}}{}
+      {\textit{Bachelor and Master of Technology (Dual Degree);  GPA} \href{https://utkarsh512.github.io/docs/acads/transcript.pdf}{9.47 / 10}}{\textit{May 2023 (Expected)}}{\textit{Major: Electronics \& Electrical Communication Engineering; Minor: Computer Science}}{}
     \resumeSubheading
       {Shah Faiz Public School}{Ghazipur, India}
       {\textit{All India Senior School Certificate Examination (CBSE); Marks} \href{https://utkarsh512.github.io/docs/acads/Class_12_Marksheet.pdf}{94.8\%}}{\textit{May 2017}}
@@ -123,33 +124,40 @@
       \resumeItemListEnd
   \resumeSubHeadingListEnd
   
-\section{Achievements}
-  \begin{itemize}[leftmargin=*]
-  \itemsep-0.15em
-      \chrono{\textbf{Department Rank 1} among the dual degree students of E\&ECE department}{Jun 2021}
-      \chrono{\textbf{Global Rank 70} among around 12k contestants in \textbf{Google Kick Start 2021 Round C}}{May 2021}
-      \chrono{\textbf{Department Change} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}{Jul 2019}
-  \end{itemize}
+\section{Internship}
+  \resumeSubHeadingListStart
+  
+    \resumeSubheading
+      {Microsoft Corporation}{Hyderabad, India}
+      {\textit{Engage Mentorship Programme}}{\textit{Jun 2021 | July 2021}}
+      \begin{itemize}[leftmargin=*]
+          \itemsep-0.15em
+          \item {Created a Corpus of posts related to Politics from online debate portals using BeautifulSoup}
+          \item {Implemented a Semi-Supervised GAN based learning in PyTorch and used BERT as the Discriminator}
+          \item {The model outperforms the classical BERT when both are fine-tuned on a small batch of labeled examples}
+      \end{itemize}
 
-\section{Key Projects}
+  \resumeSubHeadingListEnd
+
+\section{Projects}
   \resumeSubHeadingListStart
   
     \resumeSubheading
       {Logical Fallacy Detection to Defend against Online Hate Speech}{\textit{Feb 2021 | Present}}
       {\textit{Guide | \href{https://cse.iitkgp.ac.in/~mainack/}{Prof. Mainack Mondal} and \href{https://cse.iitkgp.ac.in/~animeshm/}{Prof. Animesh Mukherjee}}}{\textit{Natural Language Processing}}
-      \begin{itemize}
+      \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
-          \item {Created a Corpus of posts related to Politics from online debate portals and social media using Web Scraping libraries like urllib, scrapy, BeautifulSoup, etc.}
-          \item {Implemented a Semi-Supervised GAN based learning for Robust Identification of Hate Speech in PyTorch}
-          \item {Used BERT as the Discriminator of the GAN; our model outperforms the classical BERT when both are fine-tuned on a small batch (less than 20\%) of labeled examples}
+          \item {Created a Corpus of posts related to Politics from online debate portals using BeautifulSoup}
+          \item {Implemented a Semi-Supervised GAN based learning in PyTorch and used BERT as the Discriminator}
+          \item {The model outperforms the classical BERT when both are fine-tuned on a small batch of labeled examples}
       \end{itemize}
   
     \resumeSubheading
       {Targeted Aspect-based Sentiment Analysis \href{https://github.com/utkarsh512/ABSA-Bert}{\faGithub}}{\textit{Dec 2020 | Jan 2021}}
       {\textit{Self Project}}{\textit{Natural Language Processing}}
-      \begin{itemize}
+      \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
-          \item {Performed Aspect-based Sentiment Analysis by transforming the task into Sentence-pair Classification task via constructing auxiliary sentences from target-aspect pairs}
+          \item {Transformed the task into Sentence-pair classification by constructing Auxiliary Sentences from Target-Aspect pairs}
           \item {Used pre-trained BERT model and fine-tuned it on SentiHood data set}
           \item {Achieved Aspect F1-score of 0.90 and Sentiment AUC of 0.986}
       \end{itemize}
@@ -157,11 +165,11 @@
     \resumeSubheading
       {Identification of Autism Spectrum Disorder \href{https://github.com/utkarsh512/Autism}{\faGithub}}{\textit{{Aug 2020 | Dec 2020}}}
       {\textit{Guide | \href{https://cse.iitkgp.ac.in/~dsamanta/}{Prof. Debasis Samanta}}}{\textit{Machine Learning}}
-      \begin{itemize}
+      \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
-          \item {Worked on the ABIDE data set to extract and process resting state functional MRI data}
-          \item {Used correlation-based approach to determine functional connectivity between ROIs}
-          \item {Implemented various machine learning models to classify subjects as autism (ASD) patients and typically developing (TD) participants; achieved test accuracy of 0.68 and 0.65 using SVM and KNN classifier respectively}
+          \item {Worked on the ABIDE data set to extract and process Resting-state Functional MRI data}
+          \item {Used Correlation-based approach to determine Functional Connectivity between ROIs}
+          \item {Achieved test accuracy of 0.68 and 0.65 using SVM and KNN classifier respectively}
       \end{itemize}
 
   \resumeSubHeadingListEnd
@@ -181,11 +189,12 @@
 {Algorithms (T/L), Programming and Data Structures (T/L), Machine Learning (T), Neural Networks (T), \\Probability and Stochastic Processes (T), Matrix Algebra (T), Speech Processing (T/L)}  
 \end{changemargin}
 
-\section{Extracurriculars}
+\section{Achievements}
   \begin{itemize}[leftmargin=*]
   \itemsep-0.15em
-      \chrono{Embedded Team Member, Hardware Modelling at Patel Hall, IIT Kharagpur}{2020}
-      \chrono{Participated in the Dramatics General Championship being part of Patel Hall's Choreography Team}{2019}
+      \chrono{\textbf{Department Rank 1} among the Dual Degree students of E\&ECE department}{Jun 2021}
+      \chrono{\textbf{Global Rank 70} among around 12,200 contestants in \textbf{Google Kick Start 2021 Round C}}{May 2021}
+      \chrono{\textbf{Department Change} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}{Jul 2019}
   \end{itemize}
 
 \end{document}
