@@ -60,6 +60,14 @@
     \end{tabular*}\vspace{-5pt}
 }
 
+\newcommand{\resumeSubheadingResearch}[5]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      {\textbf{#1} {#2}} & #3 \\
+      \small#4 & \small#5\\
+    \end{tabular*}\vspace{-5pt}
+}
+
 \newcommand{\resumeSubheadingTwo}[2]{
   \vspace{-1pt}\item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
@@ -113,8 +121,7 @@
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
   {\textbf{{\huge{Utkarsh Patel}}}} & {
-  {\href{https://github.com/utkarsh512}{{\faGithub}{/utkarsh512}}}
-  {\href{https://www.linkedin.com/in/utkarshiitkgp/}{ {\faLinkedinSquare}{/utkarshiitkgp}}}}\\ {C-231, Patel Hall of Residence, IIT Kharagpur, WB - 721 302}& { \href{mailto:imutkarshpatel@gmail.com}{imutkarshpatel@gmail.com}}\\
+  {\href{https://github.com/utkarsh512}{{\faGithub}{/utkarsh512}}}}\\ {C-231, Patel Hall of Residence, IIT Kharagpur, WB - 721 302}& { \href{mailto:imutkarshpatel@gmail.com}{imutkarshpatel@gmail.com}}\\
 \end{tabular*}
 
 %-----------EDUCATION-----------------
@@ -133,43 +140,24 @@
       \resumeItemListEnd
   \resumeSubHeadingListEnd
   
-\section{Achievements}
-  \begin{itemize}[leftmargin=*]
-  \itemsep-0.15em
-      \chrono{\textbf{Department Rank 1} among the Dual Degree students of E\&ECE department}{2021}
-      \chrono{\href{https://utkarsh512.github.io/docs/coding_competitions/kickstart/2021.pdf}{\textbf{Global Rank 70}} among around 12,200 contestants in \textbf{Google Kick Start 2021 (Round C)}}{2021}
-      \chrono{\href{https://utkarsh512.github.io/docs/acads/branch_change.pdf}{\textbf{Department Change}} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}{2019}
-  \end{itemize}
-  
-\section{Experience}
+\section{Work Experience}
   \resumeSubHeadingListStart
-  
-    \resumeSubheading
-      {Microsoft}{Hyderabad, India}
-      {\textit{Microsoft Engage Mentee}}{\textit{Jun 2021 | Jul 2021}}
+      \resumeSubheadingResearch
+      {\href{https://cse.iitkgp.ac.in/resgrp/cnerg/}{Complex Networks Research Group}}{\textit{NLP Researcher}}{IIT Kharagpur}
+      {\textit{Mentors: \href{https://cse.iitkgp.ac.in/~mainack/}{Prof. Mainack Mondal} and \href{https://cse.iitkgp.ac.in/~animeshm/}{Prof. Animesh Mukherjee}}}{\textit{Feb 2021 | Present}}
       \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
           \item {Created a Corpus of posts related to Politics from online debate portals using \textbf{BeautifulSoup}}
           \item {Implemented a \textbf{Semi-Supervised GAN} based learning in \textbf{PyTorch} and used \textbf{BERT} as the \textbf{Discriminator}}
-          \item {The model outperforms the classical BERT when both are fine-tuned on a small batch of labelled examples}
-      \end{itemize}
-      
-      \resumeSubheading
-      {Complex Networks Research Group}{IIT Kharagpur}
-      {\textit{NLP Researcher} \mid \textit{Mentors: \href{https://cse.iitkgp.ac.in/~mainack/}{Prof. Mainack Mondal} and \href{https://cse.iitkgp.ac.in/~animeshm/}{Prof. Animesh Mukherjee}}}{\textit{Feb 2021 | Present}}
-      \begin{itemize}[leftmargin=*]
-          \itemsep-0.15em
-          \item {Created a Corpus of posts related to Politics from online debate portals using \textbf{BeautifulSoup}}
-          \item {Implemented a \textbf{Semi-Supervised GAN} based learning in \textbf{PyTorch} and used \textbf{BERT} as the \textbf{Discriminator}}
-          \item {The model outperforms the classical BERT when both are fine-tuned on a small batch of labelled examples}
+          \item {The model outperforms the classical BERT for the datasets having significantly less number of labeled examples}
       \end{itemize}
     
-    \resumeSubheading
-      {Brain Computer Interface Research Lab}{IIT Kharagpur}
-      {\textit{ML Researcher} \mid \textit{Mentor: \href{https://cse.iitkgp.ac.in/~dsamanta/}{Prof. Debasis Samanta}}}{\textit{Aug 2020 | Dec 2020}}
+    \resumeSubheadingResearch
+      {\href{https://cse.iitkgp.ac.in/~dsamanta/workspace/index.html}{Brain Computer Interface Research Lab}}{\textit{ML Researcher} \href{https://github.com/utkarsh512/Autism}{\faGithub}}{IIT Kharagpur}
+      {\textit{Mentor: \href{https://cse.iitkgp.ac.in/~dsamanta/}{Prof. Debasis Samanta}}}{\textit{Aug 2020 | Dec 2020}}
       \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
-          \item {Worked on the \textbf{ABIDE} data set to extract and process \textbf{Resting-state Functional MRI} data}
+          \item {Worked on the \textbf{ABIDE} dataset to extract and process \textbf{Resting-state Functional MRI} data}
           \item {Used \textbf{Correlation} based approach to determine \textbf{Functional Connectivity} between \textbf{ROIs}}
           \item {Achieved test accuracy of 0.68 and 0.65 using \textbf{SVM} and \textbf{KNN} classifier respectively}
       \end{itemize}
@@ -183,8 +171,8 @@
       {Targeted Aspect-based Sentiment Analysis \href{https://github.com/utkarsh512/ABSA-Bert}{\faGithub}}{\textit{Dec 2020 - Jan 2021}}
       \begin{itemize}[leftmargin=*]
           \itemsep-0.15em
-          \item {Transformed the task into Sentence-pair classification by constructing Auxiliary Sentences from Target-Aspect pairs}
-          \item {Used pre-trained BERT model and fine-tuned it on SentiHood data set}
+          \item {Transformed the task into Sentence-pair classification by constructing \textbf{Auxiliary Sentences} from Target-Aspect pairs}
+          \item {Fine-tuned \textbf{BERT} on the transformed \textbf{SentiHood} dataset in \textbf{PyTorch}}
           \item {Achieved Aspect F1-score of 0.90 and Sentiment AUC of 0.986}
       \end{itemize}
 
@@ -194,11 +182,19 @@
   \resumeSubHeadingListStart
     \resumeSubItem{Programming Languages}
       {C++ (Proficient), Python (Proficient), JavaScript}
-    \resumeSubItem{Frameworks}
+    \resumeSubItem{Libraries \& Tools}
       {NodeJS, React, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, BeautifulSoup, Git, \LaTeX}
   \resumeSubHeadingListEnd
   
 \section{Relevant Coursework}
 {Algorithms (T/L), Programming and Data Structures (T/L), Machine Learning (T), Neural Networks (T), \\Probability and Stochastic Processes (T), Matrix Algebra (T), Speech Processing (T/L)}
+
+\section{Achievements}
+  \begin{itemize}[leftmargin=*]
+  \itemsep-0.15em
+      \chrono{\textbf{Department Rank 1} among the Dual Degree students of E\&ECE department}{2021}
+      \chrono{\href{https://utkarsh512.github.io/docs/coding_competitions/kickstart/2021.pdf}{\textbf{Global Rank 70}} among around 12,200 contestants in \textbf{Google Kick Start 2021 (Round C)}}{2021}
+      \chrono{\href{https://utkarsh512.github.io/docs/acads/branch_change.pdf}{\textbf{Department Change}} to E\&ECE by acquiring \textbf{9.69 CGPA} in the first year}{2019}
+  \end{itemize}
 
 \end{document}
