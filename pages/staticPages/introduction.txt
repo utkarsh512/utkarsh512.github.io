@@ -1,0 +1,51 @@
+We are a team of researchers from Indian Institute of Technology, Kharagpur, working on understanding triggers and dynamics of ad-hominem fallacy on online social media.
+
+Ad-hominem (Latin for "to the person") refers to the strategy of attacking the opponent and some feature of opponent’s character instead of counter-arguments. 
+
+
+TASK
+
+In this task, you will be shown 20 comments, one comment per page. For each comment, you will be asked whether the given comment triggers ad-hominem fallacy or not. Each comment is provided with an URL of the post it is part of. Please go through the post for better understanding of the comment.
+
+If you think the given comment is fallacious, please write down some keywords present in the comment which are acting as triggers to the ad-hominem fallacy. Please note that the keywords must be separated by comma.
+
+For example, 
+
+Example 1.
+
+"We cannot approve of this recycling idea. It was thought of by a bunch of hippie communist weirdos."
+
+This comment is ad-hominem because instead of good counter-arguments, the speaker is attacking a group of people as an excuse to not using the recycling idea. Possible keywords are: communist, hippie, weirdos.
+
+Example 2.
+
+"Hey, Professor Moore, we shouldn't have to read this book by Freud. Everyone knows he used to do cocaine."
+
+This comment is ad-hominem as well. This is because the student is targeting the background of the author as an excuse for not using his book for the lecture which is not a good counter-argument. Possible keyword is: cocaine.
+
+Example 3.
+
+"I feel that mask-wearing has nothing to do with politics but everything to do with trying to control a deadly and highly infectious disease. We mustn't become complacent or even cavalier about coronavirus as it remains a significant threat to all age groups."
+
+This comment is not ad-hominem, as it is not targeting a group of people and has a very good counter-argumentative structure. No keywords needed in this case.
+
+Example 4.
+
+"Democrats are great at creating a problem then claiming that only they can fix it. They can't fix it. In fact, I think they and China intentionally unleashed it to gain more centralized power."
+
+This comment is ad-hominem as well as it lacks a proper counter-argument. Possible keywords are: democrats, china, problems.
+
+Example 5.
+
+Argument 1:  "Truly..  I do not WANT foreign city dwellers to cross over into my city..  They bring disease, bad morals and I really don't like their color.. Why aren't my city limits the same as our nations border?"
+
+Argument 2: "Not illegally. So if you are on probation, or on the registry or banished from Ohio you should obey the law and respect borders. Also, if you want to go into some other country, they are gonna have border laws that you should follow."
+
+Argument 1 is an ad-hominem comment as the speaker is attacking a group of people with no proper argumentative structure. Possible keywords are: disease, foreign, color, dweller.
+
+However, argument 2 is not ad-hominem as it has a very good argumentative structure with proper logic.
+
+
+After answering the question for the comment on the given page, you need to click on the "Next" button at the bottom of the page to proceed to the next page. Once you finish all the 20 comments, please click the "Submit" button to get the link to take you back to Prolific and complete your survey task.
+
+You should give your honest judgement about the comments (and not by random guessing) to help our study and successfully complete this task.
