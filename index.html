@@ -23,14 +23,11 @@
               <p style="text-align:center">
                 <name>Utkarsh Patel</name>
               </p>
-              <p>I am currently a prefinal year student at the <strong>IIT Kharagpur</strong>, 
-                pursuing a Dual Degree in Electronics and Electrical Communication Engineering with a minor in Computer Science and Engineering.
+              <p>I am currently an undergrad studentat the <strong>IIT Kharagpur</strong>, 
+                pursuing Bachelors and Masters in Electronics and Electrical Communication Engineering with a minor in Computer Science and Engineering.
               </p>
               <p>
                 I love doing research in the field of NLP and enjoy doing competitive programming and learning new algorithms and data structures. 
-              </p>
-              <p>
-                Shoot me an email if you got any cool idea and wish to collaborate!
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="mailto:imutkarshpatel@gmail.com">Email</a> &nbsp/&nbsp
@@ -49,7 +46,7 @@
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
         <tr>
           <td style="padding:20px;width:100%;vertical-align:middle">
-            <heading>Research Projects</heading>
+            <heading>Research Experience</heading>
           </td>
         </tr>
       </tbody></table>
@@ -72,17 +69,19 @@
             </script>
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle">
-              <papertitle>Hate Speech Detection</papertitle>
+              <papertitle>Ad hominem Fallacies in the Wild</papertitle>
               <br>
-              <strong>Guide: </strong><a target="_blank" href="https://cse.iitkgp.ac.in/~mainack/">Prof. Mainack Mondal</a>, <a target="_blank" href="http://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a>
+              <strong>Guides: </strong><a target="_blank" href="https://cse.iitkgp.ac.in/~mainack/">Prof. Mainack Mondal</a> and <a target="_blank" href="http://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a>
               <br>
               Feb 2021 - Present
+              <br>
+              <p style="text-align:center">
+                <a target="_blank" href="https://github.com/utkarsh512/hatespeech">GitHub</a> &nbsp/&nbsp
+                <a target="_blank" href="docs/thesis/btp1.pdf">Thesis</a> &nbsp/&nbsp
+                <a target="_blank" href="https://drive.google.com/file/d/1TlC1H-skri7IpU9Zst81NOCT9EYxFA_v/view?usp=sharing">Video Presentation</a> 
+              </p>
               <br><br>
-              Building <strong>Support</strong> and <strong>Dispute</strong> networks from corpus of posts related to Politics to identify the key users, communities and ideologies 
-              on the online portals; implementing a <strong>Semi-Supervised GAN</strong> based transformer model for logical fallacy detection 
-
-
-            
+              Explainable models for detecting ad hominem fallacies and providing linguistic insight into their triggers, achieving state-of-the-art results on sparsely annotated datasets using <strong>SS-GAN</strong> schema applied over <strong>BERT</strong> and performing network studies on the users to understand user dynamics in debate portals and social media sites.            
           </td>
         </tr>
 
@@ -112,20 +111,99 @@
               <br>
               <a target="_blank" href="https://github.com/utkarsh512/Autism">GitHub</a>
               <br><br>
-              Implemented a correlation-based approach to determine <strong>Functional Connectivity</strong> between region of interests (ROIs); used various machine learning models to classify users as Autistic or not from the connectivity matrices 
+              Implemented a correlation-based approach to determine <strong>Functional Connectivity</strong> between region of interests (ROIs); used various machine learning models to classify users as Autistic or not from the connectivity matrices.
             
           </td>
         </tr>
+
       </tbody></table>
 
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
         <tr>
           <td style="padding:20px;width:100%;vertical-align:middle">
-            <heading>Other Projects</heading>
+            <heading>Projects</heading>
           </td>
         </tr>
       </tbody></table>
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <div class="two" id='loss_image'><img src='images/jarvis.jpg' width=160></div>
+              <img src='images/jarvis.jpg' width=160>
+            </div>
+            <script type="text/javascript">
+              function loss_start() {
+                document.getElementById('loss_image').style.opacity = "1";
+              }
+
+              function loss_stop() {
+                document.getElementById('loss_image').style.opacity = "0";
+              }
+              loss_stop()
+            </script>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+              <papertitle>Jarvis</papertitle>
+              <br>
+              <a target="_blank" href="https://github.com/utkarsh512/jarvis">GitHub</a>
+              <br><br>
+               <strong>Seq2Seq</strong> architecture based chatbot with <strong>Luong</strong> attention mechanism in <strong>PyTorch</strong>, trained on <strong>Customer Support on Twitter</strong> dataset with teacher forcing and gradient clipping.
+          </td>
+        </tr>
+
+        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <div class="two" id='loss_image'><img src='images/auth.png' width=160></div>
+              <img src='images/auth.png' width=160>
+            </div>
+            <script type="text/javascript">
+              function loss_start() {
+                document.getElementById('loss_image').style.opacity = "1";
+              }
+
+              function loss_stop() {
+                document.getElementById('loss_image').style.opacity = "0";
+              }
+              loss_stop()
+            </script>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+              <papertitle>User Authentication using Keystroke Dynamics</papertitle>
+              <br>
+              <a target="_blank" href="https://github.com/utkarsh512/User-Authentication-using-Keystroke-Dynamics">GitHub</a>
+              <br><br>
+               Neural Network to authenticate users using keystroke dynamics of their mood data with hold time and latency values for different keys as feature vectors for classification
+          </td>
+        </tr>
+
+        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
+          <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+              <div class="two" id='loss_image'><img src='images/scraper.png' width=160></div>
+              <img src='images/scraper.png' width=160>
+            </div>
+            <script type="text/javascript">
+              function loss_start() {
+                document.getElementById('loss_image').style.opacity = "1";
+              }
+
+              function loss_stop() {
+                document.getElementById('loss_image').style.opacity = "0";
+              }
+              loss_stop()
+            </script>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle">
+              <papertitle>CreateDebate Scraper</papertitle>
+              <br>
+              <a target="_blank" href="https://github.com/utkarsh512/CreateDebate-Scraper">GitHub</a>
+              <br><br>
+              Web crawler to scrape all the debates from <a target="_blank" href="http://www.createdebate.com">CreateDebate</a> using <strong>requests</strong> and <strong>BeautifulSoup</strong>, using <strong>NetworkX</strong> to construct graphs representing the nested structure of the comments in the threads.
+          </td>
+        </tr>
 
         <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
           <td style="padding:20px;width:25%;vertical-align:middle">
@@ -149,104 +227,11 @@
               <br>
               <a target="_blank" href="https://github.com/utkarsh512/ABSA-Bert">GitHub</a>
               <br><br>
-              Performed aspect-based sentiment analysis by transforming the task into sentence-pair classification task via 
-              constructing <strong>auxiliary sentences</strong> from target-aspect pair
-            
+              Transformed the task into sentence-pair classification by constructing auxiliary sentences from target-aspect pairs
           </td>
         </tr>
 
-
-        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <div class="one">
-              <div class="two" id='loss_image'><img src='images/scraper.png' width=160></div>
-              <img src='images/scraper.png' width=160>
-            </div>
-            <script type="text/javascript">
-              function loss_start() {
-                document.getElementById('loss_image').style.opacity = "1";
-              }
-
-              function loss_stop() {
-                document.getElementById('loss_image').style.opacity = "0";
-              }
-              loss_stop()
-            </script>
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
-              <papertitle>CreateDebate Scraper API</papertitle>
-              <br>
-              <a target="_blank" href="https://github.com/utkarsh512/CreateDebate-Scraper">GitHub</a>
-              <br><br>
-              A Python API capable of scraping the entire <strong>CreateDebate</strong> posts related to a given topic. 
-              Scraping is done using <strong>BeautifulSoup</strong>.
-          </td>
-        </tr>
-
-        <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <div class="one">
-              <div class="two" id='loss_image'><img src='images/ganbert.png' width=160></div>
-              <img src='images/ganbert.png' width=160>
-            </div>
-            <script type="text/javascript">
-              function loss_start() {
-                document.getElementById('loss_image').style.opacity = "1";
-              }
-
-              function loss_stop() {
-                document.getElementById('loss_image').style.opacity = "0";
-              }
-              loss_stop()
-            </script>
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
-              <papertitle>GAN-BERT</papertitle>
-              <br>
-              <a target="_blank" href="https://github.com/utkarsh512/ganbert">GitHub</a>
-              <br><br>
-              Upgraded version of the <a target="_blank" href="https://github.com/crux82/ganbert">original project</a> that 
-              allows instance visualization using <strong>LIME</strong> for model interpretability.
-            
-          </td>
-        </tr>
       </tbody></table>
-
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-        <tr>
-          <td style="padding:20px;width:100%;vertical-align:middle;">
-            <heading>Achievements</heading>
-          </td>
-        </tr>
-      </tbody></table>
-
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr onmouseout="loss_stop()" onmouseover="loss_start()" bgcolor="#ffffff">
-          <td style="padding:20px;width:25%;vertical-align:middle">
-            <div class="one">
-              <div class="two" id='loss_image'><img src='images/awards.png' width=160></div>
-              <img src='images/awards.png' width=160>
-            </div>
-            <script type="text/javascript">
-              function loss_start() {
-                document.getElementById('loss_image').style.opacity = "1";
-              }
-
-              function loss_stop() {
-                document.getElementById('loss_image').style.opacity = "0";
-              }
-              loss_stop()
-            </script>
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle">
-            <p>
-              <strong>Department Rank 1</strong> among the Dual Degree students of E&ECE Dept., IIT Kharagpur<br><br>
-              <strong>Global Rank 70</strong> in <strong>Google Kick Start 2021 (Round C)</strong>
-            </p>
-          </td>
-        </tr>
-        </tbody></table>
-
       </td>
     </tr>
   </tbody></table>
