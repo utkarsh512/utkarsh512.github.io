@@ -1,0 +1,155 @@
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\usepackage{standalone}
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\usepackage{multicol}
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage[hyperref]{}
+\usepackage{fontawesome}
+\usepackage{ amssymb }
+\usepackage[scale=0.9]{geometry} 
+\usepackage{bibentry}
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Utkarsh} % Your first name
+\familyname{Patel} % Your last name
+
+%\address {Jaymala Nagar,Lane No-3,}{Old Sangvi, Pune- 411027}
+%\mobile{+91-$\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare$-$\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare$ }
+\mobile{+91-95476-21111}
+\email {imutkarshpatel@gmail.com}
+\begin{document}
+
+\makecvtitle % Print the CV title
+%-----------------------------------------------------
+%	EDUCATION SECTION
+%-----------------------------------------------------
+\section{Education}
+
+\cventry{May 2023}{Indian Institute of Technology Kharagpur}{Kharagpur, India}{\newline BTech and MTech in Electronics and Electrical Communication Engineering | CGPA 9.47/10}{\newline Minor in Computer Science and Engineering}{} 
+
+
+% \cventry{May 2017}{Shah Faiz Public School}{Ghazipur, India}{\newline \small{All India Senior School Certificate Examination | Aggregate 94.8\%}}{}{} 
+
+% \cventry{May 2015}{Shah Faiz Public School}{Ghazipur, India}{\newline \small{All India Secondary School Examination | CGPA 10/10}}{}{}
+
+\section{Work Experience}
+
+\cventry{May 2022 -- Jul 2022}{Software Engineer Intern}{\textsc{The D. E. Shaw Group}}{{\small \textit{Hyderabad, India}}}{}{
+\begin{itemize}
+\item Worked in the Front Office R\&D Tech division on firm's \textbf{core analytical engine} for discretionary strategies
+\item Proposed and implemented an \textbf{end-to-end} feature to support searching, filtering and on-the-fly vectorized computation of complex symbolic expressions over cached time-series data for different instrument attributes
+\item Created optimized \textbf{RESTful APIs} for exposing backend functionality to \textbf{Tableau} web data connector, allowing traders to analyze custom time-series in Tableau server
+\end{itemize}}
+
+\section{Publications}
+
+\cventry{2023}{}{}{\textbf{Utkarsh Patel}, Animesh Mukherjee, Mainack Mondal. ``Dummy Grandpa, do you know anything?'': Identifying and Characterizing Ad hominem Fallacy Usage in the Wild.}{\newline \small In \textit{Proceedings of the 17\textsuperscript{th} International AAAI Conference on Weblogs and Social Media (ICWSM '23).}}{}
+
+
+
+
+
+
+
+\section{Research Experience}
+
+\cventry{Feb 2021 -- Ongoing}{Ad hominem Fallacies in the Wild \href{https://github.com/utkarsh512/adhominem}{\faGithub}}{}{\small{| \textit{Guides: Prof. Mainack Mondal and Prof. Animesh Mukherjee}}}{}{
+\begin{itemize}
+\item Implemented explainable models to detect \textbf{ad hominem} fallacies and provide linguistic insight into their triggers
+\item Achieved state-of-the-art results on sparsely annotated datasets using \textbf{SS-GAN} schema applied over \textbf{BERT}
+\item Performed network studies on the users to understand user dynamics in debate portals and social media sites
+\item Validated our in-the-wild predictions by performing crowdsourced surveys, achieving macro-F1 up to \textbf{0.94}
+\end{itemize}}
+
+\cventry{Aug 2020 -- Dec 2020}{Detection of Autism Spectrum Disorder \href{https://github.com/utkarsh512/Autism}{\faGithub}}{}{\small{| \textit{Guide: Prof. Debasis Samanta}}}{}{
+\begin{itemize}
+\item Worked on the \textbf{ABIDE} dataset to extract and process resting-state functional MRI data using \textbf{nilearn} 
+\item  Used correlation-based approach to determine functional connectivity between regions of interest
+\item Achieved test accuracy of \textbf{0.68} and \textbf{0.65} using \textbf{Support Vector Machines} and \textbf{K-Nearest Neighbors}
+\end{itemize}}
+
+
+
+
+
+\section{Achievements}
+\cvitem{2022}{\textbf{Department Rank 1} among the Dual Degree (VIPES) students of the Department of E\&ECE}
+\cvitem{2021}{Secured \textbf{Global Rank 70} among 12,000+ contestants in \textbf{Google Kick Start} (Round C)}
+\cvitem{2021}{Qualified for Round 2 of \textbf{Facebook Hacker Cup}}
+% \cvitem{2019}{Secured \textbf{department change} to E\&ECE by acquiring \textbf{9.69} CGPA at the end of the first year}
+
+
+
+
+\section{Projects}
+
+\cventry{Spring 2022}{Defog: Single Image Defogging by Multiscale Depth Fusion \href{https://github.com/utkarsh512/defog}{\faGithub}}{}{\small{| \textit{Computer Vision}}}{}{
+\begin{itemize}
+\item Implemented inhomogeneous \textbf{Laplacian–Markov} random field regularized with smoothing and edge-preservation
+\item Used \textbf{max-flow min-cut} algorithm for energy minimization with \textbf{alpha-beta swap} for depth map estimation
+\end{itemize}}
+
+\cventry{Winter 2021}{Facebook Scraper \href{https://github.com/utkarsh512/fbscraper}{\faGithub}}{}{\small{| \textit{Web Scraping}}}{}{
+\begin{itemize}
+\item Developed a web crawler to scrape posts, comments and replies from public Facebook pages
+\item Used \textbf{selenium} to automate the browsing and \textbf{Beautiful Soup} for parsing the page source
+\end{itemize}}
+
+\cventry{Fall 2021}{Jarvis: Chatbot for Customer Support \href{https://github.com/utkarsh512/jarvis}{\faGithub}}{}{\small{| \textit{Natural Language Processing}}}{}{
+\begin{itemize}
+\item Implemented a \textbf{Seq2Seq} architecture based chatbot with \textbf{Luong} attention mechanism in \textbf{PyTorch}
+\item Trained the model on \textbf{Customer Support on Twitter} dataset with \textbf{teacher forcing} and \textbf{gradient clipping}
+\end{itemize}}
+
+% \cventry{Fall 2021}{User Authentication using Keystroke Dynamics \href{https://github.com/utkarsh512/User-Authentication-using-Keystroke-Dynamics}{\faGithub}}{}{\small{| \textit{Machine Learning}}}{}{
+% \begin{itemize}
+% \item Implemented an \textbf{Artificial Neural Network} to authenticate users using keystroke dynamics of their mood data 
+% \item Extracted hold time and latency values for different keys and used them as feature vectors for classification
+% \end{itemize}}
+
+% \cventry{Spring 2021}{Create-Debate Scraper \href{https://github.com/utkarsh512/CreateDebateScraper}{\faGithub}}{}{\small{| \textit{Web Scraping}}}{}{
+% \begin{itemize}
+% \item Developed a web crawler to scrape all the debates from CreateDebate.com using \textbf{Beautiful Soup} 
+% \item Used \textbf{NetworkX} to construct graphs representing the nested structure of the comments in the threads
+% \end{itemize}}
+
+% \cventry{Winter 2020}{Targeted Aspect-based Sentiment Analysis \href{https://github.com/utkarsh512/ABSA-Bert}{\faGithub}}{}{\small{| \textit{Natural Language Processing}}}{}{
+% \begin{itemize}
+% \item Transformed the task to sentence-pair classification by constructing auxiliary sentences from target-aspect pairs
+% \item Fine-tuned \textbf{BERT} on \textbf{SentiHood} dataset, achieved aspect F1-score \texbf{0.90} and sentiment AUC \textbf{0.98}
+% \end{itemize}}
+
+\iffalse
+\cventry{Fall 2020}{Learning Algorithms \href{https://github.com/utkarsh512/CS60050-Machine-Learning/tree/master/Assignment}{\faGithub}}{}{\small{| \textit{Machine Learning}}}{}{
+\begin{itemize}
+\item Implemented \textbf{Decision Trees} to predict the increase in Covid-19 cases, used \textbf{RE-pruning} to prevent over-fitting
+\item Implemented \textbf{Naive Bayes} classifier to predict patient length-of-stay in ICUs, used \textbf{PCA} for dimension reduction
+\item Used \textbf{SVM} and \textbf{MLP} classifier to predict the biodegradability of chemical from its molecular description
+\end{itemize}}
+\fi
+
+
+\section{Technical Skills}
+
+\cvitem{Languages}{C/C++ (Proficient), Python (Proficient), JavaScript, Bash, SQL}
+\cvitem{Frameworks}{Pandas, NumPy, PyTorch, Scikit-learn, TensorFlow, Tableau WDC}
+
+% \section{Relevant Coursework}
+
+% \cvitem{}{Algorithms, Computer Architecture, Operating Systems, Computer Networks, Database Management Systems, Probability and Stochastic Processes, Machine Learning, Natural Language Processing}
+
+
+%-----------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+\end{document}
