@@ -1,35 +1,35 @@
 {
     "for-against-all": {
         "fallacy of relevance": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "feel -> i",
                 "mean -> you",
                 "care -> i",
                 "mean -> it"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "sense -> make -> it",
                 "law -> have -> we",
                 "fun -> have -> 's",
                 "reason -> see -> i",
                 "government -> need -> we"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "sense -> in -> is -> it",
                 "interest -> in -> is -> it",
                 "war -> at -> are -> we",
                 "reason -> for -> is -> it",
                 "welfare -> on -> are -> they"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "illegal -> is -> it",
                 "hard -> 's -> it",
                 "wrong -> is -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "feel -> make -> it",
                 "mean -> think -> you",
                 "mean -> know -> i",
@@ -38,35 +38,35 @@
             ]
         },
         "faulty generalization": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "feel -> i",
                 "mean -> you",
                 "mean -> it",
                 "hate -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "sense -> make -> it",
                 "law -> have -> we",
                 "tax -> pay -> they",
                 "law -> breaking -> they",
                 "evidence -> have -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "jail -> to -> go -> you",
                 "prison -> in -> be -> he",
                 "economy -> to -> come -> it",
                 "politics -> to -> come -> it",
                 "reason -> for -> is -> it"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "hard -> 's -> it",
                 "stupid -> are -> you",
                 "hard -> is -> it",
                 "wrong -> is -> it",
                 "hard -> be -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "mean -> think -> i",
                 "mean -> is -> it",
                 "mean -> are -> they",
@@ -75,35 +75,35 @@
             ]
         },
         "ad hominem": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "mean -> you",
                 "care -> i",
                 "hate -> i",
                 "feel -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "sense -> make -> it",
                 "evidence -> have -> you",
                 "threat -> constitute -> they",
                 "abortion -> support -> you",
                 "lie -> spew -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "stupid -> 're -> you",
                 "wrong -> 're -> you",
                 "retarded -> 're -> you"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "fault -> 's -> it",
                 "nazi -> 're -> you",
                 "jew -> are -> you",
                 "job -> 's -> it",
                 "liberal -> 'm -> i"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> into -> sign -> he",
                 "politician -> for -> vote -> you",
                 "threat -> a -> meant -> he",
@@ -112,35 +112,35 @@
             ]
         },
         "intentional": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> you",
                 "care -> i",
                 "mean -> it",
                 "mean -> i",
                 "feel -> you"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "evidence -> have -> you",
                 "sense -> make -> it",
                 "tax -> pay -> you",
                 "law -> breaking -> they",
                 "authority -> ha -> he"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> is -> it",
                 "wrong -> are -> you",
                 "wrong -> 'm -> i",
                 "illegal -> is -> it"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> by -> retractable -> it",
                 "sense -> in -> is -> it",
                 "crime -> in -> implicated -> he",
                 "law -> under -> are -> you",
                 "law -> with -> proved -> he"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "mean -> is -> it",
                 "mean -> have -> you",
                 "mean -> are -> you",
@@ -149,35 +149,35 @@
             ]
         },
         "appeal to emotion": {
-            "nsubj": [
+            "nominal subject": [
                 "feel -> i",
                 "feel -> you",
                 "kill -> we",
                 "care -> i",
                 "mean -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "reason -> see -> i",
                 "threat -> pose -> they",
                 "resource -> have -> we",
                 "condemnation -> missed -> you",
                 "kid -> have -> i"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "failure -> about -> talking -> we",
                 "nation -> in -> live -> we",
                 "enemy -> from -> know -> we",
                 "threat -> to -> responded -> he",
                 "law -> against -> 's -> it"
             ],
-            "dobj": [
+            "direct object": [
                 "kill -> them",
                 "kill -> you",
                 "kill -> yourself",
                 "kill -> myself",
                 "kill -> me"
             ],
-            "advcl -> nsubj": [
+            "adverbial clause modifier -> nominal subject": [
                 "kill -> kill -> we",
                 "kill -> 's -> it",
                 "die -> have -> you",
@@ -188,35 +188,35 @@
     },
     "perspective-all": {
         "fallacy of relevance": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "feel -> i",
                 "mean -> you",
                 "mean -> it",
                 "care -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> have -> we",
                 "sense -> make -> it",
                 "authority -> have -> you",
                 "law -> had -> we",
                 "law -> need -> we"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "confusion -> through -> stated -> you",
                 "breakdown -> to -> speak -> i",
                 "crime -> for -> support -> i",
                 "budget -> off -> shave -> we",
                 "immigrant -> for -> need -> it"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "wrong -> are -> you",
                 "stupid -> are -> you",
                 "bad -> 's -> it",
                 "hard -> is -> it",
                 "stupid -> 're -> you"
             ],
-            "nsubj -> ccomp -> nsubj": [
+            "nominal subject -> clausal complement -> nominal subject": [
                 "law -> say -> explained -> i",
                 "terrorist -> want -> do -> you",
                 "attack -> continued -> have -> you",
@@ -225,35 +225,35 @@
             ]
         },
         "faulty generalization": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "hate -> i",
                 "kill -> they",
                 "feel -> i",
                 "care -> they"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "cow -> have -> you",
                 "law -> have -> we",
                 "law -> make -> you",
                 "sense -> make -> it",
                 "welfare -> call -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> because -> be -> you",
                 "threat -> because -> read -> i",
                 "violence -> to -> come -> it",
                 "cop -> about -> said -> i",
                 "cop -> with -> cooperate -> they"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "afraid -> 'm -> i",
                 "hard -> is -> it",
                 "hard -> 's -> it",
                 "suspect -> look -> it",
                 "wrong -> are -> you"
             ],
-            "nsubj -> ccomp -> nsubj": [
+            "nominal subject -> clausal complement -> nominal subject": [
                 "law -> abiding -> expect -> you",
                 "cop -> are -> believe -> you",
                 "failure -> call -> is -> it",
@@ -262,35 +262,35 @@
             ]
         },
         "ad hominem": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "accuse -> you",
                 "mean -> you",
                 "hate -> you",
                 "feel -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> support -> you",
                 "evidence -> have -> you",
                 "sense -> make -> it",
                 "law -> have -> we",
                 "law -> know -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "dumb -> are -> you",
                 "wrong -> 're -> you",
                 "incapable -> are -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> against -> is -> it",
                 "invasion -> about -> know -> you",
                 "woman -> with -> had -> you",
                 "fight -> for -> looking -> you",
                 "law -> against -> 's -> it"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "conservative -> are -> you",
                 "hypocrite -> are -> you",
                 "joke -> are -> you",
@@ -299,35 +299,35 @@
             ]
         },
         "intentional": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> you",
                 "mean -> it",
                 "kill -> they",
                 "mean -> i",
                 "feel -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "evidence -> have -> you",
                 "law -> have -> we",
                 "law -> support -> you",
                 "law -> want -> you",
                 "law -> make -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "wrong -> are -> you",
                 "stupid -> are -> you",
                 "incapable -> are -> you",
                 "violent -> are -> they",
                 "wrong -> 'm -> i"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> because -> be -> you",
                 "law -> without -> act -> they",
                 "law -> about -> know -> you",
                 "authority -> a -> asserting -> i",
                 "economy -> a -> exists -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "mean -> know -> you",
                 "mean -> is -> it",
                 "conspiracy -> am -> i",
@@ -336,35 +336,35 @@
             ]
         },
         "appeal to emotion": {
-            "nsubj": [
+            "nominal subject": [
                 "feel -> i",
                 "die -> it",
                 "die -> you",
                 "care -> i",
                 "mean -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "therapy -> need -> you",
                 "woman -> force -> you",
                 "clothes -> wear -> you",
                 "law -> survive -> you",
                 "violence -> us -> it"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "hell -> in -> end -> you",
                 "law -> without -> exist -> it",
                 "law -> by -> abide -> i",
                 "authority -> to -> reported -> i",
                 "law -> to -> bound -> themselves"
             ],
-            "dobj": [
+            "direct object": [
                 "kill -> them",
                 "kill -> u",
                 "kill -> em",
                 "hate -> you",
                 "kill -> you"
             ],
-            "advcl -> nsubj": [
+            "adverbial clause modifier -> nominal subject": [
                 "kill -> did -> we",
                 "die -> have -> you",
                 "kill -> be -> we",
@@ -375,35 +375,35 @@
     },
     "for-against-top": {
         "fallacy of relevance": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> you",
                 "mean -> i",
                 "care -> i",
                 "mean -> it",
                 "hate -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> have -> we",
                 "fun -> have -> 's",
                 "fun -> have -> i",
                 "sense -> make -> it",
                 "law -> have -> they"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "immigrant -> to -> come -> it",
                 "cop -> about -> talking -> i",
                 "authority -> with -> have -> i",
                 "authority -> with -> say -> you",
                 "authority -> to -> appeal -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "stupid -> is -> it",
                 "surprised -> be -> i",
                 "hard -> 's -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "mean -> think -> you",
                 "feel -> 's -> it",
                 "mean -> know -> i",
@@ -412,35 +412,35 @@
             ]
         },
         "faulty generalization": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> i",
                 "kill -> they",
                 "suspect -> i",
                 "hate -> they",
                 "care -> you"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "authority -> have -> they",
                 "evidence -> have -> you",
                 "law -> have -> we",
                 "threat -> pose -> they",
                 "fun -> have -> 's"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "attack -> from -> run -> it",
                 "jail -> to -> go -> they",
                 "alcohol -> to -> come -> it",
                 "age -> under -> buy -> you",
                 "pig -> like -> squeal -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "hard -> 's -> it",
                 "wrong -> 's -> it",
                 "afraid -> 'm -> i",
                 "sad -> 's -> it"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "victim -> are -> they",
                 "girl -> are -> they",
                 "law -> are -> you",
@@ -449,35 +449,35 @@
             ]
         },
         "ad hominem": {
-            "nsubj": [
+            "nominal subject": [
                 "care -> you",
                 "retarded -> you",
                 "fucking -> you",
                 "defend -> you",
                 "care -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "sense -> make -> it",
                 "abortion -> support -> you",
                 "lie -> tell -> you",
                 "evidence -> have -> you",
                 "abortion -> support -> they"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "stupid -> 're -> you",
                 "insane -> are -> you",
                 "dumb -> are -> you"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "joke -> are -> you",
                 "jew -> are -> you",
                 "liberal -> am -> i",
                 "hypocrite -> are -> you",
                 "socialist -> are -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "politician -> for -> vote -> you",
                 "nation -> in -> lived -> you",
                 "enemy -> into -> make -> you",
@@ -486,35 +486,35 @@
             ]
         },
         "intentional": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> you",
                 "feel -> you",
                 "care -> i",
                 "care -> you",
                 "suspect -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "evidence -> have -> you",
                 "fun -> have -> 's",
                 "sense -> make -> it",
                 "authority -> had -> he",
                 "law -> have -> we"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "dumb -> are -> you",
                 "insane -> are -> you",
                 "confused -> are -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "violence -> about -> talk -> he",
                 "law -> by -> retractable -> it",
                 "crime -> for -> are -> they",
                 "authority -> on -> recommend -> you",
                 "interest -> in -> log -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "mean -> are -> you",
                 "kill -> agreed -> you",
                 "kill -> pointing -> i",
@@ -523,35 +523,35 @@
             ]
         },
         "appeal to emotion": {
-            "nsubj": [
+            "nominal subject": [
                 "feel -> you",
                 "feel -> i",
                 "care -> i",
                 "cry -> you",
                 "hate -> they"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "funding -> stop -> we",
                 "threat -> take -> he",
                 "threat -> used -> we",
                 "law -> use -> they",
                 "nuke -> dismantle -> we"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "enemy -> from -> know -> we",
                 "threat -> to -> responded -> he",
                 "law -> against -> 's -> it",
                 "immigrant -> for -> \u2019s -> it",
                 "hatred -> into -> developed -> it"
             ],
-            "advcl -> nsubj": [
+            "adverbial clause modifier -> nominal subject": [
                 "kill -> flee -> they",
                 "kill -> think -> you",
                 "kill -> made -> they",
                 "kill -> are -> you",
                 "die -> get -> i"
             ],
-            "dobj": [
+            "direct object": [
                 "kill -> yourself",
                 "kill -> them",
                 "hate -> you",
@@ -562,35 +562,35 @@
     },
     "perspective-top": {
         "fallacy of relevance": {
-            "nsubj": [
+            "nominal subject": [
                 "mean -> you",
                 "mean -> it",
                 "kill -> they",
                 "feel -> i",
                 "mean -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> have -> we",
                 "law -> had -> we",
                 "authority -> have -> you",
                 "fun -> have -> 's",
                 "kid -> raising -> we"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "wrong -> are -> you",
                 "confused -> are -> you",
                 "stupid -> are -> you",
                 "stupid -> 're -> you",
                 "worried -> 'm -> i"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "breakdown -> to -> speak -> i",
                 "immigrant -> for -> need -> it",
                 "crime -> of -> ask -> i",
                 "nation -> in -> do -> they",
                 "nation -> to -> apologize -> she"
             ],
-            "nsubj -> ccomp -> nsubj": [
+            "nominal subject -> clausal complement -> nominal subject": [
                 "law -> say -> explained -> i",
                 "law -> working -> accepting -> you",
                 "law -> done -> do -> they",
@@ -599,35 +599,35 @@
             ]
         },
         "faulty generalization": {
-            "nsubj": [
+            "nominal subject": [
                 "kill -> they",
                 "care -> they",
                 "mean -> i",
                 "care -> you",
                 "hate -> i"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> make -> you",
                 "law -> have -> we",
                 "welfare -> call -> you",
                 "prosecution -> tie -> you",
                 "sense -> make -> it"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> because -> be -> you",
                 "threat -> because -> read -> i",
                 "budget -> due -> contributed -> they",
                 "alcohol -> to -> come -> it",
                 "age -> under -> buy -> you"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "girl -> are -> they",
                 "law -> are -> you",
                 "girl -> is -> he",
                 "shame -> 's -> it",
                 "hypocrite -> are -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "suspect -> look -> it",
                 "wrong -> are -> you",
                 "illegal -> is -> it",
@@ -636,35 +636,35 @@
             ]
         },
         "ad hominem": {
-            "nsubj": [
+            "nominal subject": [
                 "accuse -> you",
                 "defend -> you",
                 "hate -> you",
                 "hate -> i",
                 "care -> they"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> support -> you",
                 "law -> follow -> we",
                 "election -> rig -> you",
                 "muslim -> support -> you",
                 "nigger -> killed -> it"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "stupid -> are -> you",
                 "wrong -> are -> you",
                 "dumb -> are -> you",
                 "confused -> are -> you",
                 "incapable -> are -> you"
             ],
-            "attr -> nsubj": [
+            "attribute -> nominal subject": [
                 "conservative -> are -> you",
                 "victim -> are -> you",
                 "criminal -> is -> she",
                 "criminal -> 's -> she",
                 "shame -> \u2019s -> it"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> against -> is -> it",
                 "invasion -> about -> know -> you",
                 "law -> for -> pushed -> he",
@@ -673,35 +673,35 @@
             ]
         },
         "intentional": {
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "law -> support -> you",
                 "evidence -> have -> you",
                 "law -> want -> you",
                 "law -> make -> you",
                 "corruption -> mention -> i"
             ],
-            "nsubj": [
+            "nominal subject": [
                 "dispute -> you",
                 "pay -> you",
                 "care -> you",
                 "figure -> you",
                 "mean -> it"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "wrong -> are -> you",
                 "stupid -> are -> you",
                 "confused -> are -> you",
                 "violent -> are -> they",
                 "incapable -> are -> you"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> because -> be -> you",
                 "law -> without -> act -> they",
                 "law -> about -> know -> you",
                 "son -> on -> believe -> you",
                 "law -> of -> happens -> it"
             ],
-            "ccomp -> nsubj": [
+            "clausal complement -> nominal subject": [
                 "conspiracy -> am -> i",
                 "disprove -> like -> i",
                 "mean -> know -> you",
@@ -710,35 +710,35 @@
             ]
         },
         "appeal to emotion": {
-            "nsubj": [
+            "nominal subject": [
                 "feel -> i",
                 "die -> you",
                 "die -> it",
                 "feel -> you",
                 "feel -> they"
             ],
-            "dobj -> nsubj": [
+            "direct object -> nominal subject": [
                 "violence -> us -> it",
                 "law -> create -> it",
                 "girl -> ha -> it",
                 "law -> put -> they",
                 "law -> want -> i"
             ],
-            "pobj -> prep -> nsubj": [
+            "object of preposition -> prepositional modifier -> nominal subject": [
                 "law -> without -> exist -> it",
                 "poisoning -> from -> die -> it",
                 "poisoning -> from -> die -> you",
                 "shame -> in -> hiding -> they",
                 "accident -> by -> did -> it"
             ],
-            "dobj": [
+            "direct object": [
                 "kill -> u",
                 "scare -> you",
                 "kill -> ya",
                 "hate -> you",
                 "kill -> you"
             ],
-            "acomp -> nsubj": [
+            "adjectival complement -> nominal subject": [
                 "sad -> is -> it",
                 "scared -> are -> you",
                 "unforgivable -> is -> it",
