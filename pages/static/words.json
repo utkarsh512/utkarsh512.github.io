@@ -1,0 +1,750 @@
+{
+    "for-against-all": {
+        "fallacy of relevance": {
+            "nsubj": [
+                "mean -> i",
+                "feel -> i",
+                "mean -> you",
+                "care -> i",
+                "mean -> it"
+            ],
+            "dobj -> nsubj": [
+                "sense -> make -> it",
+                "law -> have -> we",
+                "fun -> have -> 's",
+                "reason -> see -> i",
+                "government -> need -> we"
+            ],
+            "pobj -> prep -> nsubj": [
+                "sense -> in -> is -> it",
+                "interest -> in -> is -> it",
+                "war -> at -> are -> we",
+                "reason -> for -> is -> it",
+                "welfare -> on -> are -> they"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "illegal -> is -> it",
+                "hard -> 's -> it",
+                "wrong -> is -> it"
+            ],
+            "ccomp -> nsubj": [
+                "feel -> make -> it",
+                "mean -> think -> you",
+                "mean -> know -> i",
+                "mean -> mean -> it",
+                "mean -> 's -> it"
+            ]
+        },
+        "faulty generalization": {
+            "nsubj": [
+                "mean -> i",
+                "feel -> i",
+                "mean -> you",
+                "mean -> it",
+                "hate -> i"
+            ],
+            "dobj -> nsubj": [
+                "sense -> make -> it",
+                "law -> have -> we",
+                "tax -> pay -> they",
+                "law -> breaking -> they",
+                "evidence -> have -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "jail -> to -> go -> you",
+                "prison -> in -> be -> he",
+                "economy -> to -> come -> it",
+                "politics -> to -> come -> it",
+                "reason -> for -> is -> it"
+            ],
+            "acomp -> nsubj": [
+                "hard -> 's -> it",
+                "stupid -> are -> you",
+                "hard -> is -> it",
+                "wrong -> is -> it",
+                "hard -> be -> it"
+            ],
+            "ccomp -> nsubj": [
+                "mean -> think -> i",
+                "mean -> is -> it",
+                "mean -> are -> they",
+                "feel -> make -> it",
+                "mean -> 's -> it"
+            ]
+        },
+        "ad hominem": {
+            "nsubj": [
+                "mean -> i",
+                "mean -> you",
+                "care -> i",
+                "hate -> i",
+                "feel -> i"
+            ],
+            "dobj -> nsubj": [
+                "sense -> make -> it",
+                "evidence -> have -> you",
+                "threat -> constitute -> they",
+                "abortion -> support -> you",
+                "lie -> spew -> you"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "stupid -> 're -> you",
+                "wrong -> 're -> you",
+                "retarded -> 're -> you"
+            ],
+            "attr -> nsubj": [
+                "fault -> 's -> it",
+                "nazi -> 're -> you",
+                "jew -> are -> you",
+                "job -> 's -> it",
+                "liberal -> 'm -> i"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> into -> sign -> he",
+                "politician -> for -> vote -> you",
+                "threat -> a -> meant -> he",
+                "enemy -> into -> make -> you",
+                "violence -> about -> talk -> them"
+            ]
+        },
+        "intentional": {
+            "nsubj": [
+                "mean -> you",
+                "care -> i",
+                "mean -> it",
+                "mean -> i",
+                "feel -> you"
+            ],
+            "dobj -> nsubj": [
+                "evidence -> have -> you",
+                "sense -> make -> it",
+                "tax -> pay -> you",
+                "law -> breaking -> they",
+                "authority -> ha -> he"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> is -> it",
+                "wrong -> are -> you",
+                "wrong -> 'm -> i",
+                "illegal -> is -> it"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> by -> retractable -> it",
+                "sense -> in -> is -> it",
+                "crime -> in -> implicated -> he",
+                "law -> under -> are -> you",
+                "law -> with -> proved -> he"
+            ],
+            "ccomp -> nsubj": [
+                "mean -> is -> it",
+                "mean -> have -> you",
+                "mean -> are -> you",
+                "mean -> 's -> it",
+                "mean -> are -> they"
+            ]
+        },
+        "appeal to emotion": {
+            "nsubj": [
+                "feel -> i",
+                "feel -> you",
+                "kill -> we",
+                "care -> i",
+                "mean -> i"
+            ],
+            "dobj -> nsubj": [
+                "reason -> see -> i",
+                "threat -> pose -> they",
+                "resource -> have -> we",
+                "condemnation -> missed -> you",
+                "kid -> have -> i"
+            ],
+            "pobj -> prep -> nsubj": [
+                "failure -> about -> talking -> we",
+                "nation -> in -> live -> we",
+                "enemy -> from -> know -> we",
+                "threat -> to -> responded -> he",
+                "law -> against -> 's -> it"
+            ],
+            "dobj": [
+                "kill -> them",
+                "kill -> you",
+                "kill -> yourself",
+                "kill -> myself",
+                "kill -> me"
+            ],
+            "advcl -> nsubj": [
+                "kill -> kill -> we",
+                "kill -> 's -> it",
+                "die -> have -> you",
+                "kill -> care -> you",
+                "kill -> see -> i"
+            ]
+        }
+    },
+    "perspective-all": {
+        "fallacy of relevance": {
+            "nsubj": [
+                "mean -> i",
+                "feel -> i",
+                "mean -> you",
+                "mean -> it",
+                "care -> i"
+            ],
+            "dobj -> nsubj": [
+                "law -> have -> we",
+                "sense -> make -> it",
+                "authority -> have -> you",
+                "law -> had -> we",
+                "law -> need -> we"
+            ],
+            "pobj -> prep -> nsubj": [
+                "confusion -> through -> stated -> you",
+                "breakdown -> to -> speak -> i",
+                "crime -> for -> support -> i",
+                "budget -> off -> shave -> we",
+                "immigrant -> for -> need -> it"
+            ],
+            "acomp -> nsubj": [
+                "wrong -> are -> you",
+                "stupid -> are -> you",
+                "bad -> 's -> it",
+                "hard -> is -> it",
+                "stupid -> 're -> you"
+            ],
+            "nsubj -> ccomp -> nsubj": [
+                "law -> say -> explained -> i",
+                "terrorist -> want -> do -> you",
+                "attack -> continued -> have -> you",
+                "perpetrator -> explained -> insist -> you",
+                "economy -> recover -> get -> i"
+            ]
+        },
+        "faulty generalization": {
+            "nsubj": [
+                "mean -> i",
+                "hate -> i",
+                "kill -> they",
+                "feel -> i",
+                "care -> they"
+            ],
+            "dobj -> nsubj": [
+                "cow -> have -> you",
+                "law -> have -> we",
+                "law -> make -> you",
+                "sense -> make -> it",
+                "welfare -> call -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> because -> be -> you",
+                "threat -> because -> read -> i",
+                "violence -> to -> come -> it",
+                "cop -> about -> said -> i",
+                "cop -> with -> cooperate -> they"
+            ],
+            "acomp -> nsubj": [
+                "afraid -> 'm -> i",
+                "hard -> is -> it",
+                "hard -> 's -> it",
+                "suspect -> look -> it",
+                "wrong -> are -> you"
+            ],
+            "nsubj -> ccomp -> nsubj": [
+                "law -> abiding -> expect -> you",
+                "cop -> are -> believe -> you",
+                "failure -> call -> is -> it",
+                "woman -> doing -> is -> it",
+                "outlaw -> is -> steal -> i"
+            ]
+        },
+        "ad hominem": {
+            "nsubj": [
+                "mean -> i",
+                "accuse -> you",
+                "mean -> you",
+                "hate -> you",
+                "feel -> i"
+            ],
+            "dobj -> nsubj": [
+                "law -> support -> you",
+                "evidence -> have -> you",
+                "sense -> make -> it",
+                "law -> have -> we",
+                "law -> know -> you"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "dumb -> are -> you",
+                "wrong -> 're -> you",
+                "incapable -> are -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> against -> is -> it",
+                "invasion -> about -> know -> you",
+                "woman -> with -> had -> you",
+                "fight -> for -> looking -> you",
+                "law -> against -> 's -> it"
+            ],
+            "attr -> nsubj": [
+                "conservative -> are -> you",
+                "hypocrite -> are -> you",
+                "joke -> are -> you",
+                "victim -> are -> you",
+                "organization -> are -> they"
+            ]
+        },
+        "intentional": {
+            "nsubj": [
+                "mean -> you",
+                "mean -> it",
+                "kill -> they",
+                "mean -> i",
+                "feel -> i"
+            ],
+            "dobj -> nsubj": [
+                "evidence -> have -> you",
+                "law -> have -> we",
+                "law -> support -> you",
+                "law -> want -> you",
+                "law -> make -> you"
+            ],
+            "acomp -> nsubj": [
+                "wrong -> are -> you",
+                "stupid -> are -> you",
+                "incapable -> are -> you",
+                "violent -> are -> they",
+                "wrong -> 'm -> i"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> because -> be -> you",
+                "law -> without -> act -> they",
+                "law -> about -> know -> you",
+                "authority -> a -> asserting -> i",
+                "economy -> a -> exists -> it"
+            ],
+            "ccomp -> nsubj": [
+                "mean -> know -> you",
+                "mean -> is -> it",
+                "conspiracy -> am -> i",
+                "disprove -> like -> i",
+                "mean -> are -> you"
+            ]
+        },
+        "appeal to emotion": {
+            "nsubj": [
+                "feel -> i",
+                "die -> it",
+                "die -> you",
+                "care -> i",
+                "mean -> i"
+            ],
+            "dobj -> nsubj": [
+                "therapy -> need -> you",
+                "woman -> force -> you",
+                "clothes -> wear -> you",
+                "law -> survive -> you",
+                "violence -> us -> it"
+            ],
+            "pobj -> prep -> nsubj": [
+                "hell -> in -> end -> you",
+                "law -> without -> exist -> it",
+                "law -> by -> abide -> i",
+                "authority -> to -> reported -> i",
+                "law -> to -> bound -> themselves"
+            ],
+            "dobj": [
+                "kill -> them",
+                "kill -> u",
+                "kill -> em",
+                "hate -> you",
+                "kill -> you"
+            ],
+            "advcl -> nsubj": [
+                "kill -> did -> we",
+                "die -> have -> you",
+                "kill -> be -> we",
+                "kill -> are -> they",
+                "kill -> want -> they"
+            ]
+        }
+    },
+    "for-against-top": {
+        "fallacy of relevance": {
+            "nsubj": [
+                "mean -> you",
+                "mean -> i",
+                "care -> i",
+                "mean -> it",
+                "hate -> i"
+            ],
+            "dobj -> nsubj": [
+                "law -> have -> we",
+                "fun -> have -> 's",
+                "fun -> have -> i",
+                "sense -> make -> it",
+                "law -> have -> they"
+            ],
+            "pobj -> prep -> nsubj": [
+                "immigrant -> to -> come -> it",
+                "cop -> about -> talking -> i",
+                "authority -> with -> have -> i",
+                "authority -> with -> say -> you",
+                "authority -> to -> appeal -> you"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "stupid -> is -> it",
+                "surprised -> be -> i",
+                "hard -> 's -> it"
+            ],
+            "ccomp -> nsubj": [
+                "mean -> think -> you",
+                "feel -> 's -> it",
+                "mean -> know -> i",
+                "mean -> mean -> it",
+                "crime -> make -> we"
+            ]
+        },
+        "faulty generalization": {
+            "nsubj": [
+                "mean -> i",
+                "kill -> they",
+                "suspect -> i",
+                "hate -> they",
+                "care -> you"
+            ],
+            "dobj -> nsubj": [
+                "authority -> have -> they",
+                "evidence -> have -> you",
+                "law -> have -> we",
+                "threat -> pose -> they",
+                "fun -> have -> 's"
+            ],
+            "pobj -> prep -> nsubj": [
+                "attack -> from -> run -> it",
+                "jail -> to -> go -> they",
+                "alcohol -> to -> come -> it",
+                "age -> under -> buy -> you",
+                "pig -> like -> squeal -> you"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "hard -> 's -> it",
+                "wrong -> 's -> it",
+                "afraid -> 'm -> i",
+                "sad -> 's -> it"
+            ],
+            "attr -> nsubj": [
+                "victim -> are -> they",
+                "girl -> are -> they",
+                "law -> are -> you",
+                "fault -> 's -> it",
+                "economy -> 's -> it"
+            ]
+        },
+        "ad hominem": {
+            "nsubj": [
+                "care -> you",
+                "retarded -> you",
+                "fucking -> you",
+                "defend -> you",
+                "care -> i"
+            ],
+            "dobj -> nsubj": [
+                "sense -> make -> it",
+                "abortion -> support -> you",
+                "lie -> tell -> you",
+                "evidence -> have -> you",
+                "abortion -> support -> they"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "stupid -> 're -> you",
+                "insane -> are -> you",
+                "dumb -> are -> you"
+            ],
+            "attr -> nsubj": [
+                "joke -> are -> you",
+                "jew -> are -> you",
+                "liberal -> am -> i",
+                "hypocrite -> are -> you",
+                "socialist -> are -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "politician -> for -> vote -> you",
+                "nation -> in -> lived -> you",
+                "enemy -> into -> make -> you",
+                "enemy -> with -> start -> we",
+                "child -> for -> care -> they"
+            ]
+        },
+        "intentional": {
+            "nsubj": [
+                "mean -> you",
+                "feel -> you",
+                "care -> i",
+                "care -> you",
+                "suspect -> i"
+            ],
+            "dobj -> nsubj": [
+                "evidence -> have -> you",
+                "fun -> have -> 's",
+                "sense -> make -> it",
+                "authority -> had -> he",
+                "law -> have -> we"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "dumb -> are -> you",
+                "insane -> are -> you",
+                "confused -> are -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "violence -> about -> talk -> he",
+                "law -> by -> retractable -> it",
+                "crime -> for -> are -> they",
+                "authority -> on -> recommend -> you",
+                "interest -> in -> log -> it"
+            ],
+            "ccomp -> nsubj": [
+                "mean -> are -> you",
+                "kill -> agreed -> you",
+                "kill -> pointing -> i",
+                "care -> is -> it",
+                "kill -> watched -> they"
+            ]
+        },
+        "appeal to emotion": {
+            "nsubj": [
+                "feel -> you",
+                "feel -> i",
+                "care -> i",
+                "cry -> you",
+                "hate -> they"
+            ],
+            "dobj -> nsubj": [
+                "funding -> stop -> we",
+                "threat -> take -> he",
+                "threat -> used -> we",
+                "law -> use -> they",
+                "nuke -> dismantle -> we"
+            ],
+            "pobj -> prep -> nsubj": [
+                "enemy -> from -> know -> we",
+                "threat -> to -> responded -> he",
+                "law -> against -> 's -> it",
+                "immigrant -> for -> \u2019s -> it",
+                "hatred -> into -> developed -> it"
+            ],
+            "advcl -> nsubj": [
+                "kill -> flee -> they",
+                "kill -> think -> you",
+                "kill -> made -> they",
+                "kill -> are -> you",
+                "die -> get -> i"
+            ],
+            "dobj": [
+                "kill -> yourself",
+                "kill -> them",
+                "hate -> you",
+                "stop -> him",
+                "lose -> it"
+            ]
+        }
+    },
+    "perspective-top": {
+        "fallacy of relevance": {
+            "nsubj": [
+                "mean -> you",
+                "mean -> it",
+                "kill -> they",
+                "feel -> i",
+                "mean -> i"
+            ],
+            "dobj -> nsubj": [
+                "law -> have -> we",
+                "law -> had -> we",
+                "authority -> have -> you",
+                "fun -> have -> 's",
+                "kid -> raising -> we"
+            ],
+            "acomp -> nsubj": [
+                "wrong -> are -> you",
+                "confused -> are -> you",
+                "stupid -> are -> you",
+                "stupid -> 're -> you",
+                "worried -> 'm -> i"
+            ],
+            "pobj -> prep -> nsubj": [
+                "breakdown -> to -> speak -> i",
+                "immigrant -> for -> need -> it",
+                "crime -> of -> ask -> i",
+                "nation -> in -> do -> they",
+                "nation -> to -> apologize -> she"
+            ],
+            "nsubj -> ccomp -> nsubj": [
+                "law -> say -> explained -> i",
+                "law -> working -> accepting -> you",
+                "law -> done -> do -> they",
+                "law -> were -> feel -> they",
+                "law -> abiding -> expect -> you"
+            ]
+        },
+        "faulty generalization": {
+            "nsubj": [
+                "kill -> they",
+                "care -> they",
+                "mean -> i",
+                "care -> you",
+                "hate -> i"
+            ],
+            "dobj -> nsubj": [
+                "law -> make -> you",
+                "law -> have -> we",
+                "welfare -> call -> you",
+                "prosecution -> tie -> you",
+                "sense -> make -> it"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> because -> be -> you",
+                "threat -> because -> read -> i",
+                "budget -> due -> contributed -> they",
+                "alcohol -> to -> come -> it",
+                "age -> under -> buy -> you"
+            ],
+            "attr -> nsubj": [
+                "girl -> are -> they",
+                "law -> are -> you",
+                "girl -> is -> he",
+                "shame -> 's -> it",
+                "hypocrite -> are -> you"
+            ],
+            "acomp -> nsubj": [
+                "suspect -> look -> it",
+                "wrong -> are -> you",
+                "illegal -> is -> it",
+                "stupid -> are -> you",
+                "hard -> be -> it"
+            ]
+        },
+        "ad hominem": {
+            "nsubj": [
+                "accuse -> you",
+                "defend -> you",
+                "hate -> you",
+                "hate -> i",
+                "care -> they"
+            ],
+            "dobj -> nsubj": [
+                "law -> support -> you",
+                "law -> follow -> we",
+                "election -> rig -> you",
+                "muslim -> support -> you",
+                "nigger -> killed -> it"
+            ],
+            "acomp -> nsubj": [
+                "stupid -> are -> you",
+                "wrong -> are -> you",
+                "dumb -> are -> you",
+                "confused -> are -> you",
+                "incapable -> are -> you"
+            ],
+            "attr -> nsubj": [
+                "conservative -> are -> you",
+                "victim -> are -> you",
+                "criminal -> is -> she",
+                "criminal -> 's -> she",
+                "shame -> \u2019s -> it"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> against -> is -> it",
+                "invasion -> about -> know -> you",
+                "law -> for -> pushed -> he",
+                "law -> like -> 's -> it",
+                "militia -> against -> is -> she"
+            ]
+        },
+        "intentional": {
+            "dobj -> nsubj": [
+                "law -> support -> you",
+                "evidence -> have -> you",
+                "law -> want -> you",
+                "law -> make -> you",
+                "corruption -> mention -> i"
+            ],
+            "nsubj": [
+                "dispute -> you",
+                "pay -> you",
+                "care -> you",
+                "figure -> you",
+                "mean -> it"
+            ],
+            "acomp -> nsubj": [
+                "wrong -> are -> you",
+                "stupid -> are -> you",
+                "confused -> are -> you",
+                "violent -> are -> they",
+                "incapable -> are -> you"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> because -> be -> you",
+                "law -> without -> act -> they",
+                "law -> about -> know -> you",
+                "son -> on -> believe -> you",
+                "law -> of -> happens -> it"
+            ],
+            "ccomp -> nsubj": [
+                "conspiracy -> am -> i",
+                "disprove -> like -> i",
+                "mean -> know -> you",
+                "kill -> said -> you",
+                "suspect -> make -> they"
+            ]
+        },
+        "appeal to emotion": {
+            "nsubj": [
+                "feel -> i",
+                "die -> you",
+                "die -> it",
+                "feel -> you",
+                "feel -> they"
+            ],
+            "dobj -> nsubj": [
+                "violence -> us -> it",
+                "law -> create -> it",
+                "girl -> ha -> it",
+                "law -> put -> they",
+                "law -> want -> i"
+            ],
+            "pobj -> prep -> nsubj": [
+                "law -> without -> exist -> it",
+                "poisoning -> from -> die -> it",
+                "poisoning -> from -> die -> you",
+                "shame -> in -> hiding -> they",
+                "accident -> by -> did -> it"
+            ],
+            "dobj": [
+                "kill -> u",
+                "scare -> you",
+                "kill -> ya",
+                "hate -> you",
+                "kill -> you"
+            ],
+            "acomp -> nsubj": [
+                "sad -> is -> it",
+                "scared -> are -> you",
+                "unforgivable -> is -> it",
+                "retarded -> fucking -> you",
+                "stupid -> are -> you"
+            ]
+        }
+    }
+}
