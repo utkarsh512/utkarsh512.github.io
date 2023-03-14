@@ -1,0 +1,1126 @@
+{
+    "for-against": {
+        "fallacy of relevance": {
+            "nominal subject -> clausal complement -> nominal subject": [
+                {
+                    "comment": " you do understand that the laws in britain &amp; the united states\nare not the same? hi dermot. do you understand that i did not say the\nlaws in britain and the united states are the same? honestly, your\ntemper tantrums are epic. most kids burn themselves out in an hour or\ntwo but you've been going on for at least a week.",
+                    "path": "law -> are -> understand -> you (x3), law -> are -> say -> i (x3), "
+                },
+                {
+                    "comment": " well, compassion gets in the way of logic. most drug laws are not\nlogical, so they conflict with justice. has little to do with\ncompassion. as for laws in general, they are not the same as justice,\nbecause they often conflict with justice itself. laws enacted by\nstalin, pol pot, and mao were all out of what they felt was for the\ngreater good, but had nothing to do with logic. they were based off of\ntheir sense of compassion (mainly the people's, since drugs and\neducation were keeping the lower class in the slums). if stalin were\nto face logic, he would not have been able to get away with what he\ndid. but he got the lower class to support him because they let their\nemotions get in the way. that was certainly not justice. justice,\nitself, is based more off of common sense. people are left alone and\nevil is not allowed. that is justice. on justice, i can go forever\nthough. like, socrates and plato style.",
+                    "path": "law -> are -> conflict -> they (x3), emotion -> get -> let -> they (x2), "
+                },
+                {
+                    "comment": " look, past is prologue, gwen. the issue is, how different is john\nmccain's policy going to be than george bush's? i haven't heard\nanything yet. i haven't heard how his policy is going to be different\non iran than george bush's. i haven't heard how his policy is going to\nbe different with israel than george bush's. i haven't heard how his\npolicy in afghanistan is going to be different than george bush's. i\nhaven't heard how his policy in pakistan is going to be different than\ngeorge bush's. it may be. but so far, it is the same as george bush's.\nand you know where that policy has taken us. we will make significant\nchange so, once again, we're the most respected nation in the world.\nthat's what we're going to do.",
+                    "path": "policy -> going -> heard -> i (x4), policy -> taken -> know -> you (x1), "
+                },
+                {
+                    "comment": " look, past is prologue, gwen. the issue is, how different is john\nmccain's policy going to be than george bush's? i haven't heard\nanything yet. i haven't heard how his policy is going to be different\non iran than george bush's. i haven't heard how his policy is going to\nbe different with israel than george bush's. i haven't heard how his\npolicy in afghanistan is going to be different than george bush's. i\nhaven't heard how his policy in pakistan is going to be different than\ngeorge bush's. it may be. but so far, it is the same as george bush's.\nand you know where that policy has taken us. we will make significant\nchange so, once again, we're the most respected nation in the world.\nthat's what we're going to do.",
+                    "path": "policy -> going -> heard -> i (x4), policy -> taken -> know -> you (x1), "
+                },
+                {
+                    "comment": " hello again, a: i'm gonna try to wade through your wishy washiness,\nand say you think the cops want people to have guns.. so, i'll argue\nas if you actually said it.. i'm not asking what cops think in the\nabstract, as in \"no breach of law - no issue\", but whether cops\nactually want the people to have guns.. i suggest they do not, and i\nhave heard them take issue with it.. nonetheless, i was looking for a\nyes or no answer, and even thought i had to manufacture one, i got\nit.. unless, that is, you'd rather change your vote.. excon ps&gt;\nplease don't think i'm asking about disarming the police force...\nplease..",
+                    "path": "cop -> want -> think -> you (x2), cop -> think -> asking -> i (x2), "
+                }
+            ],
+            "direct object -> nominal subject": [
+                {
+                    "comment": " you tell me, will a murderer or bank robber be reunited with their\nkids? why do fools not get it? breaking into our nation is a serious\ncrime. they are not fit parents and will be separated from their kids\nif they break the law. we have laws that protect children from\ncriminal parents. when the parent is let out of jail, he can take his\nkids with him. do you get it yet?",
+                    "path": "law -> break -> they (x3), law -> have -> we (x3), kid -> take -> he (x2), "
+                },
+                {
+                    "comment": " how exactly are they ruining our economy? by working jobs domestic\nworkers refuse to work? or by helping to keep inflation low since they\nwork for less than minimum wage? i'm from south florida and i know\nmany immigrants. can't think of any reason why they'd be hurting the\neconomy. they spend and contribute to florida sales tax, they buy\nproducts from merchants, and they work undesireable jobs. god bless\nimmigrants.",
+                    "path": "economy -> ruining -> they (x2), immigrant -> know -> i (x2), economy -> hurting -> they (x2), job -> work -> they (x1), "
+                },
+                {
+                    "comment": " i believe you need to think about the possibilities of what can\nhappen if we don't do something about terrorism. let's take isis for\nexample. they are extremely capable of doing serious damage to our\ncountry and other countries. they're developing nuclear weapons and\nfinding more ways to destroy us every day that we don't do something\nabout it. on top of that, they're growing exponentially in numbers.\nthere was just a story in the news the other week about isis\nrecruiting members from america. they're recruiting our own citizens\nand you don't want to do anything about it. they have made multiple\ndirect threats to our country as a whole. what do we have to do?\nshould we just wait for another 9/11 to happen? no. we go straight\nforward and wipe them out before they decide to actually do something.",
+                    "path": "threat -> made -> they (x3), citizen -> recruiting -> they (x2), weapon -> developing -> they (x1), "
+                },
+                {
+                    "comment": " a restoration of constitutional principles are much more important\nthan restoration of democracy, seeing as how the two can easily\nconflict. i mean, we don't want mob rule now do we? we might not live\nin a genuine direct democracy but that does not mean we don't live in\na representative democracy. the most important thing any politician\ncan do is the represent the american people by listening to them also\nwe don't want to end up in the great depression again and ignore what\nthe issues are for the american people simply because \"that's not\nimportant\" or \"we don't have the authority to do anything under the\nconstitution\" here is a fun little fact about the constitution most of\nthe founding fathers disliked the result of the constitution, and\nothers hated it most significantly thomas jefferson he believed that\ninstead of the amendments we rewrite the constitution every two\ndecades! now if we listen to an economic system mandated by the\nconstitution (laissez-faire capitalism) the middle class would not\nexist it took government involvement throughout the 20th century to\nessentially create the middle class!",
+                    "path": "authority -> have -> we (x3), rule -> want -> we (x1), constitution -> rewrite -> we (x1), involvement -> took -> it (x1), "
+                },
+                {
+                    "comment": " he caught bin laden! he cut taxes for the 95% and we have tax cuts as\nwell! the middle class that's us got tax cuts too i believe! he said\nsorry when he did something wrong! he is a gentleman! he tried to get\nsoldiers jobs but the gop said no! he created obamacare! he did\nsomething's wrong here or there but he got our soldiers home from iraq\nand afghanistan! he is trying to help the countries but he has a bad\ncongress that says no and blames obama for the bad things and never\ngives him credit for the good things! i actually feel bad for mr.\npresident barack obama! when you feel bad for the president you know\nhe's tying! he's not a war criminal unlike bush! bush never said sorry\nfor anything! obama's trying to find a new energy source too i\nbelieve! wait nope i can't hear him say sorry! i meant bush because i\ncan't hear him say i'm sorry! bush lied to us! compared to bush\nobama's amazing and even not compared to bush he's a great president!",
+                    "path": "soldier -> got -> he (x2), tax -> cut -> he (x1), cut -> have -> we (x1), wrong -> did -> he (x1), congress -> ha -> he (x1), "
+                }
+            ],
+            "direct object -> open clausal complement -> nominal subject": [
+                {
+                    "comment": " riele hunter looks like she wants to have kids. cindy mccain looks\nlike she wants to eat kids. besides that and biased media coverage\nthough, it's the same thinf.",
+                    "path": "kid -> have -> want -> she (x2), kid -> eat -> want -> she (x2), "
+                },
+                {
+                    "comment": " week five http://www.pregnancy.org/ fetaldevelopment life is\nreplicating tissue. i was simply addressing their question or whether\nor not your sister would have wanted to be aborted. the answer: she\nwouldn't care. she was not conscious. and i am saying that had the\nmother wanted to, she should have had the right to abort the child. i\nam not advocating every child ever to be aborted. i am advocating\nevery womans right to make decisions of her own body just as i do not\nwish to force every woman to abort her baby i do not wish to bar every\nwoman from aborting her baby. she is not deciding the fate for the\nchild. she is simply evicting it from her uterus.",
+                    "path": "woman -> force -> wish -> i (x2), woman -> bar -> wish -> i (x2), "
+                },
+                {
+                    "comment": " right. that's why they block anyone who dissents, hello again, bront:\nwhen i say inclusive, you think that means we have to include our\npolitical enemies... would i be included in a trump rally with my\ncredentials showing??? fuck no, i wouldn't.. i'd be run out of there\non rails, and you fucking know it.. dude! you hold libs to a different\nstandard than you do right wing fucks.. it's to be expected.. i'm\nlooking an honest broker of the truth.. you ain't it. excon",
+                    "path": "enemy -> include -> have -> we (x3), "
+                },
+                {
+                    "comment": " do you support stand your ground laws? hello r: that the white\nsupremacist above likes them, should be a glaring clue.. excon",
+                    "path": "law -> stand -> support -> you (x3), "
+                },
+                {
+                    "comment": " yeah, this is the guy that promised to pay the legal fee's of those\nwho punch his protesters. he practically begged them to commit\nviolence, he still does when he doesn't speak out strongly against\nwhite supremacists marching.",
+                    "path": "violence -> commit -> begged -> he (x3), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> clausal complement -> nominal subject": [
+                {
+                    "comment": " yeah. i\u2019ve never heard of a cop recommending a citizens arrest. maybe\nit\u2019s legal and you\u2019re in the clear. or maybe you do it wrong. also, i\nknow citizens arrests relate to state crimes. i don\u2019t know how they\nrelate to federal crimes. but i do know that the federal government\nstopped state governments from enforcement of federal crimes along\nstate borders.",
+                    "path": "crime -> to -> relate -> know -> i (x4), enforcement -> from -> stopped -> know -> i (x2), "
+                },
+                {
+                    "comment": " well, i wasn't aware anarcho capitalists were too hot on welfare.\ncharities would still exist. you sure about that? of course, i am for\nac, and i am not heartless, i give now even with government welfare, i\nwould probably give more without government welfare. and can you prove\nthat charity would be more prevalent? the completely voluntary action\nof charity compared to government coercion. but i don't see how it can\ndeal with social issues, and possibly ethical issues you are comparing\nthis world to a ac world without considering things wouldn't be based\non perceptions. for example, how does anarcho capitalism account for\nmonopolies forcing the local population into servitude to that\ncorporation? how does anarcho capitalism account for fraud and deceit?\nimpossible, anarcho capitalism has completely free markets with no\nfavoritism or collusion, monopolies are impossible in free markets.\nmonopolies only exist granted by government either private or\ngovernment enterprise. how does anarcho capitalism account for fraud\nand deceit? please go read something.",
+                    "path": "welfare -> with -> give -> am -> i (x2), welfare -> without -> give -> give -> i (x2), welfare -> with -> give -> give -> i (x2), "
+                },
+                {
+                    "comment": " thank you, governor. probably the biggest cliche about the vice-\npresidency is that it's a heartbeat away, everybody's waiting to see\nwhat would happen if the worst happened. how would - you disagree on\nsome things from your principles, you disagree on drilling in alaska,\nthe national wildlife refuge, you disagree on the surveillance law, at\nleast you have in the past. how would a biden administration be\ndifferent from an obama administration if that were to happen.",
+                    "path": "law -> on -> disagree -> disagree -> you (x3), law -> on -> disagree -> have -> you (x3), "
+                },
+                {
+                    "comment": " thank you, governor. probably the biggest cliche about the vice-\npresidency is that it's a heartbeat away, everybody's waiting to see\nwhat would happen if the worst happened. how would - you disagree on\nsome things from your principles, you disagree on drilling in alaska,\nthe national wildlife refuge, you disagree on the surveillance law, at\nleast you have in the past. how would a biden administration be\ndifferent from an obama administration if that were to happen.",
+                    "path": "law -> on -> disagree -> disagree -> you (x3), law -> on -> disagree -> have -> you (x3), "
+                },
+                {
+                    "comment": " well ya just told us nazi that if someone was guilty, they'd be in\njail.... stop lying for once in your pathetic life. i said hillary\nwould be in jail if she were demonstrably guilty of corruption.",
+                    "path": "jail -> in -> be -> told -> ya (x2), jail -> in -> be -> said -> i (x2), "
+                }
+            ],
+            "nominal subject -> clausal complement -> clausal complement -> nominal subject": [
+                {
+                    "comment": " \"what's happening at gitmo \" why whats happening there? hey do\nremember that gitmo isn't your land, ya you stole it from cuba in an\nillegal invasion. \"is not even close to what the terrorists are doing\nto our troops\" how the fuck do you know, iran treat americans captured\nexactly how you treat, in fact they have stated that they do it simply\nbecause you do it i.e. http://www.youtube.com/ watch?v=dl_whrekuck btw\nterrorism has athe defintion: \"\u201cthe unlawful use of force and violence\nagainst persons or property to intimidate or coerce a government, the\ncivilian population, or any segment thereof, in furtherance of\npolitical or social objectives\u201d (28 c.f.r. section 0.85). -f.b.i. by\nthis defintion your country is the greatest terrorist nation on earth,\nand has been for quite some time, but im sure you don't think so.",
+                    "path": "terrorism -> ha -> stated -> do -> they (x2), terrorism -> ha -> stated -> dl_whrekuck -> = (x2), "
+                },
+                {
+                    "comment": " \"government has the ability to tax you\" yes, the social contract\ntheory. we consent to taxation through our elected representatives.\n\"they won't let us do anything that they consider morally wrong\" yes,\nagain, that is right, the government does not consider murder to be\nappropriate, therefore they won't let you kill joe-shmoe.",
+                    "path": "murder -> be -> consider -> let -> they (x2), government -> consider -> let -> do -> u (x1), government -> consider -> let -> kill -> you (x1), "
+                },
+                {
+                    "comment": " i'm suggesting that our enemies sent them here to bring ebola here\nhello again, bront: i got it.. these people are weapons.. dude... step\naway from the youtube.. it's rotting your brain. excon",
+                    "path": "enemy -> sent -> suggesting -> got -> i (x3), "
+                },
+                {
+                    "comment": " first of all it would not be a far fetched argument to say that\nillegal crossings of the border by armed men, who later use their\nweapons against us law enfocement, is an invasion of the country hello\nagain, big: trump tells you that the hordes of diseased ms-13 bad\nmotherfuckers on the way here wanna cross the border to kill you..\nit's just not happening.. if we were being invaded, you'd know it.\nexcon",
+                    "path": "horde -> cross -> tell -> be -> it (x1), horde -> cross -> tell -> happening -> it (x1), horde -> cross -> tell -> know -> you (x1), "
+                },
+                {
+                    "comment": " you do understand that the laws in britain &amp; the united states\nare not the same? hi dermot. do you understand that i did not say the\nlaws in britain and the united states are the same? honestly, your\ntemper tantrums are epic. most kids burn themselves out in an hour or\ntwo but you've been going on for at least a week.",
+                    "path": "law -> are -> say -> understand -> you (x3), "
+                }
+            ]
+        },
+        "faulty generalization": {
+            "nominal subject -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " i'm almost 17 then the next year i will be 18 so if the law changes\nto being 15 right after i turn 18 i'm going to be freaking pissed off!\noh, and if you aren't in charge of paying taxes to pay these\npoliticians than you shouldn't be allowed to decide who you are giving\nyour money to. (;",
+                    "path": "law -> change -> be -> i (x3), law -> change -> turn -> i (x3), "
+                },
+                {
+                    "comment": " as always, the liberal gun control fanatics come out of the woodworks\nafter any tragedy. it's amazing these same hypocrites who like to\ndrink never say a peep when many thousands more innocent people are\nkilled by drunk drivers. do you here these hypocrites talking about\nbakground checks in the bar before handing out drinks, and thereby\nsaving many lives from repeat dwi drivers? nah! these hypocrites drink\ndon't you know? they don't want to be inconvienenced. it is absoutely\nlaughable that any intelligent thinking person would make it harder\nfor law abiding citizens to protect themselves, while criminals will\nnot abide by any new laws or restrictions. let me say this very slowly\nfor the hypocritical gun control fools. the only reason big brother\ngovernment wants to take the people's guns, is so they can control the\npeople. this is why guns are outlawed in dictatorships. stricter gun\ncontrol laws don't work as we see in places like chicago, but this of\ncourse is not about saving lives. this is about taking our guns. these\nliars constanty say that their end goals are not to take our guns.\nroflol",
+                    "path": "law -> work -> see -> we (x3), reason -> is -> control -> they (x1), "
+                },
+                {
+                    "comment": " how many us citizens commit identity theft each year? how many us\ncitizens are automatically criminals by being here illegaly... looks\nlike legal citizens winning 0 to 20,000,000 on that one, eh amarel? we\nknow they commit federal crimes at higher rates noted... how many us\ncitizens commit identity theft each year? when you google the words\n\"identity theft\", illegal immigrants comes up on every outcome.\nhttps://www.google.com/ search?ei=0fhnxjfwcmst0pepn9axuaw&amp;q=how\n+many+us+citizens+commit+identity+theft\n&amp;oq=how+many+us+citizens+commit+identit y+theft&amp;gs l=mobile-\ngws-wiz- serp.3..33i299l3.110597.129501..131724.\n..0.0..4.336.13754.0j30j36j2......0.... 1.......5..\n30i10j0i7i30j0i22i30j41j0j0i131j46i131j\n0i67j0i13j0i8i13i30j33i160j33i22i29i30. cjuqdtxs9h0 why? i would\nventure to guess that actual citizens aren't as desperate to steal an\nidentity because they have little reason or desperation to get one. on\nfurther investigation, the social security administration and new york\ntimes report that approximately 75 percent of illegal aliens have\nfraudulently obtained social security numbers, which is a felony. the\naclu accepts this figure and uses it to show that illegal aliens pay\npayroll taxes. https://www.nytimes.com/2005/04/05/ business/ illegal-\nimmigrants-are-bolstering-socia l-security-with- billions.\nhtml?mtrref=undefined&amp;gwh=9a4c9007d9ed2\n9f5e76eb12d3c733cf2&amp;gwt=pay",
+                    "path": "immigrant -> come -> google -> you (x2), citizen -> are -> have -> they (x2), "
+                },
+                {
+                    "comment": " all crime is down by about half what it was 30yrs ago... this does\nnot change the fact that you are an order of magnitude more likely to\nbe shot in the us than in the other \"civilized\", first world,\ncountries, where there are far fewer guns. that is most certainly\ntrue, and it is indeed a problem. however, you implied that the\nincreased number of guns directly causes an increase in the number of\ngun related crimes. if that were so, it would be born out by the\nincreased number of guns bought in this country. instead, gun crime\n(indeed, as you said, all crime) is going down, which would imply that\nthe relationship is not as direct as you implied.",
+                    "path": "crime -> going -> said -> you (x4), "
+                },
+                {
+                    "comment": " it eliminates the need for a gun. criminals won't need a gun any\nmore. also, if non criminals can't get guns it will reduce the overall\nnumber of guns coming into the area making the supply of guns for\ncriminals go down. but, it doesn't matter because the criminals that\nalready have guns become more powerful and it doesn't matter how few\nthey are in number, they will still be able to cause trouble.",
+                    "path": "criminal -> get -> reduce -> it (x2), criminal -> become -> be -> they (x2), "
+                }
+            ],
+            "nominal subject -> clausal complement -> nominal subject": [
+                {
+                    "comment": " plea bargaining is compromizing. compromizing when it comes to\njustice is wrong and must be abolished. . you basically have 2\nscenarios: 1 - the suspect has overwhelming evidence against him/her\nand will likely be convicted in court. 2 - there's no real evidence\nagainst the suspect. . in 1, the cops may want enter a plea bargain to\nsave time and money in court and/or obtain info for another\nconviction. saving time &amp; money for a lesser charge is betraying\nthe public and the victims of the crime , so it shouldn't be done.\ngetting evidence for another conviction is easily done with torture,\nso no need for plea bargain if we practice &amp; refine the art of\ntorture. . in 2, the criminal may want the cops to stop snooping\naround because they might find more incriminating evidence against\nhim/her, so he/she entices the cops to enter a plea bargain for a\nlesser charge and escape the real charge. firstly it's wrong to\nconvict someone of a crime they didn't commit, whether it's less or\nmore. secondly, it encourages people in the system to \"play\" the\nsystem, which is never a good thing.",
+                    "path": "criminal -> want -> entices -> he (x2), cop -> enter -> entices -> he (x2), criminal -> want -> entices -> she (x2), cop -> enter -> entices -> she (x2), "
+                },
+                {
+                    "comment": " the man had another accomplice with him, don't you think two men,\nprobably fucked up on drugs, if they saw a defenseless woman standing\nthere, don't you think something like, oh idk, rape might happen? 1)\nthere was no evidence that he was on drugs 2) since when does drugs\nturn a thief into someone who would harm a baby 3) there was no\nevidence he was going to rape her. and you obviously aren't familiar\nwith the great law of america that if anyone enters your property\nwithout permission, you are free to do what you choose to this\ninvasion of your security. i am familiar with your laws. it is\nbarbaric. he would be a really shitty criminal if cops knew who he\nwas. and its hard to identify people with hoods on, hats, glasses,\netc... there is such a thing as a known criminal. if you are not from\namerica then there is no way you can possibly fathom the amount of\ncorruption and crime that runs rampant in our politics/corporations\ni'm in spain. we have much bigger problems with corruption. this\ndoesnt justify the public being permitted to hand out the death\nsentence to each other.",
+                    "path": "woman -> standing -> saw -> they (x2), rape -> happen -> think -> you (x2), cop -> knew -> wa -> he (x2), "
+                },
+                {
+                    "comment": " if you were running a race and your enemy wanted you to slow down,\nwould you? no. they'd double down, and i'd triple down. the left hate\npeople like me because we were raised on the left, know how to beat\nthe left at their own game, know too much, and are no longer on the\nleft. they couldn't keep up with me on their best day, but most\nconservatives are nice, polite people who don't want to rock the boat.\ni'm not. i say rock the f *ing boat. hell tip that baby upside down.\nif the left suffers the consequences of their own tactics used on\nthem? that's their problem. better learn to swim.",
+                    "path": "enemy -> wanted -> slow -> you (x3), enemy -> wanted -> would -> you (x3), "
+                },
+                {
+                    "comment": " it's what cops do.. cops love to fuck over people. that's why they're\ncops.. it's what blacks do.. blacks love to commit crimes. that's why\nthey're black. it's what muslims do.. muslims love to blow things up.\nthat's why they're muslims. i guess you get the point. what you posted\nwas complete biggoted, narrowminded, fundamentalist trash.",
+                    "path": "cop -> do -> 's -> it (x2), cop -> love -> 's -> it (x2), black -> do -> 's -> it (x1), black -> love -> 's -> it (x1), "
+                },
+                {
+                    "comment": " it's impossible in the same sense that reaching the speed of light is\nimpossible. the closer you get to the truth of a situation the harder\nit is to progress. people are systematically irrational about specific\nthings.this is different than the light analogy. you can't force\npeople to do these things, it has to come from the individuals own\nwillingness. north korea forces irrational behavior. why couldn't the\nsame mechanism force the opposite? an authority could say that it\nwould be a good idea to move in this or that direction, but they\nmustn't force a population to participate. your argument became\ncircular. you're saying that the authority mustn't force , because you\nbelieve that freedom is good, but i'm not convinced. if the broad goal\nis rational and moral, but people won't go freely, than freedom can't\nbe said to be good. at least not when a better goal is reached through\nforce.",
+                    "path": "authority -> say -> be -> it (x3), authority -> force -> saying -> you (x3), "
+                }
+            ],
+            "nominal subject -> conjunct -> nominal subject": [
+                {
+                    "comment": " historically, communism has been successful at a very small scale in\ntribal societies (hence, tribal communism). the problem is, once you\nexpand that scale past the aggregate human 'dunbar number' (about 150\nor so people and no higher than 230 people), you've exhausted the\nlimits of human empathy and so capitalistic laws emerge and come into\nplay. so, 'true communism' can work, but only if human's have a\nmassive expansion in collective neocortex size; and by massive i mean\nif it expanded to the point of doubling our bodyweight it still\nwouldn't be adequate. in short, the only way true communism can work\nin humans is to revert back to tribalism, with tribes remaining under\n230 people.",
+                    "path": "law -> emerge -> exhausted -> you (x3), human -> have -> be -> it (x1), "
+                },
+                {
+                    "comment": " ugh get out. we dont like you. you screw up our economy, take our\njobs, and expect more!!! hey- we have america, you have mexico. its\nyour country! ur problems. there are so many liberals in our society\nand thats why most of you are coming in! most of the convicts are\nillegal immigrants- i always see a murder story, and before they show\nthe criminal, me and my mom guess an illegal immigrant: and we're\nalways right. just go away.",
+                    "path": "criminal -> guess -> see -> i (x2), criminal -> guess -> 're -> we (x2), "
+                },
+                {
+                    "comment": " laws may mask the thin veneer of racism in the world's multi-cultural\nsocieties but they will never develop a genuine attitude of equality\namong whites and certainly will not improve anything for the blacks.\nblacks must become absorbed into the white man's world, adopt his\nsocial habits and work ethic, depart from a life of violent crime and\nthen, and only then will we be at the start of the long road to racial\nharmony. but you presented a good post which contained a lot of truth\nand commonsense .",
+                    "path": "law -> mask -> develop -> they (x3), "
+                },
+                {
+                    "comment": " where are the protests against the nation which gave us hong kong\nflu, s.a.r.s., e-coli and now covid-19? the world is in a state of\nlockdown and the global economy will probably never fully recover from\nthis latest chinese disease. yet withal there is not a cheep of\ncondemnation from the loony leftists. thanks to china people are\ncooped up in their homes while millions are thrown out of their jobs\nall because of wing-wang-woo. try to imagine the extent of the riots\nand mass anti-american demonstrations by the progressive lefties had\nthis coronavirus originated in the u.s.a. instead,what do the lunatic\nlefties do?, blame president trump . why don't these left-wing mad\nhatters take their placards over to china and deliver their message\nthere? that was a rhetorical question of course, as we all know these\nyellow-bellied left wing subversives, or the enemy within have an\nirrational loathing for their own country and will do anything to\ncause discontent and unrest, even in this time of national crisis.",
+                    "path": "enemy -> have -> know -> we (x3), "
+                },
+                {
+                    "comment": " plus, what the players association or the owners think is\nconstitutional law, is nothing more than opinion. free speech law is\npretty straight forward. you can say almost anything, and the law\ncan't touch you. you can say almost nothing, and your employer can\ntouch you. the exceptions to the above are child pornography,\nscreaming fire in a crowded building, creating a riot, etc.",
+                    "path": "law -> touch -> say -> you (x3), "
+                }
+            ],
+            "direct object -> conjunct -> nominal subject": [
+                {
+                    "comment": " that's how he would love to \"run\" america ... as the boss, not a\nservant of the people! and yet we never see your claims manifest in\nactions. if he were as you say, he'd have used force to shut down\nliberal protests, and his voters would cause mass violence, but alas,\nwe never see it.",
+                    "path": "violence -> cause -> used -> he (x3), violence -> cause -> see -> we (x3), "
+                },
+                {
+                    "comment": " ugh get out. we dont like you. you screw up our economy, take our\njobs, and expect more!!! hey- we have america, you have mexico. its\nyour country! ur problems. there are so many liberals in our society\nand thats why most of you are coming in! most of the convicts are\nillegal immigrants- i always see a murder story, and before they show\nthe criminal, me and my mom guess an illegal immigrant: and we're\nalways right. just go away.",
+                    "path": "immigrant -> guess -> see -> i (x2), immigrant -> guess -> 're -> we (x2), job -> take -> screw -> you (x1), "
+                },
+                {
+                    "comment": " did you know that there are about as many civilians are shot by\npolice hello again, a: lemme tell you a little story.. i fought in\nvietnam.. i supported that war. even after i was discharged, i\nsupported it. so, when i heard there was going to be an anti-war march\non wilshire blvd, i wanted to go see who these people were who hated\nthe war.. i wore my uniform and stood on the sidelines with a map,\ncajoling them and asking them if they knew where vietnam was. nobody\ndid. then the cops attacked.. not only did the cops beat the shit out\nof the protesters, they beat the shit outta me, on the sidelines in\nuniform.. that began my hatred for the cops, and it has never\nsubsided.. now, you ask, do cops attack people they hate. and, i\nanswer, you fuckin bet they do! excon",
+                    "path": "hatred -> began -> beat -> they (x2), hatred -> began -> subsided -> it (x2), "
+                },
+                {
+                    "comment": " the democrat party lives in a world of deception. they will use and\nabuse any group at any time it suits them. they go from one so called\nvictim to the next, all to garner votes. here is a small list of their\nvictims... when it suits them... 1) african americans 2) women who\nvote for democrats 3) the alphabet of unnatural sexual orientations...\nlbgtqrsuvwxyzacdef 4) muslims 5) illegal immigrants 6) people living\noff tax payers 7) pets 8) college students etc. etc. but i digress.\nthey can turn on any of these groups if a person goes against their\nvictim mentality. the left hates conservative women and they hate\nconservative blacks, so you must play your role of the victim before\nthe left will care for you.",
+                    "path": "woman -> hate -> hate -> they (x2), woman -> hate -> play -> you (x2), "
+                },
+                {
+                    "comment": " uf i don't have the right to healthcare, you don't have the right to\nmy debate, and if you contact me without an apology, there will be a\nproblem. i don't permaban, but i am taking a break because your\ngoddamnb potus just went to war with syria against russia's wishes,\nand i am phobic of war. this is not prolife that we should go to war,\nkill criminals, and starve the poor and needy to death. you want a\ngoddamn debate, let's do it here. i thought all lives mattered.\nmurica.",
+                    "path": "criminal -> kill -> go -> we (x2), break -> taking -> permaban -> i (x1), break -> taking -> am -> i (x1), "
+                }
+            ],
+            "nominal subject -> conjunct -> direct object": [
+                {
+                    "comment": " i can see where you are coming from, but kim jong il has got to die\nat some point and when he does the nation's government will be\nweakened. i know that he is trying to get his son or something to take\nover but the people of the nation, more than likely, won't respect him\nand therefore the nation will fall apart. unless the new kid can prove\nhimself, and do it fast, there is a chance that north korea could fall\nto rebellions",
+                    "path": "nation -> fall -> respect -> him (x2), kid -> prove -> do -> it (x2), "
+                },
+                {
+                    "comment": " not trying to make it the issue, just using it as an example. certain\nthings should not be left to state because of growing cultural\nalienation. i can use arizona as an example. there was an incident\nwith a few caucasian girls disrespecting mexicans and telling them to\ngo back to there country. it caused great distress among the media and\nthese teenagers were taught this extremely arrogant behaviour by the\ncommunity (considering it was four females from different families\nwith same racist views). that is what i am talking about, while some\ncountries change laws others become increasingly conservative. it\nmight cause another union confederacy division.",
+                    "path": "girl -> disrespecting -> telling -> them (x3), "
+                },
+                {
+                    "comment": " on paper in what way? it's not an ideal form of government (in its\nproper form). will it lead to a dictatorship? unlikely, for the\nbeginning in anarchy would result in massive destruction, taking away\nthe ability to build up major technology. also, with constant battle\nbetween individuals, progression would be almost impossible. how long\nthis will last is irrelevant. the time it does last is anarchy, and in\nthat time it would be most fair and most equal. once a government or\nleadership is formed, it's no longer anarchy. but if one man makes\nanother man his slave, this is merely part of the survival of the\nfittest. no laws condone or condemn it, so all is fair.",
+                    "path": "law -> condone -> condemn -> it (x3), "
+                },
+                {
+                    "comment": " hello poochy boy: here's how government works... the congress comes\nup with a bill, and the congressional budget office scores it..\nscoring tells you how much it's gonna cost. the republicans submitted\ntheir bill, the cbo did its job, and nbc reported it. what's so\nconfusing about that? this is 5th grade civics.. now, fetch this ball.\nexcon",
+                    "path": "congress -> come -> score -> it (x1), congress -> come -> tell -> you (x1), "
+                },
+                {
+                    "comment": " i was on a site and someone posted about how this lady left america,\nmarried an isis member and had his child and now she wants to return\nto america but she was denationalized and now she and her 18 month old\nchild can't come in and she's scared for her child. now, that's an\ninteresting debate for another time but in one of the comments a man\n\"jokingly\" said something to the effect of, \"well she won't have to be\nscared for long, they [the terrorists] will strap a bomb to the kid\nand toss him in a crowd.\" the amount of people who i know are\nreligious that laughed at that and agreed, made me sick. hell the\namount of people that upvoted his comment made me sick.",
+                    "path": "terrorist -> strap -> toss -> him (x2), "
+                }
+            ]
+        },
+        "ad hominem": {
+            "adjectival modifier -> attribute -> nominal subject": [
+                {
+                    "comment": " nah. it's socialism honkey. over two thirds of the venezuelan economy\nis private, so that pisses all over your anti-socialist narrative,\ndummy. the fact of the matter is you're a crooked, selfish little\ncapitalist twerp, who calls every failed country socialist (regardless\nof whether or not it actually is) and every successful country\ncapitalist (regardless of whether or not it actually is). debating you\nis utterly pointless because you have absolutely zero concern for\nfacts bronto. you're a corrupt little arsehole who scours the internet\nfor pictures of black folk to try to con people into thinking your\nrhetoric is coming from somewhere other than the mouth of a shallow\nwhite fascist who does not give a shit about anything other than money\nand power. piss off bronto. you're literally fucking cancer.",
+                    "path": "corrupt -> arsehole -> 're -> you (x2), selfish -> twerp -> 're -> you (x1), little -> twerp -> 're -> you (x1), crooked -> twerp -> 're -> you (x1), little -> arsehole -> 're -> you (x1), fucking -> cancer -> 're -> you (x1), "
+                },
+                {
+                    "comment": " he didn\u2019t threaten anyone. lol. he said that elizabeth warren needs\nto die, and the sooner the better. why are you such a corrupt little\njew, amarel? your double standards are so far beyond ridiculous it's\nlike you are some kind of far right parody. you claim grugore \"didn't\nthreaten anyone\" after he threatened to kill elizabeth warren, while\nyou simultaneously called factmachine stalin for having a problem with\ngrugore's violent rhetoric. you just disgust me. you are such a\ncorrupt, dishonest little prick. fuck off.",
+                    "path": "corrupt -> jew -> are -> you (x2), corrupt -> prick -> are -> you (x2), little -> jew -> are -> you (x1), little -> prick -> are -> you (x1), "
+                },
+                {
+                    "comment": " after all, they didn't help us at normandy either us? you were\nnowhere near normandy you pathetic revisionist. you are a disgusting\nhuman being. a fake jew and a fake soldier. other people die and you\ntry to take the credit for it.",
+                    "path": "pathetic -> revisionist -> were -> you (x2), disgusting -> being -> are -> you (x2), human -> being -> are -> you (x1), "
+                },
+                {
+                    "comment": " there are issues. you are the issue, not cultural diversity. and no,\ni don't think criminality is fine but i'm not pretending that it's all\nblack people. also, where's your punctuation, you bleeding hypocrite?\nthe guy is a total waste of space. i'm not even sure whether he\nbelieves the trash which comes out of his own mouth or if he's just\ntrying to be provocative because his mental age is so low and it\npasses as entertainment for him. either way, he's a truly obnoxious\nhuman being.",
+                    "path": "obnoxious -> being -> 's -> he (x2), black -> people -> 's -> it (x1), human -> being -> 's -> he (x1), "
+                },
+                {
+                    "comment": " yet you can never refute any of their points yet you claimed the\nprecise opposite 5 minutes ago when you said i praised communist\ncountries. you are such a stupid, dirty, disgusting fascist liar that\nyou cannot even stick to the same lies for longer than 5 minute\nintervals.",
+                    "path": "disgusting -> liar -> are -> you (x2), stupid -> liar -> are -> you (x1), dirty -> liar -> are -> you (x1), "
+                }
+            ],
+            "attribute -> nominal subject": [
+                {
+                    "comment": " nobody has told you what jihad means bronto, because none of us are\nmuslims. technically correct, but ommits that you've defended the\nreligion like its your child. something you would never do and have\nnot done for any other religion. you literally made that up to give\nyourself a faux reason to start an argument. how pathetic. not\nactually. https://youtu.be/kede6da n6m i am not an enemy of islam,\nbronto. we know this. you are an enemy of conservatives who are less\nright than islamism. i do not sit on these boards all day attacking\nmuslims so i have got nothing to worry about. right. you sit here all\nday and attack christians and jews because you're an antisemitic bigot\nlike your hero, adolf hitler. it's why the only group you defend is a\ngroup commanded to kill jews. it's also why you refuse to condemn\nfarrakhan despite his praise of hitler. care to continue?",
+                    "path": "enemy -> am -> i (x3), enemy -> are -> you (x3), "
+                },
+                {
+                    "comment": " who would ever know what johnson stands for? the biased liberal media\nspends all their time crucifying trump for some past vulgarity while\npraising bill clinton as the democrat's spoksmen even though he is a\nrapist and has been impeached. the biased liberal media buries most of\nhillary's scandals. they don't want gary johnson getting any traction.\nthe vast majority of the media is in bed with the democrat party. we\nare no longer a majority two party nation. we have become a one party\nnation controlled by our main stream media and this extremist democrat\nparty. any third party candidate has no chance! the voters who will\nnot vote for trump should definitely vote for johnson, and send a loud\nand clear message that the electorate will not stand for an elite\ncriminal (who calls millions of americans deplorable and irredeemable)\nwho is not deserving of our national security clearance, and should\nnever be rewarded with our presidency.",
+                    "path": "nation -> are -> we (x2), nation -> become -> we (x2), rapist -> is -> he (x1), "
+                },
+                {
+                    "comment": " when you have some proof that i am a terrorist i have already proven\nthis. you attacked muslims with allegations of terrorism, even though\nthe people you support are responsible for 73 percent of terror\nattacks in the us. not only are you a terrorist: you're a world class\nhypocrite to boot.",
+                    "path": "terrorist -> am -> i (x2), terrorist -> are -> you (x2), hypocrite -> 're -> you (x1), "
+                },
+                {
+                    "comment": " just imagine if obama had had the same level of attacks and inquiry\nas trump by the state media. hello again, g: i do imagine it.. it was\ncalled birtherism. and, it wasn't an attack by the media.. it was a\nvile, filthy, racist attack by your leader, and it was relentless.. do\ni feel sorry for the racist sonofabitch? nahh.. excon",
+                    "path": "attack -> wa -> it (x4), "
+                },
+                {
+                    "comment": " it\u2019s harassment, and it\u2019s a crime. if they would have successfully\nentered that home, mr.carlson would have been right to open fire.\npeople should note that this is the same partisan hypocrite who\nearlier claimed the 30 women who have accused donald trump of sexual\nharassment are \"victimizing\" him.",
+                    "path": "harassment -> \u2019s -> it (x2), crime -> \u2019s -> it (x2), "
+                }
+            ],
+            "adjectival complement -> nominal subject": [
+                {
+                    "comment": " yeah but you're too retarded to understand what i said though. lol!\nyes bronto. i am the problem. not your israeli pseduo-reality where\nhitler was a liberal and jason kessler loves blacks. comunism was\nsupposed to lead to an extreme lett wing utopia oh, i see. now that\nyou've been proven wrong, communism was supposed to be on the left,\nbut it actually ended up on the right, yes? ahahahaha! you literally\njump out of one lie straight into another, don't you? you are\nabsolutely fucking pitiful, bronto.",
+                    "path": "retarded -> 're -> you (x2), pitiful -> are -> you (x2), fucking -> are -> you (x1), "
+                },
+                {
+                    "comment": " obsession? yes i was merely mentioning you because you are stated as\none of mingiwuwu's enemies, you mong there\u2019s that obsession for detail\nagain , why you\u2019re calling me a \u201c mong \u201c is beyond me ,is this because\nyou admitted you\u2019re retarded and now you\u2019re attempting a \u201c defence \u201c ?\nit\u2019s fine buddy i accept you\u2019re retarded and i\u2019ve offered my pity in\nthe past only for you to fly into a rage you say we have identical\nbeliefs, yet every progressive both on this site and that i've ever\nknown has never had traditionally non-progressive ideas. i believe in\nsome progressive ideas, but you guys can't even accept that people\nhave differing opinions. what that bullshit is meant to mean is beyond\nme , you americans and your obsession with politics and your\nconstitution is pretty tragic",
+                    "path": "retarded -> \u2019re -> you (x4), "
+                },
+                {
+                    "comment": " you know what alfie? it is so gay that you call him that. it makes\nyou sound gay. you are gay, nom. shut up gay nom. you are gay so you\nshould shut up.",
+                    "path": "gay -> are -> you (x2), gay -> is -> it (x1), gay -> sound -> you (x1), "
+                },
+                {
+                    "comment": " no one who voted for trump refutes the fact that trump has a huge\nego. we admit he many times says stupid things off the cuff before\nthinking, which i find quite refreshing in a politician. i'm so sick\nof listening to polished professional liars telling us what we want to\nhear, and then doing the exact opposite. if we based our president's\nsuccess on their speaking abiities, obama would have been the gretest\npresident in history. he was so eloquent with his words, but then we\nsaw what he supported behind closed doors. he was as corrupt as they\ncome. he was the first openly no restriction abortion supporter in the\nsenate and presidency. he lied through his teeth over obamacare, how\nhe said he cared about our huge debt after bush, how he would bring\nboth sides together in bipartisan unity, how he was supposedly against\ngay marriage, etc. etc. a president's success will never be judged on\nhis speaking abilities, but rather his accomplishments making\namerica's economy grow, bringing americans together as one, creating a\ngood foreign policy, bringing safety to americans, etc. etc.",
+                    "path": "sick -> 'm -> i (x2), corrupt -> wa -> he (x2), "
+                },
+                {
+                    "comment": " lemme see.. privilege vs oppression.. dude! it looks like you're\ninferring that smollett got off because he's black.. that's nuts.. he\ngot off because he's rich.. not very oppressed sounding is it... dude!\nit may come as a shock to you, but in america, black people don't get\noff because they're black.. dude again. hmmm... most judges are\nlibs... maybe you're dead wrong, but then again...no other group is\nfaker than the majority of white leftists. maybe you're right. maybe\nthe libby judge let him off for some other reason... justice is for\nsale here in america! indeed...",
+                    "path": "black -> 's -> he (x1), rich -> 's -> he (x1), black -> 're -> they (x1), wrong -> 're -> you (x1), "
+                }
+            ],
+            "adjectival modifier -> direct object -> nominal subject": [
+                {
+                    "comment": " hating white people, is just as racist, as hating black or other\npeople. but they don't hate white people you fat stupid bitch. you say\nthey hate white people because they have the audacity to complain\nabout the way black people are treated. it's the oldest trick in the\nbook.",
+                    "path": "white -> people -> hate -> they (x2), stupid -> bitch -> hate -> they (x1), fat -> bitch -> hate -> they (x1), "
+                },
+                {
+                    "comment": " they both support mass immigration/illegal immigration what the\nliteral fuck do your false claims about them supporting illegal\nimmigration have to do with my argument about politics being corrupt?\njesus christ, fuck off you insane little man. you literally cannot\neven look at a piece of information without trying to find a way to\nwarp it into an attack against the left. you are literally mad. nobody\nwants to read your ceaseless wave of shitposts you boring shill. fuck\noff.",
+                    "path": "illegal -> immigration -> support -> they (x2), illegal -> immigration -> supporting -> them (x2), "
+                },
+                {
+                    "comment": " a wall is actually addressing the problem. it's doing something! what\ndo democrats do? nothing because they want the future illegal\nimmigrant vote. it is all pure politics. fools who speak of the cost\nof building a wall while totally ignoring the extreme cost of social\nprograms taking care of illegal immigrants, are laughable. these same\nfools simply play to their liberal ideolog voting blocks.",
+                    "path": "illegal -> vote -> want -> they (x2), immigrant -> vote -> want -> they (x2), "
+                },
+                {
+                    "comment": " yeah, i'm tone deaf to the immoral rantings of the right. not all of\nthem, because not all are for \"the wall\" or the nazi tactics turning a\ngood organization (ice) into a gestapo-like band of \"enforcers\"! those\nsame people know that obama did not run the borders in any similar\nmanner! fake rw news! al how many sick illegal aliens do you want in\nyour house ?????? how many can you open borders proponents house in\nyour home ????????",
+                    "path": "sick -> alien -> want -> you (x2), illegal -> alien -> want -> you (x2), "
+                },
+                {
+                    "comment": " all of the conservatives i interact with are complete assholes. does\nthat mean i would be justified in acting like they are repsentative?\nof course not, because anecdotal evidence is insufficient to make\nrepresentative claims regarding large groups. when you ascribe\nmalicious intent to those you disagree with, it isn't surprising you\nmanage to find reaffirming examples, since you are assuming malicious\nintent.",
+                    "path": "malicious -> intent -> ascribe -> you (x2), malicious -> intent -> assuming -> you (x2), "
+                }
+            ],
+            "attribute -> clausal complement -> nominal subject": [
+                {
+                    "comment": " why in hell are you so worried about hillary?? she's basically gone,\nis no threat no threat, but she makes an excellent red herring when\nyour boss is under pressure for obstructing justice!!",
+                    "path": "threat -> is -> 's -> she (x6), "
+                },
+                {
+                    "comment": " \"i said that line cracks me up, not 9/11\" what the hell, neither did\ni. that's not what i was implying. \"how can you say he kept us safe\nfor eight years, when the biggest terrorist attack on u.s. soil\noccurred during his presidency? \" because its not his fault if you\ndon't think 9/11 was bush's fault then how can you say that he do\neverything in his power to keep the country safe from terrorism? \"i\nnever said he was a monster.\" didn't say you did. \"i do read the new\nyork times\" that explains a lot. \"i just think his presidency was a\nfailure by almost every metric you could use.\" go for it then. use all\nof your metric units to prove his presidency a failure. that's a very\nbold statement. not that i am against bold statements, but you didn't\nexplain why .",
+                    "path": "monster -> wa -> said -> i (x2), failure -> wa -> think -> i (x2), fault -> wa -> think -> you (x1), "
+                },
+                {
+                    "comment": " the reason there is more crime in poor neighborhoods is poverty it is\ndisgusting that you think poor people are criminals. worst marxist\never!",
+                    "path": "poverty -> is -> is -> it (x2), criminal -> are -> think -> you (x2), "
+                },
+                {
+                    "comment": " i didn't say it was a conspiracy yes you did, imbecile. you literally\nsaid it was a left wing conspiracy.",
+                    "path": "conspiracy -> wa -> say -> i (x2), conspiracy -> wa -> said -> you (x2), "
+                },
+                {
+                    "comment": " what a disengenous fuck you truly are , where did i state that you\nliar ? i said there were implied consent laws there are your\nunawareness of this fact is hardly my fault . all u.s. states have\ndriver licensing laws which state that a licensed driver has given\ntheir implied consent to a certified breathalyzer or by a blood sample\nby their choice,or similar manner of determining blood alcohol level\nnow, if police suspect you of drug use, the protocol changes. based on\nprobable cause, the officer can take you back to the station for\neither a blood test or analysis from a drug recognition expert,\naccording to martin kron now go away you stupid fuck",
+                    "path": "law -> were -> said -> i (x3), fault -> is -> said -> i (x1), "
+                }
+            ]
+        },
+        "intentional": {
+            "adjectival complement -> nominal subject": [
+                {
+                    "comment": " super stupid you are going to tell me that all the illegal wetbacks\nthat enter the us are dreamers ? super stupid have you any facts the\nillegal wetbacks are just dreamer children ? super stupid you are\ndevoid of any facts because you can't produce them. your typical\nleftist insanity shows you want open borders and all that cross the\nborder are dreamer wetback children !you are so stupid in the title of\nyour post you admit they are illegal !",
+                    "path": "stupid -> are -> you (x2), illegal -> are -> they (x2), stupid -> going -> you (x1), "
+                },
+                {
+                    "comment": " trump doesn't want to win but colluded to win. understand? hello\nbront: nahhh... trump didn't collude.. he didn't know collude from\nocclude.. he wanted to win... he was willing to take the help that was\noffered. he only found out later that he shouldn't have.. so, since\ncollusion/conspiracy needs a corrupt mind, trump didn't have one..\nhowever, the same can't be said about obstruction.. the mueller report\nis clear - even though trumps behavior was lawful - it was awful. i\nsay it was awful enough to shitcan him as our president.. excon",
+                    "path": "awful -> wa -> it (x4), "
+                },
+                {
+                    "comment": " hoaxsters never admit they hoaxed, just like liars never admit they\nlie. what the hell's wrong with you? were you a breach baby, a crack\nbaby or were dropped on your head at birth or something? maybe, you're\na product of inbreeding and are just don't know any better. i'm sure\ni'm in the ballpark on this because i think you're so retarded you\ndon't even know you're retarded. later, retard.",
+                    "path": "retarded -> 're -> you (x4), "
+                },
+                {
+                    "comment": " absolute wealth and relative wealth are well known economic\nprinciples that can easily be looked up. so this lie won\u2019t work for\nyou. the definition of money and economic gains from trade are also\neasily researchable. pretending that money and wealth are the same in\norder to pretend that economics is disproved by math only highlights\nyour dishonesty. i haven\u2019t only stayed that you are wrong, i have\nthoroughly shown why. i illustrated why trade occurs to mutual\nbenefit. you pretending to buy paper cups under pain of death isn\u2019t\nfooling anyone. it was kind of fun schooling you, though you are\nincapable of learning. you can fuck off now.",
+                    "path": "fun -> wa -> it (x2), wrong -> are -> you (x1), incapable -> are -> you (x1), "
+                },
+                {
+                    "comment": " i am a huge supporter of the 2nd amendment. that doesn't mean i would\ndeny that one must be responsible before one has certain rights. for\nrights as potentially dangerous as owning and bearing guns, it is not\nunreasonable to require proof that one is sufficiently responsible.\nnor is it unreasonable to consider certain rights forfeit under\ncertain circumstances such as criminal history or diminished mental\ncapacity. some states can afford to reduce certain over-bearing\nrestrictions while other states could do well to add a law or two.\nsome states should add a little here and remove a little there. this\nisn't a question of quantity so much as quality. should responsible,\nlaw abiding citizens be able to own and carry guns? if so, then the\nquestion should be; how difficult should it be to prove that they\nqualify? i would argue that most adults should qualify and it\nshouldn't be difficult to prove it. i don't think this would be such a\npolitically divisive issue if people would think about the issue\nitself, rather than thinking whatever their team tends to think.",
+                    "path": "unreasonable -> is -> it (x2), responsible -> be -> one (x1), responsible -> is -> one (x1), "
+                }
+            ],
+            "clausal complement -> nominal subject": [
+                {
+                    "comment": " those countless thousands of parasites who at no time worked a day in\ntheir lives never paid a cent in taxes, ( how could they?) hello a:\nit's sad that you know so little about stuff.. in this great nation of\nours, if you buy a quart of liquor, you pay taxes. if you buy a gallon\nof gasoline, you pay taxes. if you buy milk, you pay taxes. if you\nhave a home, you pay taxes.. if you rent a home, you pay taxes.. if\nyou fly on an airline, you pay taxes.. if you talk on a cell phone,\nyou pay taxes. if you have cable tv, you pay taxes.. in fact, there's\nprobably 1,000's of different taxes, mixed in with licenses and fees,\nthat we all pay, and that you don't appear to know about.. dude! excon",
+                    "path": "pay -> pay -> you (x6), "
+                },
+                {
+                    "comment": " no pyggy...i'm not pro-hunting because i don't think i could kill\nanything. i gather you do enjoy the chase and that's fine. i'm not\nhere to talk you out of that. it's not the point. the point is this\nvideo and what it means. shooting something just for shit and giggles\nis a horrible thing. you want to kill deer to eat that's ok by me.\nmany people love it and i've seen the trophy's in people's homes and\nlodges. i don't say you shouldn't do it, i'm saying i can't and...i\nsay what is the sense in maiming an innocent animal who is only doing\nwhat his instinct tells him to do and leave him lying there injured\nand hurt. that's the point.",
+                    "path": "kill -> think -> i (x3), injured -> say -> i (x2), "
+                },
+                {
+                    "comment": " if someone is bad enough to be considered for the death penalty then\nthey must have had sure evidence that they are guilty if they are then\nthey shouldn't deserve the right to live among people they could kill",
+                    "path": "kill -> deserve -> they (x3), deserve -> had -> they (x1), deserve -> kill -> they (x1), "
+                },
+                {
+                    "comment": " i never denied they exist, so you're welcome to place your lies\nelsewhere. you implied they didn\u2019t exist by clearly stating and\ndeliberately lying that you only ever seen 2 overweight american\npolice men , that is a deliberate lie and you only stated that why if\nnot to deny the obvious ? - i see that the fbi did no release their\nfindings. this is why i asked for a citation, because i've checked for\nseveral other sites and many more are citing the fbi's released\ninformation. yet i find it funny that they're not actual revealing\nwhatever study they've decided to base this information on. it must be\na conspiracy theory then the fbi mush have a hidden agenda in look for\nthis information, i've run across more than six other sites that all\ncome back with different variations, though most of it does center\naround 40%. yet yesterday you denied the 40% it\u2019s truly telling that a\neuropean has to constantly fill you a few your buddy amarel in on\nwhat\u2019s happening in the us using american sources you\u2019re not even\naware of",
+                    "path": "revealing -> decided -> they (x2), funny -> find -> i (x1), funny -> 're -> they (x1), "
+                },
+                {
+                    "comment": " i never denied they exist, so you're welcome to place your lies\nelsewhere. - i see that the fbi did no release their findings. this is\nwhy i asked for a citation, because i've checked for several other\nsites and many more are citing the fbi's released information. yet i\nfind it funny that they're not actual revealing whatever study they've\ndecided to base this information on. in look for this information,\ni've run across more than six other sites that all come back with\ndifferent variations, though most of it does center around 40%.",
+                    "path": "revealing -> decided -> they (x2), funny -> find -> i (x1), funny -> 're -> they (x1), "
+                }
+            ],
+            "direct object -> nominal subject": [
+                {
+                    "comment": " those countless thousands of parasites who at no time worked a day in\ntheir lives never paid a cent in taxes, ( how could they?) hello a:\nit's sad that you know so little about stuff.. in this great nation of\nours, if you buy a quart of liquor, you pay taxes. if you buy a gallon\nof gasoline, you pay taxes. if you buy milk, you pay taxes. if you\nhave a home, you pay taxes.. if you rent a home, you pay taxes.. if\nyou fly on an airline, you pay taxes.. if you talk on a cell phone,\nyou pay taxes. if you have cable tv, you pay taxes.. in fact, there's\nprobably 1,000's of different taxes, mixed in with licenses and fees,\nthat we all pay, and that you don't appear to know about.. dude! excon",
+                    "path": "tax -> pay -> you (x8), little -> know -> you (x1), "
+                },
+                {
+                    "comment": " jesus had no disdain for jews. he had disdain for their religious\nleaders, so named the pharisees, namely the priests. he did not rebuke\nthe concepts of the 10 commandments. he did rebuke the ceremonial law\nof moses, not out of hatred for jews, but rejection of the hypocrisy\nof the religious leaders, and the ceremonial law being obsolete.\nobsolete being the exact word, ver batum, used in the new testament.\njesus was a jew. his followers were jews. his mother was a jew. he\neven praised jews. hitler did and was none of those things. jesus also\ncommanded us to love god, our neighbor, and even our enemy. obviously\nhitler was none of those things either. he did have a morbid\nfascination with tath darwin fish though..... and we both know which\nlack of belief system loves that darwin fish.... isn't that a daisy?\nthat makes you a nazi. how does it feel to be hitler's twin?",
+                    "path": "law -> rebuke -> he (x3), disdain -> had -> he (x2), jew -> praised -> he (x1), fascination -> have -> he (x1), "
+                },
+                {
+                    "comment": " this is civilian, not military. hello again, high: i was in the\nmilitary.. i took an oath.. it doesn't have an expiration date.. i am\na patriot.. when my commander in chief designates someone as an enemy,\ni'm obligated to kill 'em.. lemme ask you this... what happens if we\nactually are facing an enemy.. when the president calls 'em the enemy,\nshould the soldiers hold their fire and wonder if he means a military\nenemy or a civilian enemy??? words matter - especially when they come\nout of the presidents mouth.. excon",
+                    "path": "enemy -> facing -> we (x3), enemy -> mean -> he (x3), "
+                },
+                {
+                    "comment": " that's called good cop - bad cop.. i thought you watched law &amp;\norder. hello hater. impersonating a jew is called fraud. i thought you\nwatched law &amp; order?",
+                    "path": "law -> watched -> you (x6), "
+                },
+                {
+                    "comment": " i do believe that it was dr. king who said we are all equal because\ngod made us equal. if we eliminate religion in that field... i guess\nwe really have no true authority to say who's equal and who's not. i\ndon't care though, since i don't believe in a higher moral authority.\n\"all men are created equal\"... who says? some people? why does their\nopinion count more than mine? or more than a skin head, or black\npanther, who says we're not all equal. try and say god, pfft,\nseperation of church and state ya bastards, you can't bring that moral\nauthority around here.",
+                    "path": "authority -> have -> we (x3), authority -> bring -> you (x3), "
+                }
+            ],
+            "nominal subject -> clausal complement -> nominal subject": [
+                {
+                    "comment": " hello again, mint: of course.. i would have explained the law to\npoochy boy, but he wouldn't understand it.. it's pretty simple.. you\nmay claim self defense only if you're cornered and there are no\navenues of escape.. if you can escape and choose not to, it's not self\ndefense. it's murder.. stand your ground laws say you don't have to\ntake that avenue of escape.. you can stand your ground and kill\nsomebody.. but, not every state has stand your ground laws. but, even\nstand your ground laws don't allow you to shoot somebody in the back..\nthat has nothing to do with self defense, and everything to do with\nvengeance.. excon",
+                    "path": "law -> say -> 's -> it (x3), law -> say -> have -> you (x3), law -> say -> stand -> you (x3), law -> allow -> shoot -> you (x3), "
+                },
+                {
+                    "comment": " well actually you're wrong. if there was absolutely no brain, i.e.\nnot even a stem, then it would be dead. what you mean is that us law\nhas established that you don't need sufficent enough brain to allow\nconciousness in order to be human. fair enough. i can see why the law\nhas decided this because if it didn't there is a risk of other non-\nconcious people being classed as non-human. this is the 'slippery\nslope' argument for the development of common law. whether someone is\nhuman or not that isn't concious is extremely contencious. i'm glad\nyou have it so well decided but you shouldn't be surprised when people\ndon't agree. personhood is almost a philosophical branch in itself.",
+                    "path": "law -> established -> need -> you (x3), law -> decided -> see -> i (x3), "
+                },
+                {
+                    "comment": " do you understand that i did not say the laws in britain and the\nunited states are the same the other user is right. you implied &amp;\nassumed their laws, rules &amp; regulations were the same on police.\nthey aren't.",
+                    "path": "law -> are -> say -> i (x3), regulation -> were -> implied -> you (x1), "
+                },
+                {
+                    "comment": " ok. i'm still with you on this one then. my one disclaimer though is\nit says these are just \"pending\" charges, meaning he isn't actually\nbeing prosecuted for it yet, and they listed some good behavior\nrequirements officers say he needs to do between now and the court\nappearance. so i don't know how canadian law typically works but\nperhaps it's not abnormal to list potential charges as pending and\nthen wipe them out if the person remains on good behavior(?) i mean,\nhe isn't currently locked away awaiting trial. and that hints they may\nnot do anything about these charges. but you say today if you shoot a\ncriminal according to a judge you heard the book will be thrown at you\n!!!!!!!!! lmmfao do you leftist know where you stand ?",
+                    "path": "law -> work -> know -> i (x3), officer -> say -> need -> he (x1), "
+                },
+                {
+                    "comment": " outlaw, isn't it true that you once discovered oil in your back yard,\nyou fucking beverly hillbilly?",
+                    "path": "outlaw -> is -> discovered -> you (x2), outlaw -> is -> fucking -> you (x2), "
+                }
+            ],
+            "adjectival complement -> clausal complement -> nominal subject": [
+                {
+                    "comment": " hoaxsters never admit they hoaxed, just like liars never admit they\nlie. what the hell's wrong with you? were you a breach baby, a crack\nbaby or were dropped on your head at birth or something? maybe, you're\na product of inbreeding and are just don't know any better. i'm sure\ni'm in the ballpark on this because i think you're so retarded you\ndon't even know you're retarded. later, retard.",
+                    "path": "retarded -> 're -> think -> i (x2), retarded -> 're -> know -> you (x2), "
+                },
+                {
+                    "comment": " seeing as the impeachment trial did not prove wrongdoing on his part.\ni'd say that it's rather evident that he was going to be acquitted\nfrom the get go.",
+                    "path": "evident -> 's -> say -> i (x2), evident -> 's -> going -> he (x2), "
+                },
+                {
+                    "comment": " oh dear you really need to read a bible , ( it's a book christians\nignore but claim to follow ) but i say to you that everyone who is\nangry with his brother will be liable to judgment; whoever insults his\nbrother will be liable to the council; and whoever says, \u2018you fool!\u2019\nwill be liable to the hell of fire. ouch :) enjoy hellfire :)",
+                    "path": "liable -> be -> say -> i (x3), "
+                },
+                {
+                    "comment": " oh dear you really need to read a bible , ( it's a book christians\nignore but claim to follow ) but i say to you that everyone who is\nangry with his brother will be liable to judgment; whoever insults his\nbrother will be liable to the council; and whoever says, \u2018you fool!\u2019\nwill be liable to the hell of fire. ouch :) enjoy hellfire :)",
+                    "path": "liable -> be -> say -> i (x3), "
+                },
+                {
+                    "comment": " oh dear you really need to read a bible , ( it's a book christians\nignore but claim to follow ) but i say to you that everyone who is\nangry with his brother will be liable to judgment; whoever insults his\nbrother will be liable to the council; and whoever says, \u2018you fool!\u2019\nwill be liable to the hell of fire. ouch :) enjoy hellfire :)",
+                    "path": "liable -> be -> say -> i (x3), "
+                }
+            ]
+        },
+        "appeal to emotion": {
+            "nominal subject": [
+                {
+                    "comment": " \"one life is worth more than another? seems like it.\" all unborn\nchildrens lives are worth the same. they have not done anything wrong.\nbecause all of there lives are worth the same, we need to save as many\nof them as we can. \"we kill billions of other living things all the\ntime for lesser reasons.\" ok, so what are you saying? \" its ok if we\nkill them, we kill other people all the time and its not big deal!\" so\nif someone comes to your house in the middle of the night and kills\nyour child (assuming you have one), it will be ok because we kill\nother living things all the time for lesser reasons.",
+                    "path": "kill -> we (x12), "
+                },
+                {
+                    "comment": " i am not spreading diseases if you don't vaccine you have every\ncapability of contracting and spreading a disease. just look at the\nrise in measles due to anti-vaccers. you don't have the right, to live\noff of my body no one is living off your body, i have no idea where\nyou are getting that from. i will not be vaccinated, even if someone\nmight die that. right there. that is the problem we have. you don't\ncare if you kill people so long as you can freely say you have the\nright to choose. those are your own words. so damn the consequences,\ndamn the rest of the world and the innocent people you could\npotentially murder, damn the families and friends you could\ncontaminate, damn every innocent person that does what they can to\nprotect others. so long as you get to do what you want, it doesn't\nmatter what you do to others. sounds a bit like rape, doesn't it?",
+                    "path": "kill -> you (x3), vaccine -> you (x1), care -> you (x1), murder -> you (x1), "
+                },
+                {
+                    "comment": " our troops have been there for 75 years we can fight them for\neternity or leave that god forsaken land and let them kill each other\nlike they always do. i say let them destroy each other like animals.",
+                    "path": "kill -> them (x3), fight -> we (x2), destroy -> them (x1), "
+                },
+                {
+                    "comment": " so do you loathe nom for how he has spoken to dana encouraging her to\nkill herself for being so retarded in severely harsh and personal ways\nas well as threatened her? i personally wouldn't do that as she is\nclearly fragile and might actually do it if pushed far enough. in all\nhonesty i don't care about her at all but i don't want to be\nresponsible for someone committing suicide. i don't think nom went as\nfar as you perceive it though, merely telling someone they should kill\nthemself is very different from methodically and deliberately\nconvincing them to which i am capable of but would never do.",
+                    "path": "kill -> they (x3), loathe -> you (x2), care -> i (x1), "
+                },
+                {
+                    "comment": " neither are greater risks for americas national security. america is\nits own greatest risk of its own security and well being. i'm not\nafraid of any other country, however i do fear america, namely its\nmilitary, power, and the fact that we obtain probably the most nukes\non the entire planet. i should not fear my own government. they should\nfear us citizens, however this is not the case. sad but true.",
+                    "path": "fear -> i (x4), fear -> they (x2), "
+                }
+            ],
+            "direct object": [
+                {
+                    "comment": " how would torturing a kidnapper to find the child be any different to\na person who kills their rapist? \"my rapist should be dead. his name\nis donald charles smith, and i'll kill him if i ever see him.\" killing\nhim is both a form of vengeance and vindication. if i were to torture\nsomeone to get information about where my child is, that isn't\nnecessarily killing him, i'd want them alive to make sure what\ninformation they gave me is truthful. what happens afterwards depends\non what condition i find my baby in.",
+                    "path": "killing -> him (x4), kill -> him (x3), "
+                },
+                {
+                    "comment": " nuke them with all you have usa kill them mercilessly as they killed\nsmall children like cowards had i been a soldier i wouldn't have\nbothered giving my life but to take away a life of a child they must\nreally pay for it . bunch of cowards.",
+                    "path": "kill -> them (x3), nuke -> them (x2), "
+                },
+                {
+                    "comment": " yes, it is true that we have to fight to save people's life however,\nhave you thought about the long term effects that could happen by\nwaging war and using force to help those people? look at what\ndeforestation brought us, a hole in the ozone and increase risk of\nhaving skin cancer. look at what global warming is doing to us, how it\naffects us. when those polar ice caps melt, more people are gonna die\nthen in a genocide. why? cause its going to be global, not just one\ncountry is affected but many. so what if by using those bombs and\nchemicals you can save those people now? you are in-directing killing\nthem all off later. so then, is it necessary? its either they kill\nthemselves, or you save them so they can die another day.",
+                    "path": "kill -> themselves (x3), killing -> them (x2), "
+                },
+                {
+                    "comment": " ah i forgot. thinking would in fact hurt you, maybe even kill you. so\nto save a life....carry on with your nonsense.",
+                    "path": "kill -> you (x3), hurt -> you (x1), "
+                },
+                {
+                    "comment": " i am personally opposed, but prochoice, so i agree. i am so god damn\nmiserable i want to kill myself, because my mother, did not have the\ngod damn courtesy, to abort me, and i hate her, for it.",
+                    "path": "kill -> myself (x3), hate -> her (x1), "
+                }
+            ],
+            "adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " \"one life is worth more than another? seems like it.\" all unborn\nchildrens lives are worth the same. they have not done anything wrong.\nbecause all of there lives are worth the same, we need to save as many\nof them as we can. \"we kill billions of other living things all the\ntime for lesser reasons.\" ok, so what are you saying? \" its ok if we\nkill them, we kill other people all the time and its not big deal!\" so\nif someone comes to your house in the middle of the night and kills\nyour child (assuming you have one), it will be ok because we kill\nother living things all the time for lesser reasons.",
+                    "path": "kill -> kill -> we (x6), kill -> be -> it (x3), "
+                },
+                {
+                    "comment": " there it is! the magic words.... \"believing in the principles this\nnation was founded on. nothing more. if you believe in what america is\nall about and you fight to keep it that way, you're a patriot. we must\nfight to keep it that way, and when it goes astray, we must fight\nharder to get it back to what it should be. that means identifying the\nproblems and speaking the words that must be spoken!",
+                    "path": "fight -> believe -> you (x2), fight -> 're -> you (x2), fight -> go -> it (x2), "
+                },
+                {
+                    "comment": " i am not spreading diseases if you don't vaccine you have every\ncapability of contracting and spreading a disease. just look at the\nrise in measles due to anti-vaccers. you don't have the right, to live\noff of my body no one is living off your body, i have no idea where\nyou are getting that from. i will not be vaccinated, even if someone\nmight die that. right there. that is the problem we have. you don't\ncare if you kill people so long as you can freely say you have the\nright to choose. those are your own words. so damn the consequences,\ndamn the rest of the world and the innocent people you could\npotentially murder, damn the families and friends you could\ncontaminate, damn every innocent person that does what they can to\nprotect others. so long as you get to do what you want, it doesn't\nmatter what you do to others. sounds a bit like rape, doesn't it?",
+                    "path": "kill -> care -> you (x3), vaccine -> spreading -> i (x1), care -> kill -> you (x1), "
+                },
+                {
+                    "comment": " do you more fear a drunk driver when you child drives, or some mass\nmurderer with a gun in schools? you poor americans need to emigrate to\ncountries where one doesn\u2019t face a life of worrying about being mowed\ndown by drunk drivers or gun toting citizens , no wonder yous are\nrated 121 least peaceful country in the world your love for guns comes\nat a price buddy suck it up. seeing as you\u2019re now frothing at the\nmouth about drunks driving what about the simple truth that those same\ndrunks have the \u201cright \u201c to carry a gun or do you not have a problem\nwith that either?",
+                    "path": "fear -> child -> you (x2), child -> fear -> you (x1), seeing -> frothing -> you (x1), seeing -> have -> you (x1), "
+                },
+                {
+                    "comment": " nuke them with all you have usa kill them mercilessly as they killed\nsmall children like cowards had i been a soldier i wouldn't have\nbothered giving my life but to take away a life of a child they must\nreally pay for it . bunch of cowards.",
+                    "path": "kill -> killed -> they (x3), nuke -> pay -> they (x2), "
+                }
+            ],
+            "conjunct -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " hello m, while they\u2019ll treat your emergency, without health\ninsurance, if you have cancer, they won\u2019t treat that - and you\u2019ll die.\nexcon",
+                    "path": "die -> treat -> treat -> they (x2), die -> treat -> have -> you (x2), "
+                },
+                {
+                    "comment": " @marcus i am not sure what you think the elephant man train scene\nclip illustrates it illustrates that if you lived as that person,\nregardless of other peoples ignorance &amp; preconceptions, then you\nwould be forever tormented and crippled by these 'good' people--to the\npoint of living a life of seclusion; as he did. again, people in \"13\nreasons why\" did not all have malevolent intent, and felt varying\ndegrees of guilt afterward. however, first and foremost, nearly\neveryone was out to cover their own ass first--even if they knew they\nwere guilty as charged. also, you do realize there were literally\n'freak shows', 'freak collections (as a hobby)', 'human zoos', etc.\netc., all in recent history? it appears you are doubting that 'average\npeople', strangers would gawk at people like that (or more)--when\nthere is a tremendous evidence to the contrary--including the elephant\nman's life. additionally, stating (most) people are only partially\nmoral, often more self-absorbed/self-interested is very different than\nstating people are demons--which is how you appear to have interpreted\nthe statement.",
+                    "path": "crippled -> tormented -> lived -> you (x2), crippled -> tormented -> did -> he (x2), "
+                },
+                {
+                    "comment": " i \"cling\" to mine. is that bad? yes, it is bad. if you cling to your\ngun your aim will become unsteady, your trigger control will suffer,\nand you will more easily fatigue. you should have a firm enough grip\nto maintain control of the weapon, but relaxed enough to place well\naimed shots.",
+                    "path": "suffer -> become -> cling -> you (x3), "
+                },
+                {
+                    "comment": " yes i agree, and then we have bigots such as obama and yourself still\ntalking about crusades a thousand years ago, or old testament jewish\nlaw, to try and ridicule christians today. listen to your words and\nmove on! hate is a waste of time!",
+                    "path": "law -> talking -> have -> we (x3), "
+                },
+                {
+                    "comment": " \"one life is worth more than another? seems like it.\" all unborn\nchildrens lives are worth the same. they have not done anything wrong.\nbecause all of there lives are worth the same, we need to save as many\nof them as we can. \"we kill billions of other living things all the\ntime for lesser reasons.\" ok, so what are you saying? \" its ok if we\nkill them, we kill other people all the time and its not big deal!\" so\nif someone comes to your house in the middle of the night and kills\nyour child (assuming you have one), it will be ok because we kill\nother living things all the time for lesser reasons.",
+                    "path": "kill -> come -> be -> it (x3), "
+                }
+            ],
+            "conjunct -> nominal subject": [
+                {
+                    "comment": " i will support and defend the constitution of the united states\nagainst all enemies, foreign and domestic; that i will bear true faith\nand allegiance to the same; that i take this obligation freely,\nwithout any mental reservation or purpose of evasion; and that i will\nwell and faithfully discharge the duties of the office on which i am\nabout to enter. so help me god. hello a: ask, and you shall receive...\nthat's the fbi oath. but, that wasn't what my question is about.. i\nthink you know what i'm asking, but you don't like it, so you try to\ndistract.. or, maybe you don't know stuff.. if not, lemme help you\nout.. right now, today, the republicans in congress, in order to\ndiscredit the muller investigation, are saying the fbi is tainted,\nit's turning into the kgb, and needs to be purged.. apparently these\nright wingers don't want lefties to be fbi agents.. hence, my\nquestion.. do you wanna address it, or feign ignorance again?? excon",
+                    "path": "defend -> support -> i (x2), bear -> support -> i (x1), discharge -> take -> i (x1), "
+                },
+                {
+                    "comment": " some people hate some don't its up to them to forgive and forget\nothers hold grudges but i do not absolutely do not bame them if they\nhate the opposite skin colour but they should not be angryb at all of\nus and you cant hate someone if there great great grandad killed your\nmama or someone else because they didn't do anything i personally\ndon't care about skin colour. some people if they are put i a room\nwith the opposite race they will be rude and ignore everyone or even\nbe racist but if it was me i wouldn't care if i was in there i would\nhonestly just try and make friends it is not that hard at all. the\nskin colour does not make a difference about there personality or who\nthey are and i get it about jews and natzies but still maybe don't\nlive with hate in our heart and try tomove on and i personally the\nrasicm and if i ever heard some one being racist to another person i\nwouldn't be able to help but go and give them a piece of my mind about\nracism",
+                    "path": "hate -> be -> they (x2), hate -> bame -> i (x1), ignore -> be -> they (x1), "
+                },
+                {
+                    "comment": " there it is! the magic words.... \"believing in the principles this\nnation was founded on. nothing more. if you believe in what america is\nall about and you fight to keep it that way, you're a patriot. we must\nfight to keep it that way, and when it goes astray, we must fight\nharder to get it back to what it should be. that means identifying the\nproblems and speaking the words that must be spoken!",
+                    "path": "fight -> fight -> we (x4), "
+                },
+                {
+                    "comment": " in the beginning i was not convinced that it would be but after\nseeing him again at last night's debate with obama i have to agree\nthat age may be a factor here. while he has a fairly clean bill of\nhealth now i can only wonder by his wooden appearance and lack of\nintonation that there may just be something coming that would not bode\nwell for him. of course, and as you all know, my vote goes to obama,\nbut i fear for jmc and i fear for our country should palin have to\ntake charge. the difference between 73 and 77 is huge in medical terms\nand to bring it to the worst case scenario of 81, i think would\ncompromise the nation should he lose his faculties. he's been through\nmuch and i wish nothing but the best of health to him but i think it's\ntime to think...not only for those that are undecided but for anyone\nwho votes for him!!!",
+                    "path": "fear -> fear -> i (x4), "
+                },
+                {
+                    "comment": " i \"cling\" to mine. is that bad? yes, it is bad. if you cling to your\ngun your aim will become unsteady, your trigger control will suffer,\nand you will more easily fatigue. you should have a firm enough grip\nto maintain control of the weapon, but relaxed enough to place well\naimed shots.",
+                    "path": "suffer -> fatigue -> you (x3), "
+                }
+            ]
+        }
+    },
+    "perspective": {
+        "fallacy of relevance": {
+            "nominal subject -> clausal complement -> nominal subject": [
+                {
+                    "comment": " are you kidding? i constantly speak to this inhuman issue of\nabortion. i constantly try to educate people like you to the inhumnity\nof voting for politicians who support even no restriction abortions in\nnine states! if people like you stopped voting for democrats, within a\ncouple years, you would see our abortion laws change so fast it would\nmake your head spin. democrats have no core values when it comes to\nabortion. they will change their spots in an instant if they thought\nthey would lose their electons because of it. before roe, when it was\nillegal to get abortions(other than extreme cases such as life of\nmother),there were far fewer abortions. laws do work! i have also\ngiven money and support to crisis pregnancy centers where they help\npregnant women keep the baby and not spend years of living in guilt.",
+                    "path": "law -> change -> see -> you (x3), woman -> keep -> help -> they (x2), "
+                },
+                {
+                    "comment": " it's so obvious to intelligent people. it's obvious that nations can\nnot let non vetted refugees into their nations as we see the results.\nthese are not legal immigrnt muslims wanting to live in the west and\nsupporting our values. these are muslims from nations filled with the\nhate of terrorism. they are only coming to the west because of war.\nthere should be safe zones for these refugees in their own nations or\nother muslim nations. europe is lost and the progressives in this\nnation lack the simplest intelligence to get it. they want our nation\nto follow europe's lead. fools!",
+                    "path": "nation -> let -> 's -> it (x2), nation -> follow -> want -> they (x2), "
+                },
+                {
+                    "comment": " i really would love to see ladyminxfart weigh in on this debate.\nespecially on my earlier post about how i think that many lesbians are\nwhat they call emotional lesbians. that is, due to a bad past\nexperiences with men they simply chose to have sex with females from\nno on. and that there's a much higher percent of these emotional gay\nwomen than there is of men who are gay. that is....gay men are more\napt to have been born gay than are lesbians. sure, there are some\nlesbos who were born that way. too much testosterone while in the\nwomb, perhaps. but there is still a good amount of them who were\noriginally of hetero inclination. i doubt she will opine, however, as\nshe almost never speaks of gay issues. yet she claims they are her\nfavorite debates! weird, huh? thanks!",
+                    "path": "lesbian -> are -> think -> i (x2), lesbian -> are -> call -> they (x2), "
+                },
+                {
+                    "comment": " did you know that isis has openly come out and said they hope\namericans vote for donald j trump? does that sound right to you? that\nthe terrorist group dedicated to trying to destroy us wants us to\nchoose him? i hope and i repeat i hope you wouldn't do what terrorists\nwant you to do. you know they say a word to the wise is sufficient,\nand here i've gone and written a paragraph.",
+                    "path": "terrorist -> want -> do -> you (x4), "
+                },
+                {
+                    "comment": " so you are accepting that governor gavin newsome's gun laws in\ncalifornia are not working.",
+                    "path": "law -> working -> accepting -> you (x3), "
+                }
+            ],
+            "attribute -> clausal complement -> nominal subject": [
+                {
+                    "comment": " the fool spews pure lies, as always. i have not had one leftist\nanswer my question. i will give you one more chance... why is it that\n60 years ago in america, there were no mass shootings of children in\nschools. there were no mass killing of strangers for no good reason.\nback then, most people had guns and there were very few gun\nregulations. so if the left's reasoning is that the weapon of choice\nis the reason for these mass killings, why were there so few back\nthen? to the sane people on this planet, we realize that guns are not\nthe problem. it's our culture, its all the drugs, it's hollywood\nviolence, it's a breakdown in our family structure whereby kids are\nabandoned, living with case workers, dead beat fathers no where in the\npicture, etc. etc. but to gun hating idiots like you, it's the gun!",
+                    "path": "violence -> 's -> 's -> it (x6), breakdown -> 's -> 's -> it (x2), "
+                },
+                {
+                    "comment": " i should have said that differently. i don't think all muslims are\nterrorists, the way not all christians are terrorists. i wasn't\ncriticising you. i was just pointing out that \"terrorist\" is a word\nwithout a clearly agreed upon definition. most of the time it is\nlittle more than a form of smear used upon perceived enemies of the\nunited states. if we consider the most obvious common denominator of\npurposefully killing civilians, then why were the bombings of nagasaki\nand hiroshima not considered the worst acts of terrorism in modern\nhistory?",
+                    "path": "terrorist -> are -> think -> i (x4), "
+                },
+                {
+                    "comment": " and there you have it folks, proof positive of vladimir lenin's\ndefinition of \"useful idiots\"! leftist logic is illogical. they're\nsaying 'speech is violence,' immediately followed with, 'we will not\nbe silent.' \"speech is violence! we will not be silent!\" so you're\nsaying you're going to be violent? the commie leftist have removed\ntheir mask and exposed who they truly are.",
+                    "path": "violence -> is -> saying -> they (x3), "
+                },
+                {
+                    "comment": " why is it there is such gun violence in a city run by progressives ?",
+                    "path": "violence -> is -> is -> it (x3), "
+                },
+                {
+                    "comment": " you are changing a very important word: he said it is a greater\nthreat, not a more imminent one. that is an absolutely massive\ndifference. as for the link between global warming and terrorism, it\nis pretty straight forward: when people have to compete for scare\nresources, they tend to resort to violence. global warming will lead\nto a scarcity of certain resources in certain parts of the world,\nwhich would naturally lead to increased violence in those parts of the\nworld. it's fairly reasonable to assume terrorism would be part of\nthat increased violence. now if someone is saying climate change is\ncurrently increasing terrorism, then that is absurd.",
+                    "path": "threat -> is -> said -> he (x3), "
+                }
+            ],
+            "adjectival complement -> clausal complement -> nominal subject": [
+                {
+                    "comment": " to the fool liar, democrats have already come after our hunting\nrifles that hold more then seven rounds. these are not assault rifles!\nhe asked you to define an assualt rifle, and what did you do? you\nsaid... \"a weapon that will put out an inordinate amount of bullets,\nprobably in seconds, that will do excessive damage to a human,\"\ninordinate amount? the gun law in ny said that our hunting rifles\nholding more than seven rounds was too much! you say in seconds? how\nmany seconds? our automatic shotguns can fire rounds in a matter of\nseconds! tearing a body apart? our shotguns will definitely tear a\nbody apart. you prove our point. you spew these general terms for what\nyou call an assault rifle, while the democrats you elect are after our\nhunting rifles. they want to come into our homes and take our guns!\nit's sick how naive you truly are!",
+                    "path": "sick -> 's -> are -> you (x2), naive -> are -> 's -> it (x1), "
+                },
+                {
+                    "comment": " this new age democrat party is totally soft on crime. they have no\nproblem with the millions of drug addicted teens. teens who are preyed\nupon to buy these illegal drugs, get addicted and become their user\nbase for their criminal activities. non violent offenders? tell me,\nhow many people die from illegal drug overdoses, bad drugs, or drive\nby shootings from drug gang wars, etc. etc. non violent? democrats are\nweak on foreign affairs, they are weak on crimes, they are weak on gun\nvilolence, and who pays the price for democrat bleeding heart\nweakness? innocent americans pay the price.... those who die from\naddictions at the hands of these criminals who obama lets go free.",
+                    "path": "weak -> are -> are -> they (x3), "
+                },
+                {
+                    "comment": " i did not say that you could not do the same. i believe your\ninterpretation is wrong (i.e. that she was asking personally for a\nhandout). as i believe it's wrong, i believe it's twisting her words.\ni'm sure you believe my interpretation is wrong, ergo, it is twisting\nher words. it seems that through your confusion you have stated no one\nshould be able to analyze another's words. i'm sure that was not\nintended, but i see no other logical extension from your standpoint.",
+                    "path": "wrong -> is -> believe -> i (x1), wrong -> 's -> believe -> i (x1), wrong -> is -> believe -> you (x1), "
+                },
+                {
+                    "comment": " i did not say that you could not do the same. i believe your\ninterpretation is wrong (i.e. that she was asking personally for a\nhandout). as i believe it's wrong, i believe it's twisting her words.\ni'm sure you believe my interpretation is wrong, ergo, it is twisting\nher words. it seems that through your confusion you have stated no one\nshould be able to analyze another's words. i'm sure that was not\nintended, but i see no other logical extension from your standpoint.",
+                    "path": "wrong -> is -> believe -> i (x1), wrong -> 's -> believe -> i (x1), wrong -> is -> believe -> you (x1), "
+                },
+                {
+                    "comment": " you should try having to debate you... the best evidence of your\nstupidity is that you think we are debating. you genuinely don't seem\nto realise that telling me what i think and what i would do is not\ndebate. brilliant nom. \"america's system is corrupt\", thus you, who\nlives in britain, do not vote. i don't vote because britain's system\nis corrupt, so why would i vote if america's system is also corrupt?\nare you even listening to yourself? you are insanely stupid. we know\neverything about you. you are not a collective. you are one very\nstupid, very nasty forty seven year man without a single friend in the\nworld. your own beliefs preclude friendship and companionship, which\nmust explain why you are such a nasty little shit.",
+                    "path": "corrupt -> is -> vote -> you (x2), "
+                }
+            ],
+            "direct object -> clausal complement -> nominal subject": [
+                {
+                    "comment": " road island joe why is it your media avoids the gun violence in\nchicago ???????",
+                    "path": "violence -> avoids -> is -> it (x3), "
+                },
+                {
+                    "comment": " obama has never said islamic terrorism as to yet ! so why is it the\n\"epic failure\" of a president cannot call the enemy for whom they are\n?",
+                    "path": "enemy -> call -> is -> it (x3), "
+                },
+                {
+                    "comment": " understandable. i guess i have just run into the whole - the quickest\nfix is not the best fix - problem enough to skew my opinion. of course\nthe quickest fix is not the best fix or the most optimal. i just\nprefer a quick fix to many problems. an absolute monarchy would\ngenerally seem to be above the law, right? since they create the law,\nthey can say that the law specifically does not apply to them. or,\nsince they also control sentencing, they can say their sentence is\nnothing (or to eat a slice of pecan pie...). true, very true. yea,\nsometimes i think wikipedia is way underrated (then i see some other\npostings...) i wiki many things. i don't doubt many wiki articles. if\nthe people feel they are living under an undesirable monarch, what\nmethod should be used to change them? whatever method suits their\nfancy. i'd imagine the people would resist the law or the\nking's/queen's orders will be ignored.",
+                    "path": "law -> resist -> imagine -> i (x3), "
+                },
+                {
+                    "comment": " and the lady that opposes him recieves political donations for saudi\narabia, a place that has actual real live slavery. i don't like\neither, but....businesses that exploit labor use loopholes, saudi has\nlaws that actually help slave owners. sooo.... put that on your pope\nand smite it.",
+                    "path": "law -> ha -> like -> i (x3), "
+                },
+                {
+                    "comment": " i don't think we need laws to govern who goes in what bathrooms. it's\nwasteful, unenforceable, and unnecessary.",
+                    "path": "law -> need -> think -> i (x3), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> clausal complement -> nominal subject": [
+                {
+                    "comment": " you have absolutely no clue how much deterence this wall will be to\nillegal immigrants. it's funny how i never hear the left speak to the\ncost of changing every public school bathroom to allow boys in the\ngirls bathrooms. how about the cost of expanded medicaid in every\nstate, or the cost of sanctuary cities, or the cost of paying for\nthese millions of illegal immigrants on our social programs, etc. nah,\nliberals never care about cost until a republican is spending the\nmoney, then all of a sudden you become deficit hawks! who do you think\nyou are kidding? democrats see illegal immigrants and refugees as\nmillions more minority votes. that is their only reason for being so\nweak on illegal immigration and possible terrorist refugees.",
+                    "path": "immigrant -> to -> be -> have -> you (x2), cost -> to -> speak -> hear -> i (x1), cost -> about -> care -> become -> you (x1), "
+                },
+                {
+                    "comment": " it is amazing that 550 people have died in the windy city from gun\nviolence but yet the open borders crowd cares deeply for the children\nof honduras and guatemala.",
+                    "path": "violence -> from -> died -> is -> it (x3), "
+                },
+                {
+                    "comment": " apparently he was right, it is hard for some people to grasp the\ndangers of large systemic changes to our environment. terrorism is so\nsimple, somebody takes a gun and shoots people. climate change causing\ndroughts and sea level rise which cause famines and mass migrations\nwhich lead to starvation and political upheaval which ultimately\nresults in revolutions and wars requires to much thought. i'm sure\ncigarettes and french fries kill more people than terrorists. i'm sure\nmore people die from normal gun violence or drunk driving than\nterrorism. does pointing that out make me an out of touch elitist?",
+                    "path": "violence -> from -> die -> 'm -> i (x3), "
+                },
+                {
+                    "comment": " the united nations (that does so little to truly help people) should\nsecure these safe zones with help from the world if needed. i'm sorry,\nwhat would that entail? what is a 'safe zone?' where would they be?\nare they meant to be permanent? what's wrong with the global refugee\nsystems that are already in place, that the us has minimal engagement\nin? our laws can never encourage illegals. i would just like to remind\nyou that these people you've demonized in your mind aren't 'illegals,'\nthey're people. what's sickening is we hve a corrupt democrat party\nthat even supports sanctuary cites tht protects criminals. when you\nhave one party so uncaring to our laws because of politics you're\nright, people are saying 'man, these people's lives shouldn't be torn\napart, maybe i should try to make people's lives better, that way\nthey'll vote for me.' pure political nonsense.",
+                    "path": "law -> to -> uncaring -> have -> you (x3), "
+                },
+                {
+                    "comment": " i don't think he cares about the victims of 911. he just needs a good\nphoto opportunity to try to get his ratings back up from the gutter!",
+                    "path": "victim -> about -> care -> think -> i (x3), "
+                }
+            ]
+        },
+        "faulty generalization": {
+            "object of preposition -> prepositional modifier -> direct object -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " no they're not. christians are trashed and bashed regularly by the\nleft, just look at how the left treats those who don't conform to\ntheir beliefs: gay marriage, serving gay functions just to name a few.\nyou never hear the left criticize islam, mohammed the pedophile,\nenslavement of women, restriction on freedom of speech/expression,\nfreedom of/from religion; the left always tries to condemn\nchristianity any time criticism of islam is brought up.",
+                    "path": "woman -> of -> enslavement -> mohammed -> hear -> you (x2), "
+                },
+                {
+                    "comment": " thank god he didn't have an ak! he could have killed dozens of cops\nbefore they got him \u2026. and a bunch of civilians\ntoo!!!!!!!!!!!!!!!!!!!!!! (sorry for the outlaw talk). ;-)",
+                    "path": "cop -> of -> dozen -> killed -> got -> they (x2), "
+                },
+                {
+                    "comment": " it\u2019s become clear over the past four years that, unless we address\nthe root economic causes of many american voters\u2019 anger and social\nalienation, we will remain a divided nation, with many remaining\nsusceptible to the message of people like donald trump. what is truly\nastounding to me is that any poor person believes trump gives a shit\nabout their economic situation. he's someone who actually personifies\nand embodies the elitism and privilege which is rotting the united\nstates from the inside, and clues about his disdain for poor folks\naren't exactly hard to find.",
+                    "path": "anger -> of -> cause -> address -> remain -> we (x2), "
+                },
+                {
+                    "comment": " the iranian general's record of terrorist atrocities qualified him to\nbe regarded as a legitimate target by all right thinking people. how\nthe sanctimonious bleeding heart brigade and left wing loonies will be\nclambering to claim the moral high ground with their usual sickening\ndisplays of virtue signalling by bellowing how the execution of this\ngodfather of international terrorism was illegal and unnecessary. this\npiece of mad dog's shit was planning a series of sophisticated attacks\non american personnel as he had successfully done previously.",
+                    "path": "attack -> of -> series -> planning -> done -> he (x2), "
+                },
+                {
+                    "comment": " i find it funny that yes california admits that it's in the toilet\nbut at the same time it's seemingly blaming the rest of the nation for\nits breakdown. it reminds me of clinton and the dnc. they cannot ever\nlook at themselves in the mirror to identify who's responsible for\ntheir demise.",
+                    "path": "nation -> of -> rest -> blaming -> find -> i (x2), "
+                }
+            ],
+            "nominal subject -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " if you speak strong words to the enemy, then the enemy comes into\nyour house and you do nothing about it, they kill your children, and\nyou apologize saying home invaders aren't all bad, you are mentally\nill.",
+                    "path": "enemy -> come -> speak -> you (x3), enemy -> come -> kill -> they (x3), "
+                },
+                {
+                    "comment": " any nut can not go buy a gun. the editor of the chicago tribune\ntried, in order to show how easy it was to buy and ar-15, but he\nwasn't allowed to because of a background check. moreover, most of\nthose guns that are used in murders come from the black market.\ntherefore, making it harder for a law abiding citizen to get a gun\nwould do nothing to help with murders in fact it would just cause more\ndeath because the law abiding citizens would be helpless when a murder\nwith a gun comes. also, maybe instead of increasing gun control the\ngovernment should increase firearm training and proper storage of\nfirearms in order to avoid incidents. sorry if offended you you can go\nbuy a straw at kmart and suck it up.",
+                    "path": "law -> do -> harder -> it (x3), law -> be -> cause -> it (x3), "
+                },
+                {
+                    "comment": " yeah, i love it when a \"woman\" making $7 million a year goes on rants\nabout the rich, while she lives in her rich, white neighborhood...",
+                    "path": "woman -> go -> love -> i (x2), woman -> go -> life -> she (x2), "
+                },
+                {
+                    "comment": " hello again, bront: in criminal work, things proceed thusly: first,\nthere's a crime.. then an investigation.. if evidence is found,\ncharges are levied.. as we've learned, evidence comes after the\ninvestigation.. don't you watch law and order??? dude! excon",
+                    "path": "investigation -> come -> learned -> we (x2), evidence -> come -> learned -> we (x1), "
+                },
+                {
+                    "comment": " rotfflmmfao ! the victims of stockholm syndrome solely belongs to\nthose on the left when it came to obie for sure and then the loser\nthat was hillary. nice try dummy but the finger you are pointing goes\nright back to you !",
+                    "path": "victim -> belongs -> came -> it (x3), "
+                }
+            ],
+            "nominal subject -> conjunct -> nominal subject": [
+                {
+                    "comment": " mr. bloomberg\u2019s finances are largely opaque, and they are almost\ncertainly the most complex of all the democratic presidential\ncandidates. he has not released any tax returns since entering the\ndemocratic primary, and his campaign has postponed filing a personal\nfinancial disclosure form until late march, after many of the states\nhe is contesting will already have voted. you stupid douche i am\nquoting the democrats.",
+                    "path": "finance -> are -> are -> they (x3), campaign -> postponed -> released -> he (x1), "
+                },
+                {
+                    "comment": " re: \" each time muslim terrorists commit an atrocity, such as today's\nknife attack in london where one woman was murdered and three remain\ncritically ill in hospital, the authorities try to attribute the blame\non ''mental health issues'' i just saw that on tv this morning and\nthey never mentioned muslim, or islam, only that he may have mental\nproblems. they're bound and determine to protect those that will\nultimately slash their throats. go figure.",
+                    "path": "authority -> try -> saw -> i (x3), "
+                },
+                {
+                    "comment": " i am an engineer. i am a problem solver. this oil and gas dependency\nis problem outlaw that all engineers are pulling their hair with. it's\nthe ultimate problem. i know you see it. but you are right , no\ncountry isn't \"addicted \" to oil and gas today. i was hoping the us\nwould be the first to free itself from the shackles. i know it can. we\njust need funding for reasearch and i know it's possible... it has to\nbe. every problem has a solution. the only insolvable problems are\nthose related to our human condition. because if you are right, and\nthat it is impossible to find an alternate reasource, excuse my\nlanguage, our generations are fucked. making america great again will\nbe useless because it won't be a durable greatness... as for ideas:\nthere is very interesting reasearch around using electromagnetic force\nfor small levitation and movement. that would eliminate the use of\nroads. it's in a very rough draft but more funding could accelerate\nfinding other idea. there are ideas that reduce the use of gas like\nhybrids.",
+                    "path": "funding -> accelerate -> 's -> it (x3), "
+                },
+                {
+                    "comment": " minimum wage should be set in stone and anyone paying below it\nprosecuted , a worker is entitled to a decent return for his / her\nlabour and shouldn't they expect it ? all across europe minimums wage\nlaws apply and this is the mark of a progressive society ; do you\nhonestly think people that work for little or nothing do so out of\nchoice ? to pay below a fair minimum rate is exploitation",
+                    "path": "law -> apply -> think -> you (x3), "
+                },
+                {
+                    "comment": " no, targeted tax cuts as in... only if your child goes to college, or\nif you buy a home, or if you ran yourself into debt, etc. etc. their\ntax cuts always have conditions that have to be met or you get no tax\ncut. what about people with no kids? they should get tax cuts as well.\nthe gop usually give income tax cuts to all people who work and pay\ntaxes.",
+                    "path": "child -> go -> buy -> you (x1), child -> go -> ran -> you (x1), cut -> have -> get -> you (x1), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " here is what the new clemency initiative requires: \"under the new\ninitiative, the department will prioritize clemency applications from\ninmates who meet all of the following factors: \u2022they are currently\nserving a federal sentence in prison and, by operation of law, likely\nwould have received a substantially lower sentence if convicted of the\nsame offense(s) today; \u2022they are non-violent, low-level offenders\nwithout significant ties to large scale criminal organizations, gangs\nor cartels; \u2022 they have served at least 10 years of their prison\nsentence ; \u2022they do not have a significant criminal history; \u2022they\nhave demonstrated good conduct in prison; and \u2022they have no history of\nviolence prior to or during their current term of imprisonment.\"\nhttps://www.justice.gov/pardon/ clemency-initiative \"dumping criminals\nback on the streets\" ralph casas is still in jail and will be for the\nnext 10 years - his sentence was reduced from life in prison to 24 and\n1/3 years. ramon gonzalez - sentence was reduced from life\nimprisonment to 30 years (for marijuana possession with intent to\ndistribute) \"mostly for drug crimes...\" if you think people should\nserve decades in jail / life imprisonment for marijuana possession\n(even with intent to sell) i would just respectfully disagree....",
+                    "path": "crime -> for -> reduced -> think -> you (x2), possession -> for -> reduced -> think -> you (x1), imprisonment -> from -> reduced -> think -> you (x1), "
+                },
+                {
+                    "comment": " of course not. they will be in uniform. if it's a surprise attack\nthey will be in whatever they have on, probably sneakers or in some\ncases flip flops, bunking down in whatever ditch they can find for\ncover while they are shooting at the enemy. duh. no one who is at risk\nfor a surprise firefight is going to be wearing sequins outfits and\nheels especially when they are over seas and potentially surrounded by\nthe enemy.",
+                    "path": "enemy -> at -> shooting -> find -> they (x3), "
+                },
+                {
+                    "comment": " your hyper-focus on right wing violence it is the facts which have a\nhyper-focus on right wing violence my friend. based on a csis data set\nof terrorist incidents, the most significant threat likely comes from\nwhite supremacists https://www.csis.org/analysis/ escalating-\nterrorism-problem-united- states far-right groups are behind most u.s.\nterrorist attacks https://www.nytimes.com/2020/10/24/us/ domestic-\nterrorist-groups.html you are a victim of facts, not bias. is exactly\nwhy you can't see the double standard in the bigger picture. the only\ndouble standard i am seeing is coming from idiots like you, who refuse\nto accept responsibility for their own acts of violence, and instead\nblame everything, literally everything on the left. you are like\nspoiled 12 year old children who don't understand the concept of\ntaking responsibility for your own mistakes.",
+                    "path": "violence -> on -> focus -> is -> it (x3), "
+                },
+                {
+                    "comment": " thanks for the facts once more. if we left it up to anti gun liberals\nlike hillary, people would actually believe that more gun control\nmeasures would have an impact. they do not as we constantly see in\ncity's with the most strict gun control laws. if you like your\nfreedoms to own guns, you are out of you mind if you vote for these\nextremist democrats. their ultimate goal is to take your guns. no\nquestion about it!",
+                    "path": "law -> with -> see -> do -> they (x3), "
+                },
+                {
+                    "comment": " when you're manic you go full conservative. lol. i like that. when\nyou're manic, you harass dana with threats and suicide encouragement\nand make fun of her for her mental health then turn around and pretend\nto be her buddy .",
+                    "path": "threat -> with -> harass -> 're -> you (x3), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> conjunct -> direct object": [
+                {
+                    "comment": " perhaps obama pardoned manning because after trump is president he\nwould be most likely to go to the jail and grab him/her by the crotch?",
+                    "path": "jail -> to -> go -> grab -> him (x2), jail -> to -> go -> grab -> her (x2), "
+                },
+                {
+                    "comment": " almost always the death penalty is imposed on those who have been\nconvicted of willful and premeditated murder. does that defence work\nin court? say, for example, i discover that my grandmother has just\nbeen murdered by my best friend. in a fit of rage i then kill my best\nfriend. does the court let me off or do i get sent to jail for murder?",
+                    "path": "jail -> to -> sent -> let -> me (x2), murder -> for -> sent -> let -> me (x1), "
+                },
+                {
+                    "comment": " i've been accused of being almost a rapist, by a girl i didn't even\nassociate with. i new a guy who was accused of sexual harassment\nbecause he held a door open for a girl, and told her she looked good\nat work. i knew a girl who would go from guy to guy and sue her ex's\nfor money. that is how she made a living (not by working). what i am\nsaying, is that if a girl can get money, a lot of girls will go out of\ntheir way to accuse guys of whatever when they know they have money.\neven trump has been accused of rape.",
+                    "path": "girl -> for -> held -> told -> her (x3), "
+                },
+                {
+                    "comment": " hello: i'm told that the right wing, not the left, is responsible for\ncivil rights.. hogwash! i was there.. i know the truth. my ship was\nstationed in charleston, sc. i was a 17 year old kid from denver. for\nthe first time in my young life, i saw two sets of drinking fountains,\none for whites, and one for blacks. i saw black people riding in the\nback of the bus.. i saw a black shipmate knocking on the back door of\na restaurant, and eating his dinner on the back steps cause he\ncouldn't sit with us in the dining room.. it was a turbulent time.\nblack people were finally taking exception to racism, and were on the\nstreets.. i joined 'em. i knew who was on my side and i knew who\nwasn't.. liberals delivered civil rights to the nation, and the right\nwing opposed it at every junction. they're still opposed to it.. excon",
+                    "path": "nation -> to -> delivered -> opposed -> it (x2), "
+                },
+                {
+                    "comment": " obama was meeting with a muslim that had close ties to the islamic\nrevolutionary guard. can you democrats believe that obama was siding\nup with such terrorist and then allowing them into the white house.\nnasty conservative smear artists just like you were saying the same\nthings when tony blair met with ira leaders, but he successfully\nbrokered a peace deal which no other prime minister in the past sixty\nyears had even dreamed was possible. he would have been remembered\nvery favourably in british history in fact, were it not for the\nunfortunate business of him being duped by the republican liars in\namerica who told him saddam was about to blow up europe. dirty\npolitics is synonymous with the grand old party. if you can't smear,\nslander, blackmail or bribe it, you simply pay to have it killed.",
+                    "path": "terrorist -> with -> siding -> allowing -> them (x2), "
+                }
+            ]
+        },
+        "ad hominem": {
+            "adjectival modifier -> attribute -> nominal subject": [
+                {
+                    "comment": " this is pure gold a democrat comparing his party to nazis. nah. it's\npure gold when holocaust survivors and holocaust historians compare\nyour party to the nazis. a corrupt airhead news anchor who compares a\ngoddamned jew to hitler needs to be permanently kicked off the air.\nwhere are your usual accusations of anti-semitism tonight, chinaman?\nah, i think we both know that you're a corrupt little nazi fuck, don't\nwe? you're a corrupt little klan-loving white supremacist cock stick,\ntrying to convince people that a far left jew is the same thing as a\nfar right nazi. go suck a dick you brainless airhead.",
+                    "path": "corrupt -> fuck -> 're -> you (x2), corrupt -> stick -> 're -> you (x2), pure -> gold -> 's -> it (x1), little -> fuck -> 're -> you (x1), nazi -> fuck -> 're -> you (x1), little -> stick -> 're -> you (x1), loving -> stick -> 're -> you (x1), "
+                },
+                {
+                    "comment": " the source of my opinion id lsrge, and eclectic, so it's not just\nright wing, or blazetv. yes it is you crazy twat!!!!! you have linked\nblaze tv and only blaze tv. you claimed that blaze tv is \"proof\" that\nblm are terrorists. you're a fat fucking liar dana. you're a fat liar\nwho watches wingnut far right propaganda then claims to be a centrist.",
+                    "path": "crazy -> twat -> is -> it (x1), crazy -> twat -> is -> you (x1), fucking -> dana -> 're -> you (x1), fat -> dana -> 're -> you (x1), fat -> liar -> 're -> you (x1), "
+                },
+                {
+                    "comment": " i am missing nothing. i was making a point of the controlling nature\nof the left. the only point you are making is that you are an unwell\nlittle nazi. any person with an ounce of gray matter so not you then.\nbecause you're an idiot. understand that politicians are corrupt. any\nperson with an ounce of grey matter understands you can't tar every\npolitician with the same brush. some are corrupt. others are not\ncorrupt. you might as well tell us that every person with an ounce of\ngrey matter understand pilots are tall, or apples are red. you're\nliterally just an absurdly insane idiot with a computer. government\nbankrupts everything it touches. ok, i'm done. the government in the\nus for the last four years has been on the extreme far right, but you\nare attacking the left for god only knows what stupid reason, and\ntrying to make some kind of ludicrous implication that all government\nis on the left. you're a mad stupid idiot and we all would like it\nvery much if you would simply go away.",
+                    "path": "little -> nazi -> are -> you (x1), unwell -> nazi -> are -> you (x1), insane -> idiot -> 're -> you (x1), mad -> idiot -> 're -> you (x1), stupid -> idiot -> 're -> you (x1), "
+                },
+                {
+                    "comment": " she cares for the children- i am so touched! nobody cares what you\nthink because you are a corrupt idiot who would tell any lie to\ndenigrate the left and/or to make the right look good. three days ago\nyou laughed when i pointed out trump has been accused by over 25\ndifferent women of sexual assault (and 4 others of rape), and\ncontinued to deny there was any evidence even after i directed you to\ntrump's own public admittance of it. you're a corrupt, insanely biased\nmoron and frankly this planet needs a lot less people like you.",
+                    "path": "corrupt -> idiot -> are -> you (x2), corrupt -> moron -> 're -> you (x2), "
+                },
+                {
+                    "comment": " large corporations tripled that bill of 20 million yeah, but you\ndidn't spend it on the homeless, did you buddy? you spent it on\nunderage prostitutes at epstein's private parties. you're a corrupt,\ndirty little scumbag.",
+                    "path": "corrupt -> scumbag -> 're -> you (x2), little -> scumbag -> 're -> you (x1), dirty -> scumbag -> 're -> you (x1), "
+                }
+            ],
+            "attribute -> nominal subject": [
+                {
+                    "comment": " the keystone of the fascist doctrine is its conception of the state,\nof its essence, its functions, and its aims. for fascism the state is\nabsolute, individuals and groups relative. -benito mussolini he still\nhad communist sympathies, even if he might have denied it at once.\nbeing allied to hitler, and liking the communists or socialists was a\nno-no. we are socialists, we are enemies of today\u2019s capitalistic\neconomic system for the exploitation of the economically weak, with\nits unfair salaries, with its unseemly evaluation of a human being\naccording to wealth and property instead of responsibility and\nperformance, and we are determined to destroy this system under all\nconditions. -adolf hitler as socialists, we are opponents of the jews,\nbecause we see, in the hebrews, the incarnation of capitalism, of the\nmisuse of the nation\u2019s goods. -josef goebbels maybe if mussolini's\nfacism didn't like the socialists, hitler's sure did copy after them.",
+                    "path": "enemy -> are -> we (x3), socialist -> are -> we (x1), opponent -> are -> we (x1), "
+                },
+                {
+                    "comment": " the liberal agenda can't be forwarded without lying, period. when\nobama told joe the plumber that he wanted to \"spread the wealth\naround\" then denied he meant what he said, would be a perfect example.\nobama said he wouldn't raise taxes on the middle class and then\nunloaded obamacare on the nation; it was the biggest tax bomb on the\nnation since lbj and fdr. when he said if you like your plan and\ndoctor, you can keep them, it was a lie. when he said obamacare would\nsave you money, it was a lie. when they said benghazi was a result of\na video, it was a lie.... lying is what they do because telling the\ntruth is not a part of the equation for being a democrat.",
+                    "path": "lie -> wa -> it (x3), bomb -> wa -> it (x1), "
+                },
+                {
+                    "comment": " he has. he has said jihadism. jihadism is radical muslim terrorism.\nso this idea that \"obama won't admit it's islamic terrorism\" is just\nflat out fucking wrong. he's discussed islamic terrorism at nausium.\nso i ask you again what is your fucking point? even if he refused to\nsay it was islamic terrorism what is your fucking point? if he doesn't\nsay it he must not be against it? but we know that's not true because\nhe clearly is against it because he's bombing the fuck out of\nterrorists. so i ask for the 3rd time what's your fucking point?",
+                    "path": "terrorism -> 's -> it (x2), terrorism -> wa -> it (x2), "
+                },
+                {
+                    "comment": " the 28-year-old islamist terrorist who was shot dead by police after\nmurdering two people on london bridge last friday swore in a bbc\nreport nearly a dozen years ago that he was not a terrorist. are you\nliterally stupid? he wasn't a terrorist twelve years ago. what the\nhell is it about idiot republicans that they don't understand how time\nworks?",
+                    "path": "terrorist -> wa -> he (x4), "
+                },
+                {
+                    "comment": " we just witness what these extremists think of the middle class hard\nworking americans. you just got a taste of their eletist arrogance. as\nyou see, democrats will defend her no matter how pathetic she is.\nshe's a criminal! she commited perjury in a court of law during her\nbenghazi hearings! she's a criminal and still these morons will vote\nfor her! it matters not how many sickening statements she makes\nbecause democrats have become an extremist party whereby keeping power\nand pushing through their socialistic transformation of america is all\nthat ,matters!",
+                    "path": "criminal -> 's -> she (x4), "
+                }
+            ],
+            "adjectival complement -> nominal subject": [
+                {
+                    "comment": " ha - you mean those big 4th grade math terms? yes. i mean the terms\nyou dropped to try to disguise the fact i just busted you for not\nknowing that a fraction is the same thing as a division. those terms.\nyou're insane and that's just a fact. you lack the ability to admit\nwhen you are wrong and it is absolutely pathetic. the main fault in\nyour argument is that you think this: 15-1(4) is calculated in a\ndifferent order than this: 15-2(4) not \"think\". i've shown you\nnumerous different examples explaining why. your second example does\nnot necessitate an implied parenthesis because the equation is already\nthe simplest version of itself. the first equation is not the simplest\nversion of itself, hence there must be an implied parenthesis. like i\nsaid, it isn't rocket science. you just don't want to listen because\nyou're equal parts stubborn and thick.",
+                    "path": "pathetic -> is -> it (x2), insane -> 're -> you (x1), wrong -> are -> you (x1), "
+                },
+                {
+                    "comment": " certainly didn't. i don't pass such childish moral judgements. unless\nyou can find sufficient context for it, that's merely your repressed\nopinion you are trying to push on me. it's childish to say a guy who\nkilled millions of people was bad? this just further proves you think\nhe did nothing wrong. of course not. unless you can remember the\nthings you say, that's what it might seem like, but i can't help your\nmemory without contradicting myself that i won't be holding your\nfinger to such little things again in this conversation. you've\nalready exhausted that. if you think this makes any sense you are\ndefinitely retarded. that were right, it might be. not even an attempt\nto show how it's wrong. that's the only sane thing you have done.",
+                    "path": "retarded -> are -> you (x2), childish -> 's -> it (x1), wrong -> 's -> it (x1), "
+                },
+                {
+                    "comment": " he's a democratic socialist. many people assume that just means\n\"socialist\" and right off the \"democratic\" part of it (or how\nmassively that changes the entire system). i don't know. he has been\nin office for a very long time. i am starting to think he is\nunderrated. yeah, in vermont. don't get me wrong, i absolutely love\nthe guy. he isn't right on everything, but he is right on a lot of\nthings, he isn't particularly corrupt to my knowledge, and he has that\ndelightful likability of an old cranky man who seems perpetually angry\nwithout the old-school racism that tends to accompany it. i definitely\nthink he is underrated. i just don't think that he has characteristics\nthat are often appealing in a general election. who knows, maybe i'm\nwrong. hopefully i'm wrong. i'd take him over any of the corrupt\ncareer politicians and abject morons running for president on either\nside.",
+                    "path": "corrupt -> is -> he (x2), wrong -> 'm -> i (x2), "
+                },
+                {
+                    "comment": " huckabee is either nuts or an act. i am pretty sure he is only\nrunning to garner publicity for his next book/job. walker has no idea\nhow to make policy or lead. he is also kind of extremist and i don't\nmean very conservative. cruz is just cruz. none of those three can\nbeat hilary in a debate. the only one with a chance would be rubio. he\nactually understands policy and legislative consequences. he is not\ncharismatic enough to win a debate (or the primary/general), but he is\nsmart enough. \"obama backlash\" is just spin. you should probably look\nup midterm election trends regarding the executive office. history and\ndata trumps all punditry.",
+                    "path": "extremist -> is -> he (x2), conservative -> mean -> i (x1), charismatic -> is -> he (x1), "
+                },
+                {
+                    "comment": " i was an employer for 26 years and can tell you that you're talking\nbullshit. where i come from it is illegal to require job applicants to\ndisclose any convictions for political crimes, i.e. terrorism\noffenses. it is also illegal to terminate their employment if such\ninformation comes to light. hello m: i've been an employer too, and in\nliberal states no less.. there are a few protected classes of people\nincluding: race. color. national origin. religion. sex (including\npregnancy, childbirth, and related medical conditions) disability. age\n(40 and older) citizenship status. genetic information. and, as of\nlast week, sexual orientation. felons are not among them.. they're\njust not.. it would be stupid to be required to hire a bank robber as\na teller in your bank. libs ain't stupid.. excon",
+                    "path": "illegal -> is -> it (x2), stupid -> be -> it (x1), "
+                }
+            ],
+            "adverbial modifier -> nominal subject": [
+                {
+                    "comment": " yes nancy it is all about where people enter this country...through a\ndesignated entry point legally versus across any stretch\nillegally...that is the point of a wall...really is there anyone\nserving our nation in dc that is this dumb?",
+                    "path": "illegally -> is -> it (x2), "
+                },
+                {
+                    "comment": " yes, they definitely check in with their main stream media daily.\nthey all use the same talking points. they can't figure out why they\nare suppose to constantly ridicule christianity, yet never say a bad\nthing about islam, which is a religion that is actually violent\ntowards gays and women. have you noticed their regurgitated response\nwhen we ask them why? they always say we don't like islam either.\nfunny how they supposedly do not like islam either, but hardly ever\ninsult that religion. funny how they always take the side of muslims\nover jews, christians, etc. like you say, they are useful pawns\nregurgitating what they hear on liberal media.",
+                    "path": "either -> like -> we (x1), either -> like -> they (x1), "
+                },
+                {
+                    "comment": " the progressives are continually aggravated and nothing makes them\nhappy ! quoting the progressive cartman makes it pretty plain to see -\n\"you dumb fuck. religion is resistant to science, not the other way\naround.\" quoting the progressive dermot makes it again pretty plain to\nsee -\"oh you poor child how clever of you to edit your original post\nwhich i have posted earlier ..... bing bang :) :) cartman is right\nyou're a dumb fuck :) quoting the progressive dermot -\" no , you\nexposed nothing except your ignorance on what is true , and if you\nwant evidence look at your own country where a fair percentage of your\npopulation dismiss evolution and global warming as nonsense which\nleaves a fair chunk of americans aligned in their viewpoint with saudi\narabia and turkey , how fucking embarrassing is that ? the\nprogressives have to use the f bomb when they have nothing left !\nexposure is just to easy !",
+                    "path": "pretty -> plain -> it (x2), "
+                },
+                {
+                    "comment": " it's right there. i think everyone can see exactly what it says. your\ncondescension is not lost on me. i find it pretty absurd coming from\nyou, a person that believes in talking snakes, and people coming back\nfrom the dead. i'm not going to repeat myself. your assertion is that\n\"but have not love\" means \"showing love\", which makes no sense to me.\nanyone else want to chime in?",
+                    "path": "pretty -> absurd -> it (x2), "
+                },
+                {
+                    "comment": " neuhardt is facing an issue regarding an immigrant child she has\ncared for as a member of her family since he left rwanda at the age of\n11. he is currently 26. it is almost amusing to listen to the views of\nhim expressed by the two opposite sides on this argument. on the one\nhand, he is called a hardworking, intelligent, ambitious and law\nabiding person, the type who would be expected to provide positive\ncontributions to american society. on the other hand he has several\ntraffic violations for driving without a license and has judgments\nagainst him for money owed to several credit companies and the state\nof ohio. plus he spent at least a year of his stay here illegally.\nmost recently he was charged with drunk and disorderly. this story was\ncovered in the dayton paper and it remains to be seen whether it\nbecomes an issue in the campaign.",
+                    "path": "illegally -> spent -> he (x2), "
+                }
+            ],
+            "adjectival modifier -> direct object -> nominal subject": [
+                {
+                    "comment": " holy fucking christ will you stop asserting that i'm pro-islam. and\nsure there's reasons why. he had severe mental health issues and a\ntendency toward violence. he also probably had internal conflict with\nhis religion and sexual orientation. islam taught him being gay was\nhorrible and evil, but he had gay feelings. so he had this internal\nstruggle of being gay but knowing that was wrong plus he had mental\nhealth issues and violent tendencies. that's a recipe for this kind of\nthing. him killing the gay people in that bar was an attempt to kill\nthe gay part in himself. at least that's how i see it. we may never\nknow exactly why but i don't think that's a bad theory",
+                    "path": "severe -> issue -> had -> he (x2), mental -> issue -> had -> he (x2), gay -> feeling -> had -> he (x1), gay -> people -> killing -> him (x1), "
+                },
+                {
+                    "comment": " you don't have the remotest notion about the circumstances which led\nto president trump and his top military people to make the decision\nthey did. and neither do you, you stupid worthless hypocrite. a bit\nironic then for you to arbitrarily label it a \"timely preemptive\naction\", and then ten minutes later admit you haven't got the first\nfucking clue what happened. you are as false as people actually get.\neverything you write is an effort to arse-nose either the british or\nthe american government, to the point that it is actually cringeworthy\nreading your insane pseudo-language, where the terms \"right wing\" and\n\"fault\" aren't permitted to be used in the same sentence.",
+                    "path": "stupid -> hypocrite -> do -> you (x2), worthless -> hypocrite -> do -> you (x2), fucking -> clue -> got -> you (x1), "
+                },
+                {
+                    "comment": " there are different kinds of crazy and i clarified which one she was.\nyou modified your description of her as crazy and hence you should\nhave used an adverb , you pointlessly stupid little twat. you're\nliterally a goddamned moron and i would like very much if you would\nshut your stupid face now please.",
+                    "path": "stupid -> twat -> used -> you (x1), little -> twat -> used -> you (x1), stupid -> face -> shut -> you (x1), "
+                },
+                {
+                    "comment": " the rich democrat hypocrites who fly around on jets are telling us we\ncan no longer enjoy drive thru's? lol, what sick hypocritical elites\nthey are, trying to hurt the little people while they constantly fly\naround on polluting jets.",
+                    "path": "sick -> elite -> are -> they (x2), hypocritical -> elite -> are -> they (x1), "
+                },
+                {
+                    "comment": " governor blackface gun grabber is not going to be happy at all.\ngovernor blackface has no need to get the guns off the streets because\nas a leftist he supports criminal activity.",
+                    "path": "criminal -> activity -> support -> he (x2), "
+                }
+            ]
+        },
+        "intentional": {
+            "direct object -> nominal subject": [
+                {
+                    "comment": " how then do you explain the laws that we have - laws which make the\nillegal killing of a child in the womb a crime of murder ?",
+                    "path": "law -> explain -> you (x3), law -> have -> we (x3), crime -> have -> we (x2), "
+                },
+                {
+                    "comment": " how then do you explain the laws that we have - laws which make the\nillegal killing of a child in the womb a crime of murder ?",
+                    "path": "law -> explain -> you (x3), law -> have -> we (x3), crime -> have -> we (x2), "
+                },
+                {
+                    "comment": " depends on how fucked up the religious freedom you are asking for is.\nif you want sharia law, then no, that religious freedom is not\nallowed. why do you want sharia law?",
+                    "path": "law -> want -> you (x6), "
+                },
+                {
+                    "comment": " you and the left must worship alcohol, because you are not screaming\nfor background checks on past dwi drivers in pubic places selling\nalcohol. don't you care for the lives of children killed by drunk\ndrivers? why are guns your only weapon to be outraged against? do you\nworship alcohol or would you like big government doing a background\ncheck on you every time you buy alcohol.",
+                    "path": "alcohol -> worship -> you (x2), government -> like -> you (x1), alcohol -> buy -> you (x1), "
+                },
+                {
+                    "comment": " sen. dianne feinstein (d., calif.), who sits on the senate\nintelligence committee, said she had seen no evidence of collusion\nbetween president donald trump's associates and russia during the 2016\ncampaign. cnn host wolf blitzer recalled feinstein previously saying\nshe hadn't seen any evidence of collusion and asked her on thursday:\n\"has anything changed since we spoke last?\" \"no it hasn't,\" feinstein\nresponded on blitzer's show \"situation room.\" feinstein touted newly-\nnamed special counsel robert mueller as \"sophisticated.\" blitzer\nresponded by continuing to press her on whether she saw any evidence\nof collusion. \"i just want to be precise senator\u2026 all the access\nyou've had to very sensitive information. so far, you've not seen any\nevidence of collusion. is that right?\" he asked. \"well, evidence that\nwould establish that there's collusion,\" feinstein said before citing\n\"rumors\" and \"newspaper stories\" apparently suggesting collusion",
+                    "path": "evidence -> seen -> she (x2), evidence -> saw -> she (x1), evidence -> seen -> you (x1), "
+                }
+            ],
+            "direct object -> adverbial clause modifier -> nominal subject": [
+                {
+                    "comment": " i'm promoting preventing the rape. you help cause the rape. no moral\nhighground there. hello again, g: let's be clear.. if you had your\nway, a female illegal alien cannot report her rape unless she's\nwilling to get deported.. in the real world, that means she cannot and\nwillnot report her rape. do you not think her local rapist knows\nthat?? dude! she might as well wear a sign around her neck saying rape\nme.. i can't tell anybody.. dude! excon",
+                    "path": "rape -> report -> had -> you (x2), rape -> report -> 's -> she (x2), rape -> saying -> wear -> she (x2), "
+                },
+                {
+                    "comment": " of coourse the government would support the murder, of unborn,\nchildren................. ahahahahahaha! so if you believe trump and\nhis government are leading a conspiracy to kill unborn children which\nextends to them falsifying entries in the national medical library,\nwhy did you vote for them? \ud83d\ude06 nevermind dana. let's just end this\nconversation. have a nice day.",
+                    "path": "conspiracy -> leading -> believe -> you (x2), conspiracy -> leading -> vote -> you (x2), "
+                },
+                {
+                    "comment": " no need to charge that individual with murder just the suspicion of\nmurder. murder is the intentional killing of a person. you can't\ncharge someone with murder unless you have evidence they had the\nintent to kill. in this instance it appears there was no intent to\nkill; only to illegally transport the victims into the uk. if the\ndriver gets charged, he will almost certainly be charged with\nmanslaughter and not murder. under british law, manslaughter is\neffectively the killing of a person through negligence or misconduct.\nmanslaughter is usually what drunk drivers get charged with when they\nkill someone. it can carry a penalty comparable to murder in the right\ncircumstances, but it is not murder.",
+                    "path": "victim -> transport -> appears -> it (x3), evidence -> have -> charge -> you (x1), "
+                },
+                {
+                    "comment": " let's be clear.. if you had your way, a female illegal alien cannot\nreport her rape unless she's willing to get deported.. doesn't matter\nwhat she's willing to do. her being here illegally and being\ndeportable is her problem. if she wants to report a rape, then the\nrapist has a problem too. in the real world, that means she cannot and\nwillnot report her rape. life's a bitch. especially when you wander\ninto foreign countries illegaly.",
+                    "path": "rape -> report -> had -> you (x2), rape -> report -> 's -> she (x2), "
+                },
+                {
+                    "comment": " if john trump can do it, why shouldn't benny be able too??? aw, shit,\n\u2026. i forgot, benny isn't allowed to shoot someone on broadway (or\nanywhere else), and nobody would care. the john has the right to break\nany u.s. law or constitutional rule. benny is more like obama and\nhillary \u2026 they have to follow the law (cause they're black, female or\nrunning against the john). besides, they no longer have a built-in ag\npuppet. things have changed since we had a constitutional law\nprofessor in the white house that told his people: \"i may be your\nboss, but, you work for the american people.\" the john says \"you work\nfor me! now sign this confidentiality agreement!\" (or i'll meet you on\nbroadway)! 'course, he didn't \"specifically say\" that last part, but,\nlike the ukrainians, it was understood! absolutly understood! we've\nhad some brave americans stand up to his threats, it would be nice if\nwe could get a brave ukrainian (with credibility), or two, that wasn't\nworried about \"violence against opponents\" that has come from \"the\njohn\"!",
+                    "path": "law -> follow -> 're -> they (x3), "
+                }
+            ],
+            "clausal complement -> nominal subject": [
+                {
+                    "comment": " you are not welcome on my debates until you admit you slandered me\nwhen you said i was not raped, you said i was a rapist, you alleged i\nam a domestic terrorist, have alleged i came to your house to molest\nyou. all of this was a lie, and you will not post on my debates, until\nyou admit the truth, get help, and sing i feel pretty, whi;e wearing a\nclown costume.",
+                    "path": "raped -> said -> you (x1), alleged -> said -> you (x1), alleged -> am -> i (x1), alleged -> came -> i (x1), "
+                },
+                {
+                    "comment": " yes you constantly make mistakes you said bleek so why are you\ntelling me about someone's dreams sane because ?? what does that mean\nyou said a man dreamed of god i said a man dreamed of a unicorn ...\nyour point is ? your next point makes no sense that's all you do tell\nanyone who disagrees with you you're stupid thank you for the armchair\ncharacter assessment that's from someone who hates everyone as in you\n\ud83d\udc4c why would i want respect of you \ud83d\ude02 wrong again from day one you\ncalled me a white pig also why do you fight with everyone on cd and\nnever make an argument ? i told you before if you stop making comments\non my posts you will be left alone ,do you listen no , yesterday once\nagain you called me an abortionist and you think i won't retaliate .\nthe rest of your rant makes no sense and why are you assuming what age\n,colour , and race i am ? now one last time are you going to stay away\nor do you want to keep on pushing ?",
+                    "path": "fight -> want -> i (x2), mean -> said -> you (x1), wrong -> want -> i (x1), "
+                },
+                {
+                    "comment": " hello d: i read the 1st amendment.. it doesn't say anything about\nloosing your right to free speech when you're in the presence of a\ngovernment official... i remember congressman joe barton yelling out\n\"you lie\" during an obama speech.. they didn't prosecute him.. hmmm...\ni wonder if i lose my right to free speech if i say jeff sessions is a\npiece of shit... uh oh... i hear a loud knocking on my door.. excon",
+                    "path": "lie -> remember -> i (x1), lose -> wonder -> i (x1), prosecute -> wonder -> i (x1), "
+                },
+                {
+                    "comment": " black democrat jew at least you are not white because you said you\nwould kill yourself if you were white.",
+                    "path": "kill -> said -> you (x3), "
+                },
+                {
+                    "comment": " maybe they don't, but i am referring to someone who does. you can\nwant to be in charge. you can enjoy that position, but that doesn't\nnecessarily mean you seek domination. can you tell me what it does\nmean, then? whether a person enjoys their job; even a supervisory\nposition is not what is asked about. maybe, we need to get specific.\nwhen a person does seek to dominate they are seeking power over\nothers. the definition even speaks to it quoted from dictionary.com:\n1. to control, rule, or govern (someone or something) yet, even if a\nperson is hired for a leadership role, they still have to give good\nreason that others should listen. this can be done by either brute\nforce, i.e. using threats of violence or flat out attacking, or giving\nsome incentive; the latter could simply be an example through actions.\nit boils down to attitude, though not that alone. by seeking\nleadership, i meant seeking to fill that role. okay, i thought so, but\nwanted to be sure. the definition is toward the bottom under world\nenglish dictionary. there is a similar one given first as well.",
+                    "path": "mean -> seek -> you (x1), mean -> tell -> you (x1), dominate -> seeking -> they (x1), "
+                }
+            ],
+            "adjectival complement -> nominal subject": [
+                {
+                    "comment": " they tell you exactly how they are different no, they give an example\nof how they are different. you are quite simply barking mad. nowhere\ndoes it say that this is exclusively the only way they are different.\nyou did exactly the same thing when i proved you wrong with the use of\nan example. you tried to pretend it was an exclusive rule rather than\nadmit you are wrong. it's pathetic.",
+                    "path": "pathetic -> 's -> it (x2), mad -> barking -> you (x1), wrong -> are -> you (x1), "
+                },
+                {
+                    "comment": " it is the highest compliment to know i have brought joy to the life\nof someone as perpetually miserable as yourself. you bring joy to my\nlife because you are insane and it's funny reading your insane\nconspiracy theories. like the one about how i'm \"perpetually\nmiserable\" and the one where you repeatedly accuse me of being some\nrandom guy called ramshutu. the reality is that you're funny because\nyou're an idiot. you're so much of an idiot that you think being an\nidiot is a compliment.",
+                    "path": "insane -> are -> you (x1), funny -> 's -> it (x1), miserable -> 'm -> i (x1), funny -> 're -> you (x1), "
+                },
+                {
+                    "comment": " it's ethical beyond a shadow of a doubt. it's unethical to\ndiscriminate due to something that is integral to the person, and not\na matter of choice. if anyone really thinks it's a matter of choice,\ntry it yourself - if you are a straight man, how many men do you find\nsexually attractive?",
+                    "path": "attractive -> find -> you (x2), ethical -> 's -> it (x1), unethical -> 's -> it (x1), "
+                },
+                {
+                    "comment": " strozk wanted to continue and went after him with the intent to set\nflynn up in a perjury trap. hello high: couple things.. the other day,\ni posted that a prosecutor/cop has the legal right to lie to get a\nconfession... in flynn's case it worked. he plead guilty.. plus, he\ncopped to other crimes that were dropped because he plead guilty to\nperjury. what strozk did or didn't do is academic because flynn copped\nto doing it.. at that point in time, flynn became a convicted felon.\nthe executive branch's work was over, and the judicial branch's work\nwas just beginning.. dropping the charges doesn't change the guilty\nplea.. indeed, irrespective of what barr did yesterday, today flynn is\nstill a convicted felon.. so, the question is, what will the judge do\nabout it. he has a guilty plea in his lap.. is he gonna shitcan it?\nnahh.. i'm also wondering what he'll do with the other charges flynn\nadmitted to but were dropped because he plead guilty.. i think he'll\nput flynn's ass in the pokey. of course, trump will then pardon him.\nexcon",
+                    "path": "guilty -> plead -> he (x3), "
+                },
+                {
+                    "comment": " that's so funny. the current occupier of the white house lies 11000\ntimes (and counting), and andrew mccabe of the fbi is called a liar by\nthose who \"worship\" thee liar of the century! has the right gone\nbatshit crazy or what??? if i was outlaw, i'd be lmmfao!!!!!!!!!!!!! ,\nbut it's not even funny! :-(unless you think about it ;-)",
+                    "path": "outlaw -> wa -> i (x2), funny -> 's -> it (x1), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> nominal subject (passive)": [
+                {
+                    "comment": " \"rule of law\" is not \"without rule\". for laws to actually exist they\nmust be defined and enforceable. no one said anything to the contrary.\nthe root meaning of the word \"anarchy\" means without ruler(s). not\n\"without rule\" as you put it. here is a link to provide a bit of\nperspective to what some 'anarchists' argue; the author is a proponent\nof, what he refers to as 'market anarchism'.",
+                    "path": "law -> for -> defined -> they (x3), "
+                },
+                {
+                    "comment": " under federal law, they are only required to take religion into\naccount if the person requesting asylum is doing so based on religious\npersecution according to the citations you provided.",
+                    "path": "law -> under -> required -> they (x3), "
+                },
+                {
+                    "comment": " under federal law, they are only required to take religion into\naccount if the person requesting asylum is doing so based on religious\npersecution according to the citations you provided.",
+                    "path": "law -> under -> required -> they (x3), "
+                },
+                {
+                    "comment": " under federal law, they are only required to take religion into\naccount if the person requesting asylum is doing so based on religious\npersecution according to the citations you provided.",
+                    "path": "law -> under -> required -> they (x3), "
+                },
+                {
+                    "comment": " under federal law, they are only required to take religion into\naccount if the person requesting asylum is doing so based on religious\npersecution according to the citations you provided.",
+                    "path": "law -> under -> required -> they (x3), "
+                }
+            ]
+        },
+        "appeal to emotion": {
+            "nominal subject": [
+                {
+                    "comment": " but it would definitely kill the baby. it is killing someone else\nbecause another person does not want it.",
+                    "path": "kill -> it (x3), killing -> it (x2), "
+                },
+                {
+                    "comment": " hay marxist you better hope the ccp virus takes you because if it\ndoes not then you will die from lead poisoning and that is a promise.",
+                    "path": "die -> it (x2), die -> you (x2), "
+                },
+                {
+                    "comment": " hay marxist you better hope the ccp virus takes you because if it\ndoes not then you will die from lead poisoning and that is a promise.\nlol!!! looking for beef are we? you'd better go find your teeth\ngrandpa, otherwise this here rump steak is gonna be trouble to\nchew!!!!",
+                    "path": "die -> it (x2), die -> you (x2), "
+                },
+                {
+                    "comment": " reality is that you are dying and need to be saved. you think you\ndon't need to be saved, so you smoke your brains up trying to convince\nyourself that you are ok. your grip on reality is weaker than your\ngrip on that stupid stick of weed which is burning down, and if you\ndon't wake up before it burns you too badly, you will wake up burning\nin the hell you say that you prefer over god's goodness but are too\nmuch of a coward to ask me to pray that god give you what you really\nwant. i don't care if weed is legal or not. it's stupid to indulge in\nthe junk. some people just beat their head against the wall until they\nsee stars, then they feel better. what they do is no different than\nwhat you are doing with weed. you are looney tunes. your grip on\nreality is nothing more than your grip on the smoke messing up your\nmind.",
+                    "path": "dying -> you (x1), smoke -> you (x1), care -> i (x1), feel -> they (x1), "
+                },
+                {
+                    "comment": " i would kill myself.... but that's just me..... don't go taking my\nadvise ;)",
+                    "path": "kill -> i (x3), "
+                }
+            ],
+            "direct object": [
+                {
+                    "comment": " if all your \"reasoning\" here is any indicator, then i'd rather not\ntest out your moral judgements. of course not. my reasoning destroys\nyours and you have no morality. people like you hate losing battles.\nas long as i don't want it doesn't matter what you say you want, you\nchange your mind all the time. otherwise, if you still do want to\ndefend it, then we can do that. it didn't really matter what i want.\nyou are far too cowardly to attack it.",
+                    "path": "defend -> it (x2), attack -> it (x2), "
+                },
+                {
+                    "comment": " democrat stay away from them there uv rays cuz they gonna kill ya\nthere jim.",
+                    "path": "kill -> ya (x3), "
+                },
+                {
+                    "comment": " oh i think i get it we will all be dead by way of the red china virus\nbefore climate chaos kills us all. what you think there democrats ?",
+                    "path": "kill -> u (x3), "
+                },
+                {
+                    "comment": " i would kill myself.... but that's just me..... don't go taking my\nadvise ;)",
+                    "path": "kill -> myself (x3), "
+                },
+                {
+                    "comment": " i hope we go to war with those barbarians. kill em - less global\npollution. they r 1/3 population",
+                    "path": "kill -> em (x3), "
+                }
+            ],
+            "conjunct -> direct object": [
+                {
+                    "comment": " the left thinks ms-13 needs a hug so they will like us and not kill,\ndecapitate and dismember us. kumbaya, baby!",
+                    "path": "kill -> like -> u (x3), "
+                },
+                {
+                    "comment": " i am going to to curse you and torture you with tantric voodoo i am\ngoing to cut out your fucking throat and hand it to you i am going to\nshit on you with a most expansive poopoo and spread out your ass hole\nto put the whole planet through you",
+                    "path": "torture -> curse -> you (x2), cut -> hand -> it (x1), "
+                },
+                {
+                    "comment": " well, if you think death exonerates you and you think god has no\nright to kill you and leave you in hell forever, that's just too bad\nfor you, isn't it?",
+                    "path": "kill -> leave -> you (x3), "
+                },
+                {
+                    "comment": "republicans are done. all they've done the last eight years is dig us\nfurther in to debt, kill thousands of our brave young men and women\nover a thinly veiled disguise of \"terrorism\", sit idly and watch a\nhousing boom and bust, and drive the economy in to a period of\nstagflation. read the article below if you don't agree.",
+                    "path": "kill -> dig -> u (x3), "
+                },
+                {
+                    "comment": " face it, outlaw, to you anyone with a heart or compassion for\nanything but, maybe, the second amendment or the impotus, is \"off the\nchain crazy\"! ( oh, and some of \"trumps favorite things\"! ;-) (which\nmakes you \"off the chain crazy! ;-)",
+                    "path": "outlaw -> face -> it (x2), "
+                }
+            ],
+            "conjunct -> nominal subject": [
+                {
+                    "comment": " you can't defend your president calling you lazy you just accept it\nbut you will seal clap for the politician that attacks you. democrats\naren't to bright and you are proof they aren't.",
+                    "path": "defend -> accept -> you (x2), defend -> seal -> you (x2), "
+                },
+                {
+                    "comment": " the left thinks ms-13 needs a hug so they will like us and not kill,\ndecapitate and dismember us. kumbaya, baby!",
+                    "path": "kill -> like -> they (x3), "
+                },
+                {
+                    "comment": " and another, this time jesus himself criticises his compatriots for\nnot putting their children to death, as per old testament law:-\n\u201cwhoever curses father or mother shall die\u201d (mark 7:10 nab) and he\nsays the same thing to the pharisee here:- \u201che that curseth father or\nmother, let him die the death.\u201d (matthew 15:4-7) he's mocking the\npharisees, who are jews, who believe themselves bound to the law of\nmoses, because they are trying to hold him to the law of moses while\nthey themselves do not apply it. he's pointing out their hypocrisy for\ncondemning him for ignoring it. of course he's ignoring it because\nhe's the messiah and does not need the law of moses or even care. he's\nbringing in a new testament, and a new law. his law.",
+                    "path": "law -> bringing -> he (x3), "
+                },
+                {
+                    "comment": " down voters why don't you step up and fight. are you scared.",
+                    "path": "fight -> step -> you (x2), "
+                },
+                {
+                    "comment": " if we protect our self with viloence we will not prosper we must push\nand fight with out violence",
+                    "path": "fight -> push -> we (x2), "
+                }
+            ],
+            "object of preposition -> prepositional modifier -> nominal subject": [
+                {
+                    "comment": " last week, murphy responded to an outcry from the physically disabled\npatrons who are disappointed with the dirty inconvenient public\ntransportation system in new britain, ct. accepting an invite from one\nof his constituents, murphy rode a new britain transportation co. bus\nfrom bank street to farmington and concluded that the bus's age and\nlack of amenities were indeed problems, which require federal\namending. murphy: \u201cit\u2019s great to have firsthand experience, seeing the\nproblems we have with local buses. this way i can press the case for\nmore federal funding.\u201d murphy insists that since the economic stimulus\npackage will not go into effect for another few weeks, emphasis should\nalso be put on transportation renewal. the buses should be replaced\nevery ten years, but the 12 year state mandate freezes funding until\nthe buses are almost completely run down. murphy has vowed to do what\nhe can in congress to shorten the cycle to ten years, but is concerned\nthat the limited funds provided by the stimulus package ( $38.9\nmillion is available only to \u201curbanized areas\u201d \u2013 those with more than\n50,000 people ) will keep the seriously underfunded transportation\nsystem from receiving adequate attention.",
+                    "path": "funding -> for -> press -> i (x3), congress -> in -> can -> he (x1), "
+                },
+                {
+                    "comment": " politics is flawed. but i must abide by the law because\notherwise=jail= unhappiness experienced by myself. long story short-\nenvironmentalist.",
+                    "path": "law -> by -> abide -> i (x3), "
+                },
+                {
+                    "comment": " thanks \ud83d\udc4ci\u2019m necking a cold one myself i have reported your\nnecrophilia to the relevant authorities you disgusting irish pig.",
+                    "path": "authority -> to -> reported -> i (x3), "
+                },
+                {
+                    "comment": " okay so you have it before you die but i have to wait till i'm dead?\nhow is that fair? also if you have it then provide it. otherwise i\nsimply don't believe you. so i'm not allowed to ask for proof until\ni'm already in hell then that's my proof? again what is fair about\nthat? what if you were arrested and you know you're inoccent but they\nsay \"you'll get the proof\". then you wind up in prison and they say\n\"there's your proof. see? you were guilty\". that's horribly unjust.\nthat's so unjust it's laughable. if a god exists then it's not your\ngod. if a god exists it's a being that would have a more nuanced and\ncomplete view of justice than your idiot god.",
+                    "path": "prison -> in -> wind -> you (x2), hell -> in -> 'm -> i (x1), "
+                },
+                {
+                    "comment": " option 3 my fellow english men and colonist, as men of this new world\nwe must rise against the tyranny that has been plaguing this new\nworld. we where given this land by our great king, yet are being taxed\nby a form of govt that dose not let us have our say against the taxes\nbestowed on us, we must fight for our right to the land that was given\nto us by our great king and must ask him to take back the power of\nthis great land and let us import our own choices of spices and goods,\nwe where given the right by the king not parliament so we should rise\nagainst parliament with out war and take back our rights given to us\nby our english king. if you love you family, county, and freedom then\nyou should come with this movement for freedom from parliament",
+                    "path": "tyranny -> against -> rise -> we (x1), parliament -> against -> rise -> we (x1), war -> with -> rise -> we (x1), "
+                }
+            ]
+        }
+    }
+}
